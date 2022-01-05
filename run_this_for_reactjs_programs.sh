@@ -10,9 +10,9 @@ function FUNC_CREATE_REACTJS_PROJECT () {
     npx create-react-app "$react_app_name" ;
     echo ">> REACT-JS app created. Contents of app folder listed below ..." ; 
     ls -al "$WORKDIR/$react_app_name" ; 
-    echo ">> CD'ing to the app folder ..." ; 
-    cd $WORKDIR/$react_app_name ; 
-    echo "** Current PWD = $(pwd) **" ; 
+    #echo ">> CD'ing to the app folder ..." ; 
+    #cd $WORKDIR/$react_app_name ; 
+    #echo "** Current PWD = $(pwd) **" ; 
 }
 ##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
