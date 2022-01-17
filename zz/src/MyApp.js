@@ -2,7 +2,7 @@ import React from 'react' ;
 import * as rssParser from 'react-native-rss-parser' ;
  
 /* ==================================================== */
-class MyApp extends React.Component {
+class MyAppSingleFeed extends React.Component {
   constructor() {
     super();
     this.state = {
@@ -13,7 +13,10 @@ class MyApp extends React.Component {
   }
 
   getFeedItemsFromUrl() {
-    return fetch('https://www.leelasrecipes.com/index.xml')
+    // const feedurl = 'https://www.leelasrecipes.com/index.xml' ; 
+    const feedurl = this.props.feedurl ; 
+    console.log('MYFEED = ' + feedurl) ;
+    return fetch(feedurl) ;
   };
 
   componentDidMount() {
@@ -24,8 +27,9 @@ class MyApp extends React.Component {
       console.log(rss.title);
       console.log(rss.items.length);
       console.log(rss.items);
-      console.log(rss.items[10].title);
-      console.log(rss.items[11].id);
+      console.log(rss.items[0].title);
+      console.log(rss.items[0].id);
+      // setting state for all variables
       this.setState({ feedItems: rss.items }) ;
       this.setState({ feedLength: rss.items.length }) ;
       this.setState({ feedTitle: rss.title }) ;
@@ -35,8 +39,11 @@ class MyApp extends React.Component {
 
   printObjectElements(myitems1 = this.state.feedItems) {
     let rows = [] ; 
+    let count = 0; 
     for (let x in myitems1){
-      rows.push(<li key={myitems1[x].id}><a target='_blank' href={myitems1[x].id}>{myitems1[x].title}</a></li>) ;  
+      count++ ; 
+      if (count < 11) {
+      rows.push(<li key={myitems1[x].id}><a target='_blank' href={myitems1[x].id}>{myitems1[x].title}</a></li>) ;  }
     } 
     return <ul>{rows}</ul> ;
   } ; 
@@ -49,17 +56,26 @@ class MyApp extends React.Component {
     
     return (
       <div>
-        <div>{typeof(myOutput)}</div>
-        <div>{feedTitle} = {feedLength} posts</div>
-      <div>{printFullItemList}</div>
+        <div>{feedTitle} = (Showing last {feedLength} posts)</div>
+        <div>{printFullItemList}</div>
       </div> 
     ) ; 
   }
 }
 /* ==================================================== */
 
+const MyApp = () => {
+  return (
+    <div>
+      <h1>Latest RSS Feeds</h1>
+      <MyAppSingleFeed feedurl='https://www.leelasrecipes.com/index.xml' />
+      <MyAppSingleFeed feedurl='https://www.vegrecipesofindia.com/feed/' />
+      <MyAppSingleFeed feedurl='https://www.cookwithmanali.com/feed/' />
+      <MyAppSingleFeed feedurl='https://www.mygingergarlickitchen.com/index.xml' />
+    </div>
+  )
+}
+
+/* ==================================================== */
+
 export default MyApp
-
-
-
-
