@@ -1,6 +1,6 @@
 import React from 'react' ;
 
-import * as rssParser from 'react-native-rss-parser' ;
+import * as rssParser from '  ' ;
  
 class App extends React.component {
   constructor() {
