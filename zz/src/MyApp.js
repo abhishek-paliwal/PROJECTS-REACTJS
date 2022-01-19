@@ -29,6 +29,7 @@ class MyAppSingleFeed extends React.Component {
       console.log(rss.items);
       console.log(rss.items[0].title);
       console.log(rss.items[0].id);
+      console.log(rss.items[0].published);
       // setting state for all variables
       this.setState({ feedItems: rss.items }) ;
       this.setState({ feedLength: rss.items.length }) ;
@@ -43,7 +44,7 @@ class MyAppSingleFeed extends React.Component {
     for (let x in myitems1){
       count++ ; 
       if (count < 11) {
-      rows.push(<li key={myitems1[x].id}><a target='_blank' href={myitems1[x].id}>{myitems1[x].title}</a></li>) ;  }
+      rows.push(<li key={myitems1[x].id}>(Published: {myitems1[x].published})<br /><a target='_blank' href={myitems1[x].id}>{myitems1[x].title}</a></li>) ;  }
     } 
     return <ul>{rows}</ul> ;
   } ; 
@@ -56,7 +57,7 @@ class MyAppSingleFeed extends React.Component {
     
     return (
       <div>
-        <div>{feedTitle} = (Showing last {feedLength} posts)</div>
+        <h2>{feedTitle} = (Feed has {feedLength} posts)</h2>
         <div>{printFullItemList}</div>
       </div> 
     ) ; 
@@ -67,10 +68,14 @@ class MyAppSingleFeed extends React.Component {
 const MyApp = () => {
   return (
     <div>
-      <h1>Latest RSS Feeds</h1>
-      <MyAppSingleFeed feedurl='https://www.leelasrecipes.com/index.xml' />
-      <MyAppSingleFeed feedurl='https://www.vegrecipesofindia.com/feed/' />
+      <h1>Latest RSS Posts from Food Blogs</h1>
       <MyAppSingleFeed feedurl='https://www.cookwithmanali.com/feed/' />
+      <MyAppSingleFeed feedurl='https://www.vegrecipesofindia.com/feed/' />
+      <MyAppSingleFeed feedurl='https://hebbarskitchen.com/feed/' />
+      <MyAppSingleFeed feedurl='https://www.indianhealthyrecipes.com/feed/' />
+      <MyAppSingleFeed feedurl='https://www.whiskaffair.com/feed/' />
+      <MyAppSingleFeed feedurl='https://www.halfbakedharvest.com/feed/' />
+      <MyAppSingleFeed feedurl='https://www.leelasrecipes.com/index.xml' />
       <MyAppSingleFeed feedurl='https://www.mygingergarlickitchen.com/index.xml' />
     </div>
   )
