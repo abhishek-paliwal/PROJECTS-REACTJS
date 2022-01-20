@@ -83,6 +83,7 @@ const MyApp = () => {
       <MyAppSingleFeed feedurl='https://www.halfbakedharvest.com/feed/' />
       <MyAppSingleFeed feedurl='https://www.leelasrecipes.com/index.xml' />
       <MyAppSingleFeed feedurl='https://www.mygingergarlickitchen.com/index.xml' />
+      <MyAppSingleFeed feedurl='./data/mytest.xml' />
     </div>
   )
 }

@@ -1,5 +1,6 @@
 {
   "name": "app02-foodblogfeeds",
+  "proxy": "https://app02-foodblogfeeds.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
