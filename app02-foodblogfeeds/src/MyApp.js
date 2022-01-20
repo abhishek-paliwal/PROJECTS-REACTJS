@@ -15,7 +15,7 @@ class MyAppSingleFeed extends React.Component {
   getFeedItemsFromUrl() {
     // const feedurl = 'https://www.mygingergarlickitchen.com/index.xml' ; 
     const feedurl = this.props.feedurl ; 
-    console.log('MYFEED = ' + feedurl) ;
+    console.log('CURRENT_FEED = ' + feedurl) ;
     return fetch(feedurl) ;
   };
 
@@ -74,16 +74,15 @@ const MyApp = () => {
   return (
     <div className="row">
       <div className="col-12"><h1 className="display-5">Latest RSS Posts from Food Blogs</h1></div>
-      <MyAppSingleFeed 
-      feedurl='https://www.cookwithmanali.com/feed/' />
-      <MyAppSingleFeed feedurl='https://www.vegrecipesofindia.com/feed/' />
-      <MyAppSingleFeed feedurl='https://hebbarskitchen.com/feed/' />
-      <MyAppSingleFeed feedurl='https://www.indianhealthyrecipes.com/feed/' />
-      <MyAppSingleFeed feedurl='https://www.whiskaffair.com/feed/' />
-      <MyAppSingleFeed feedurl='https://www.halfbakedharvest.com/feed/' />
-      <MyAppSingleFeed feedurl='https://www.leelasrecipes.com/index.xml' />
-      <MyAppSingleFeed feedurl='https://www.mygingergarlickitchen.com/index.xml' />
-      <MyAppSingleFeed feedurl='./data/mytest.xml' />
+      <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_cookwithmanali.xml' />
+      <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_vegrecipesofindia.xml' />
+      <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_hebbarskitchen.xml' />
+      <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_indianhealthyrecipes.xml' />
+      <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_whiskaffair.xml' />
+      <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_halfbakedharvest.xml' />
+      <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_leelasrecipes.xml' />
+      <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_mygingergarlickitchen.xml' />
+      {/* <MyAppSingleFeed feedurl='./data/mytest.xml' /> */}
     </div>
   )
 }
