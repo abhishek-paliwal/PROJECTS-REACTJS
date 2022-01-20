@@ -44,7 +44,7 @@ class MyAppSingleFeed extends React.Component {
     for (let x in myitems1){
       count++ ; 
       if (count < 11) {
-      rows.push(<li key={myitems1[x].id}>(Published: {myitems1[x].published})<br /><a target='_blank' rel='noopener' href={myitems1[x].id}>{myitems1[x].title}</a></li>) ;  }
+      rows.push(<li key={myitems1[x].id}>Published: {myitems1[x].published}<br /><a target='_blank' rel='noopener' href={myitems1[x].id}><strong>{myitems1[x].title}</strong></a></li>) ;  }
     } 
     return <ul>{rows}</ul> ;
   } ; 
@@ -56,9 +56,9 @@ class MyAppSingleFeed extends React.Component {
     const printFullItemList = this.printObjectElements(myitems) ; 
     
     return (
-      <div className="col-4">        
+      <div className="col-sm-12 col-xs-12 col-md-6 col-lg-4 col-xl-4">        
         <div className="card text-dark bg-light mb-3">
-            <div className="card-header">(Feed has {feedLength} posts)</div>
+            <div className="card-header">Feed contains {feedLength} posts</div>
             <div className="card-body">
                 <h5 className="card-title">{feedTitle}</h5>
                 <div className="card-text">{printFullItemList}</div>
@@ -73,7 +73,7 @@ class MyAppSingleFeed extends React.Component {
 const MyApp = () => {
   return (
     <div className="row">
-      <div className="col-12"><h1>Latest RSS Posts from Food Blogs</h1></div>
+      <div className="col-12"><h1 className="display-5">Latest RSS Posts from Food Blogs</h1></div>
       <MyAppSingleFeed 
       feedurl='https://www.cookwithmanali.com/feed/' />
       <MyAppSingleFeed feedurl='https://www.vegrecipesofindia.com/feed/' />
