@@ -8,6 +8,7 @@ class MyAppSingleFeed extends React.Component {
     this.state = {
       feedTitle: '',
       feedLength: '',
+      lastBuildDate: '',
       feedItems: [], 
     }
   }
@@ -25,6 +26,7 @@ class MyAppSingleFeed extends React.Component {
     .then((responseData) => rssParser.parse(responseData))
     .then((rss) => {
       console.log(rss.title);
+      console.log(rss.lastUpdated);
       console.log(rss.items.length);
       console.log(rss.items);
       console.log(rss.items[0].title);
@@ -34,6 +36,7 @@ class MyAppSingleFeed extends React.Component {
       this.setState({ feedItems: rss.items }) ;
       this.setState({ feedLength: rss.items.length }) ;
       this.setState({ feedTitle: rss.title }) ;
+      this.setState({ lastBuildDate: rss.lastUpdated }) ;
     }) ;
     return null; 
   }
@@ -52,13 +55,14 @@ class MyAppSingleFeed extends React.Component {
   render() {
     const feedTitle = this.state.feedTitle ;
     const feedLength = this.state.feedLength ; 
+    const lastBuildDate = this.state.lastBuildDate ; 
     const myitems = this.state.feedItems ;
     const printFullItemList = this.printObjectElements(myitems) ; 
     
     return (
       <div className="col-sm-12 col-xs-12 col-md-6 col-lg-4 col-xl-4">        
         <div className="card text-dark bg-light mb-3">
-            <div className="card-header">Feed contains {feedLength} posts</div>
+            <div className="card-header">Feed contains {feedLength} posts<br />// Last Updated: {lastBuildDate}</div>
             <div className="card-body">
                 <h5 className="card-title">{feedTitle}</h5>
                 <div className="card-text">{printFullItemList}</div>
