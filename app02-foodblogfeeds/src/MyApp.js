@@ -13,7 +13,7 @@ class MyAppSingleFeed extends React.Component {
   }
 
   getFeedItemsFromUrl() {
-    // const feedurl = 'https://www.leelasrecipes.com/index.xml' ; 
+    // const feedurl = 'https://www.mygingergarlickitchen.com/index.xml' ; 
     const feedurl = this.props.feedurl ; 
     console.log('MYFEED = ' + feedurl) ;
     return fetch(feedurl) ;
@@ -44,7 +44,7 @@ class MyAppSingleFeed extends React.Component {
     for (let x in myitems1){
       count++ ; 
       if (count < 11) {
-      rows.push(<li key={myitems1[x].id}>(Published: {myitems1[x].published})<br /><a target='_blank' href={myitems1[x].id}>{myitems1[x].title}</a></li>) ;  }
+      rows.push(<li key={myitems1[x].id}>(Published: {myitems1[x].published})<br /><a target='_blank' rel='noopener' href={myitems1[x].id}>{myitems1[x].title}</a></li>) ;  }
     } 
     return <ul>{rows}</ul> ;
   } ; 
@@ -56,9 +56,14 @@ class MyAppSingleFeed extends React.Component {
     const printFullItemList = this.printObjectElements(myitems) ; 
     
     return (
-      <div>
-        <h2>{feedTitle} = (Feed has {feedLength} posts)</h2>
-        <div>{printFullItemList}</div>
+      <div className="col-4">        
+        <div className="card text-dark bg-light mb-3">
+            <div className="card-header">(Feed has {feedLength} posts)</div>
+            <div className="card-body">
+                <h5 className="card-title">{feedTitle}</h5>
+                <div className="card-text">{printFullItemList}</div>
+            </div>
+        </div>
       </div> 
     ) ; 
   }
@@ -67,9 +72,10 @@ class MyAppSingleFeed extends React.Component {
 
 const MyApp = () => {
   return (
-    <div>
-      <h1>Latest RSS Posts from Food Blogs</h1>
-      <MyAppSingleFeed feedurl='https://www.cookwithmanali.com/feed/' />
+    <div className="row">
+      <div className="col-12"><h1>Latest RSS Posts from Food Blogs</h1></div>
+      <MyAppSingleFeed 
+      feedurl='https://www.cookwithmanali.com/feed/' />
       <MyAppSingleFeed feedurl='https://www.vegrecipesofindia.com/feed/' />
       <MyAppSingleFeed feedurl='https://hebbarskitchen.com/feed/' />
       <MyAppSingleFeed feedurl='https://www.indianhealthyrecipes.com/feed/' />
