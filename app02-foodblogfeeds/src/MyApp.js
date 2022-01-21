@@ -1,5 +1,7 @@
 import React from 'react' ;
 import * as rssParser from 'react-native-rss-parser' ;
+import Moment from 'react-moment';
+
  
 /* ==================================================== */
 class MyAppSingleFeed extends React.Component {
@@ -47,7 +49,7 @@ class MyAppSingleFeed extends React.Component {
     for (let x in myitems1){
       count++ ; 
       if (count < 11) {
-      rows.push(<li key={myitems1[x].id}>Published: {myitems1[x].published}<br /><a target='_blank' rel='noopener noreferrer' href={myitems1[x].id}><strong>{myitems1[x].title}</strong></a></li>) ;  }
+      rows.push(<li key={myitems1[x].id}><a target='_blank' rel='noopener noreferrer' href={myitems1[x].id}><strong>{myitems1[x].title}</strong></a> (<Moment fromNow>{myitems1[x].published}</Moment>)</li>) ;  }
     } 
     return <ul>{rows}</ul> ;
   } ; 
@@ -62,7 +64,7 @@ class MyAppSingleFeed extends React.Component {
     return (
       <div className="col-sm-12 col-xs-12 col-md-6 col-lg-4 col-xl-4">        
         <div className="card text-dark bg-light mb-3">
-            <div className="card-header">Feed contains {feedLength} posts<br />// Last Updated: {lastBuildDate}</div>
+            <div className="card-header">Feed last updated: <Moment fromNow>{lastBuildDate}</Moment><br />// Feed contains {feedLength} posts</div>
             <div className="card-body">
                 <h5 className="card-title">{feedTitle}</h5>
                 <div className="card-text">{printFullItemList}</div>
@@ -77,7 +79,7 @@ class MyAppSingleFeed extends React.Component {
 const MyApp = () => {
   return (
     <div className="row">
-      <div className="col-12"><h1 className="display-5">Latest RSS Posts from Food Blogs</h1></div>
+      <div className="col-12"><h1 className="display-5">Latest Posts from Food Blogs RSS Feeds</h1></div>
       <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_cookwithmanali.xml' />
       <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_vegrecipesofindia.xml' />
       <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/feed_hebbarskitchen.xml' />
