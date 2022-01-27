@@ -47,9 +47,9 @@ class MyAppSingleFeed extends React.Component {
 
   printProgressBar() {
     if (this.state.showProgressBar) {
-    return <div className='progress'>
-              <div className='progress-bar progress-bar-striped' role='progressbar' style={{ width: '25%' }} aria-valuenow='25' aria-valuemin='0' aria-valuemax='100'></div>
-            </div>
+    return <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+          </div>
     }
   } ;
 
