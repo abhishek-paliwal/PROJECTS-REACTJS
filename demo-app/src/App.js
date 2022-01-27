@@ -1,6 +1,5 @@
 import React from 'react';
-// import Data from './data/mock-data.json' ;
-import Data from './data/test.json' ;
+import Data from './data/mggk_summary_cloudflare_ImagesUrlsWPcontentUploads.csv.json' ;
 import {useState} from 'react';
 import './App.css' ;
 
