@@ -1,7 +1,7 @@
 #/bin/bash
 ################################################################################
 ## set variables
-PROJECT_NAME="demo-app" ; 
+PROJECT_NAME="app-mggk01-image-finder" ; 
 ##
 PROJECT_DATA_DIR="$REPO_REACTJS/$PROJECT_NAME/src/data" ;
 PROJECT_DATA_DIR_IN="$REPO_REACTJS/$PROJECT_NAME/src/data/data_in" ;
