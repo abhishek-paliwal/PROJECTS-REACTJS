@@ -51,18 +51,20 @@ const App = () => {
   const finalData = getSearchResults(query) ; 
   const numImagesToShow = 50 ; 
   const slicedArray = finalData.slice(0, numImagesToShow);
+  const triggerSearchAtChars = 3 ; 
   console.log(Data.length) ; 
+  /* ================ */
   return <div className="container">
-    <h1>MGGK IMAGE FINDER (APP)</h1>
+    <h1 className="display-5">MGGK IMAGE FINDER (APP)</h1>
     <div className="row"><div className="col-12">
       <div className="mb-3">
-        <label htmlFor="exampleFormControlInput1" className="form-label">Search here (anchor text or url)</label>
-        <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="search here" onChange={event => setQuery(event.target.value)} />
+        <label htmlFor="exampleFormControlInput1" className="form-label">Search below (with url segment or text with hyphens, minimum {triggerSearchAtChars} characters required)</label>
+        <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="search image here" onChange={event => {(event.target.value.length >= triggerSearchAtChars) ? setQuery(event.target.value) : setQuery('') }} />
       </div>
     </div></div>
     <div className="row">
       <div className="col-12">
-        <h3>{finalData.length} images found (showing max {numImagesToShow})</h3> 
+        <h3><strong>{finalData.length} images found</strong> { (query.length >= triggerSearchAtChars) ? 'for search term ' + query : 'in database' } (showing max {numImagesToShow})</h3> 
         {displayCollapsedDetails()}
       </div>
       {slicedArray}
