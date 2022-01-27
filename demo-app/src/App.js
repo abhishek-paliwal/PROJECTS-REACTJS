@@ -1,5 +1,5 @@
 import React from 'react';
-import Data from './data/mggk_summary_cloudflare_ImagesUrlsWPcontentUploads.csv.json' ;
+import Data from './data/data_out/mggk_summary_cloudflare_ImagesUrlsWPcontentUploads.csv.json' ;
 import {useState} from 'react';
 import './App.css' ;
 
@@ -39,10 +39,10 @@ function calcFunction (query) {
   }) ;      
   
   const tmp2 = tmp1.map((post,index) => {
-        return <div className="col-sm-6 col-md-6 col-lg-3 col-xl-3" key={index}>
+        return <div className="col-sm-6 col-md-4 col-lg-2 col-xl-2" key={index}>
             <hr />
-            <p>{post.url}</p>
             <p><a href={post.url}> <img src={post.url} width='200px' /> </a></p>
+            <textarea>{post.url}</textarea>
         </div>
   }) ;
   return tmp2 ; 

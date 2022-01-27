@@ -2,15 +2,20 @@
 ################################################################################
 ## set variables
 PROJECT_NAME="demo-app" ; 
-PROJECT_DATA_BASEDIR="$REPO_REACTJS/$PROJECT_NAME/src/data" ;
+##
+PROJECT_DATA_DIR="$REPO_REACTJS/$PROJECT_NAME/src/data" ;
+PROJECT_DATA_DIR_IN="$REPO_REACTJS/$PROJECT_NAME/src/data/data_in" ;
+PROJECT_DATA_DIR_OUT="$REPO_REACTJS/$PROJECT_NAME/src/data/data_out" ;
+mkdir -p "$PROJECT_DATA_DIR_IN" "$PROJECT_DATA_DIR_OUT" ; 
+##
 CSVFILE_BASENAME="mggk_summary_cloudflare_ImagesUrlsWPcontentUploads.csv" ; 
-CSVFILE_DOWNLOADED="$PROJECT_DATA_BASEDIR/$CSVFILE_BASENAME" ; 
-JSON_FILE="$PROJECT_DATA_BASEDIR/$(basename $CSVFILE_BASENAME).json" ; 
+CSVFILE_DOWNLOADED="$PROJECT_DATA_DIR_IN/$CSVFILE_BASENAME" ; 
+JSON_FILE_OUT="$PROJECT_DATA_DIR_OUT/$(basename $CSVFILE_BASENAME).json" ; 
 ################################################################################
 
 ## download data from server
 SERVER_DIR="https://vps.abhishekpaliwal.com//scripts-html-outputs/data-reactapps/mggk" ; 
-wget "$SERVER_DIR/$CSVFILE_BASENAME" -O "$PROJECT_DATA_BASEDIR/$CSVFILE_BASENAME" ; 
+wget "$SERVER_DIR/$CSVFILE_BASENAME" -O "$CSVFILE_DOWNLOADED" ; 
 
 ################################################################################
 
@@ -29,8 +34,8 @@ function convertCsvFileToJson () {
 ################################################################################
 
 ## call function and prettify output json
-convertCsvFileToJson | jq > $JSON_FILE ;
+convertCsvFileToJson | jq > $JSON_FILE_OUT ;
 ## print some lines from json file
 echo "################################################################################" ; 
-head $JSON_FILE ;
+head $JSON_FILE_OUT ;
 ################################################################################
