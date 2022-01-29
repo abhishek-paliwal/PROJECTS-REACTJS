@@ -36,6 +36,10 @@ function convertCsvFileToJson () {
 ## call function and prettify output json
 convertCsvFileToJson | jq > $JSON_FILE_OUT ;
 ## print some lines from json file
-echo "################################################################################" ; 
+echo; echo "################################################################################" ; 
+echo ">> WORDCOUNT IN ORIGINAL FILE: $(wc $CSVFILE_DOWNLOADED)" ; 
+echo; echo "##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" ; 
+echo ">> PRINT FIRST FEW LINES FROM JSON FILE => $JSON_FILE_OUT" ; 
 head $JSON_FILE_OUT ;
+echo "################################################################################" ; 
 ################################################################################
