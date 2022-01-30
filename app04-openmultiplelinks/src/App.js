@@ -2,6 +2,7 @@ import React from 'react';
 /* ========================== */
 
 function openLinks1() {
+  window.open('https://news.google.com/','_blank') ;
   window.open('https://slashdot.org/','_blank') ;
   window.open('https://www.hindustantimes.com/','_blank') ;
   window.open('https://timesofindia.indiatimes.com/','_blank') ;
