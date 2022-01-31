@@ -51,49 +51,68 @@ ROOT_DOMAIN="abhishekpali.us" ;
 outFile1="$WORKDIR/step1.txt" ;
 
 ########################################
-function FUNC_STEP1_GET_ALL_BASE_PROJECTS_DIRS () {
+function FUNC_DISPLAY_SEPARATOR () {
+    echo ;
+    warn "##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" ;
+    warn "CURRENT FUNCTION => $1"
+    warn "##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++" ;
+}
+####
+function FUNC_STEP1_GET_ALL_BASE_PROJECTS_DIRS () {        
+    FUNC_DISPLAY_SEPARATOR "${FUNCNAME[0]}" ;
     fd -I -t d -d1 --search-path="$REPO_REACTJS" > $outFile1 ; 
+    echo ">> FOUND THESE REACT APPS: " ;
+    cat $outFile1 | nl ; 
 }
 ####
 function FUNC_STEP2_BUILD_APPS_USING_NPM () {
+    FUNC_DISPLAY_SEPARATOR "${FUNCNAME[0]}" ;
     while read projectDir; do
         cd $projectDir ;
+        APP_BASE_DIR="$(basename $projectDir)" ;
+        echo "##---------------------------------------" ;  
+        echo ">> CURRENTLY BUILDING THIS APP => $APP_BASE_DIR" ;
+        echo "##---------------------------------------" ;  
         npm run build ; 
         cd $REACTJS_APPS_ROOTDIR ; 
     done < "$outFile1" ;
 }
 ####
 function FUNC_STEP3_CREATE_DIRS_ON_DREAMOBJECTS () {
+    FUNC_DISPLAY_SEPARATOR "${FUNCNAME[0]}" ;
     while read projectDir; do
         APP_BASE_DIR="$(basename $projectDir)" ; 
         PATH_REMOTE="$APP_BASE_DIR.$ROOT_DOMAIN" ;
         echo ">> CREATING REMOTE DIRECTORY => dreamobjects:$PATH_REMOTE" ; 
         #rclone mkdir dreamobjects:app02-foodblogfeeds.abhishekpali.us ;
-        echo "rclone mkdir dreamobjects:$PATH_REMOTE" ; 
+        echo "       >> RUNNING => rclone mkdir dreamobjects:$PATH_REMOTE" ; 
     done < "$outFile1" ; 
-    echo ">> LISTING REMOTE DIRECTORIES ..." ; 
+    echo; echo ">> LISTING REMOTE DIRECTORIES ..." ; 
     rclone lsd dreamobjects: ; 
 }
 ####
 function FUNC_STEP4_SYNC_BUILT_APPS_TO_DREAMOBJECTS () {
+    FUNC_DISPLAY_SEPARATOR "${FUNCNAME[0]}" ;
     while read projectDir; do
         APP_BASE_DIR="$(basename $projectDir)" ; 
         APP_BUILD_DIR="$projectDir/build" ; 
         PATH_REMOTE="$APP_BASE_DIR.$ROOT_DOMAIN" ;
-        echo ">> SYNCING TO REMOTE DIRECTORY => ( $APP_BUILD_DIR/ => dreamobjects:$PATH_REMOTE/ )" ;
+        echo ">> SYNCING TO REMOTE DIRECTORY ..." ;
+        echo "      => ( $APP_BUILD_DIR/ => dreamobjects:$PATH_REMOTE/ )"
         #rclone sync ./ dreamobjects:app-mggk01-image-finder.abhishekpali.us/ ; 
         rclone sync "$APP_BUILD_DIR/" dreamobjects:$PATH_REMOTE/ ; 
     done < "$outFile1" ;
 }
 ####
 function FUNC_STEP5_DISPLAY_CLOUDFLARE_DNS_CNAME_SETUP_INSTRUCTIONS () {
+    FUNC_DISPLAY_SEPARATOR "${FUNCNAME[0]}" ;
     echo ">> DON'T FORGET TO ADD FOLLOWING CNAMES TO CLOUDFLARE DNS FOR DOMAIN => $ROOT_DOMAIN" ;  
     while read projectDir; do
         APP_BASE_DIR="$(basename $projectDir)" ; 
         PATH_REMOTE="$APP_BASE_DIR.$ROOT_DOMAIN" ;
         PATH_CLOUDFLARE="$APP_BASE_DIR.$ROOT_DOMAIN.$DREAMOBJECTS_SERVER" ;
         success "CNAME => $PATH_REMOTE => $PATH_CLOUDFLARE" ;
-        info "      >> Finally, check this app at => $PATH_CLOUDFLARE/index.html" ; 
+        info "      >> Finally, check this app at => $PATH_REMOTE/index.html" ; 
     done < "$outFile1" ;
 }
 ########################################
