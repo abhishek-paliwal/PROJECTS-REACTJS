@@ -11,7 +11,7 @@ class MyAppSingleFeed extends React.Component {
       showProgressBar: true,
       feedTitle: '',
       feedLength: '',
-      lastBuildDate: '',
+      lastBuildDate: new Date(),
       feedItems: [], 
     }
   }
@@ -47,8 +47,8 @@ class MyAppSingleFeed extends React.Component {
 
   printProgressBar() {
     if (this.state.showProgressBar) {
-    return <div class="spinner-border text-primary" role="status">
-            <span class="visually-hidden">Loading...</span>
+    return <div className="spinner-border text-primary" role="status">
+            <span className="visually-hidden">Loading...</span>
           </div>
     }
   } ;
