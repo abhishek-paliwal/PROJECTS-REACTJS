@@ -48,16 +48,15 @@ echo "$(date) = START-TIME" > $time_taken
 REACTJS_APPS_ROOTDIR="$REPO_REACTJS" ;
 DREAMOBJECTS_SERVER="objects-us-east-1.dream.io" ;
 ROOT_DOMAIN="abhishekpali.us" ; 
-outfile1="$WORKDIR/step1.txt" ;
+outFile1="$WORKDIR/step1.txt" ;
 
 ########################################
 function FUNC_STEP1_GET_ALL_BASE_PROJECTS_DIRS () {
-    outFile="$outfile1" ; 
-    fd -I -t d -d1 --search-path="$REPO_REACTJS" > $outFile ; 
+    fd -I -t d -d1 --search-path="$REPO_REACTJS" > $outFile1 ; 
 }
 ####
 function FUNC_STEP2_BUILD_APPS_USING_NPM () {
-    while read projectDir;
+    while read projectDir; do
         cd $projectDir ;
         npm run build ; 
         cd $REACTJS_APPS_ROOTDIR ; 
@@ -65,8 +64,8 @@ function FUNC_STEP2_BUILD_APPS_USING_NPM () {
 }
 ####
 function FUNC_STEP3_CREATE_DIRS_ON_DREAMOBJECTS () {
-    while read projectDir;
-        APP_BASE_DIR="$(basepath $projectDir)" ; 
+    while read projectDir; do
+        APP_BASE_DIR="$(basename $projectDir)" ; 
         PATH_REMOTE="$APP_BASE_DIR.$ROOT_DOMAIN" ;
         echo ">> CREATING REMOTE DIRECTORY => dreamobjects:$PATH_REMOTE" ; 
         #rclone mkdir dreamobjects:app02-foodblogfeeds.abhishekpali.us ;
@@ -77,8 +76,8 @@ function FUNC_STEP3_CREATE_DIRS_ON_DREAMOBJECTS () {
 }
 ####
 function FUNC_STEP4_SYNC_BUILT_APPS_TO_DREAMOBJECTS () {
-    while read projectDir;
-        APP_BASE_DIR="$(basepath $projectDir)" ; 
+    while read projectDir; do
+        APP_BASE_DIR="$(basename $projectDir)" ; 
         APP_BUILD_DIR="$projectDir/build" ; 
         PATH_REMOTE="$APP_BASE_DIR.$ROOT_DOMAIN" ;
         echo ">> SYNCING TO REMOTE DIRECTORY => ( $APP_BUILD_DIR/ => dreamobjects:$PATH_REMOTE/ )" ;
@@ -89,8 +88,8 @@ function FUNC_STEP4_SYNC_BUILT_APPS_TO_DREAMOBJECTS () {
 ####
 function FUNC_STEP5_DISPLAY_CLOUDFLARE_DNS_CNAME_SETUP_INSTRUCTIONS () {
     echo ">> DON'T FORGET TO ADD FOLLOWING CNAMES TO CLOUDFLARE DNS FOR DOMAIN => $ROOT_DOMAIN" ;  
-    while read projectDir;
-        APP_BASE_DIR="$(basepath $projectDir)" ; 
+    while read projectDir; do
+        APP_BASE_DIR="$(basename $projectDir)" ; 
         PATH_REMOTE="$APP_BASE_DIR.$ROOT_DOMAIN" ;
         PATH_CLOUDFLARE="$APP_BASE_DIR.$ROOT_DOMAIN.$DREAMOBJECTS_SERVER" ;
         success "CNAME => $PATH_REMOTE => $PATH_CLOUDFLARE" ;
