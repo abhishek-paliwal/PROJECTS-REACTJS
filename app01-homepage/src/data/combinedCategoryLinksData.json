@@ -1,11 +1,68 @@
-[{"category":"Zamit","subCategory":"Eudromia elegans","anchorText":"Dodge","url":"http://photobucket.com/nunc/proin/at/turpis/a.jpg"},
-{"category":"Bamity","subCategory":"Dasyurus maculatus","anchorText":"Chevrolet","url":"http://squidoo.com/ut.js"},
-{"category":"Kanlam","subCategory":"Sarcophilus harrisii","anchorText":"Buick","url":"https://facebook.com/pellentesque/at/nulla/suspendisse/potenti/cras/in.jpg"},
-{"category":"Solarbreeze","subCategory":"Panthera onca","anchorText":"Jaguar","url":"http://shutterfly.com/sapien/non/mi/integer.json"},
-{"category":"Konklab","subCategory":"Libellula quadrimaculata","anchorText":"Volkswagen","url":"https://google.com.au/vestibulum/sagittis/sapien/cum/sociis.xml"},
-{"category":"Y-Solowarm","subCategory":"Merops nubicus","anchorText":"Maybach","url":"https://com.com/lectus/aliquam/sit.jsp"},
-{"category":"Daltfresh","subCategory":"Orcinus orca","anchorText":"Ford","url":"https://youku.com/vel/lectus/in.aspx"},
-{"category":"Alphazap","subCategory":"Nyctereutes procyonoides","anchorText":"Dodge","url":"http://fc2.com/volutpat/erat/quisque/erat/eros/viverra.html"},
-{"category":"Lotlux","subCategory":"Lama guanicoe","anchorText":"Pontiac","url":"https://webeden.co.uk/quisque/erat/eros/viverra.jsp"},
-{"category":"Solarbreeze","subCategory":"Dendrohyrax brucel","anchorText":"Mercedes-Benz","url":"http://cloudflare.com/orci/nullam/molestie.jsp"},
-{"category":"Stim","subCategory":"Ovis canadensis","anchorText":"Pontiac","url":"https://tripadvisor.com/dolor/quis/odio.jpg"}]
+[
+  {
+    "CATEGORY": "PERSONAL",
+    "SUBCATEGORY": "Eudromia elegans",
+    "ANCHORTEXT": "Dodge",
+    "URL": "http://photobucket.com/nunc/proin/at/turpis/a.jpg"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "SUBCATEGORY": "Dasyurus maculatus",
+    "ANCHORTEXT": "Chevrolet",
+    "URL": "http://squidoo.com/ut.js"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "SUBCATEGORY": "Sarcophilus harrisii",
+    "ANCHORTEXT": "Buick",
+    "URL": "https://facebook.com/pellentesque/at/nulla/suspendisse/potenti/cras/in.jpg"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "SUBCATEGORY": "Panthera onca",
+    "ANCHORTEXT": "Jaguar",
+    "URL": "http://shutterfly.com/sapien/non/mi/integer.json"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "SUBCATEGORY": "Libellula quadrimaculata",
+    "ANCHORTEXT": "Volkswagen",
+    "URL": "https://google.com.au/vestibulum/sagittis/sapien/cum/sociis.xml"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "SUBCATEGORY": "Merops nubicus",
+    "ANCHORTEXT": "Maybach",
+    "URL": "https://com.com/lectus/aliquam/sit.jsp"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "SUBCATEGORY": "Orcinus orca",
+    "ANCHORTEXT": "Ford",
+    "URL": "https://youku.com/vel/lectus/in.aspx"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "SUBCATEGORY": "Nyctereutes procyonoides",
+    "ANCHORTEXT": "Dodge",
+    "URL": "http://fc2.com/volutpat/erat/quisque/erat/eros/viverra.html"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "SUBCATEGORY": "Lama guanicoe",
+    "ANCHORTEXT": "Pontiac",
+    "URL": "https://webeden.co.uk/quisque/erat/eros/viverra.jsp"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "SUBCATEGORY": "Dendrohyrax brucel",
+    "ANCHORTEXT": "Mercedes-Benz",
+    "URL": "http://cloudflare.com/orci/nullam/molestie.jsp"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "SUBCATEGORY": "Ovis canadensis",
+    "ANCHORTEXT": "Pontiac",
+    "URL": "https://tripadvisor.com/dolor/quis/odio.jpg"
+  }
+]
