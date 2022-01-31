@@ -112,7 +112,7 @@ function FUNC_STEP5_DISPLAY_CLOUDFLARE_DNS_CNAME_SETUP_INSTRUCTIONS () {
         PATH_REMOTE="$APP_BASE_DIR.$ROOT_DOMAIN" ;
         PATH_CLOUDFLARE="$APP_BASE_DIR.$ROOT_DOMAIN.$DREAMOBJECTS_SERVER" ;
         success "CNAME => $PATH_REMOTE => $PATH_CLOUDFLARE" ;
-        info "      >> Finally, check this app at => $PATH_REMOTE/index.html" ; 
+        info "      >> Finally, check this app at => https://$PATH_REMOTE/index.html" ; 
     done < "$outFile1" ;
 }
 ########################################
