@@ -28,19 +28,19 @@ function FnGetSingleCategoryData(singleCategoryName) {
 }
 /////////////
 function printAllCategoryData(categoryList_unique) {
-  let printSingleCategoryData = ''  ;
-  let printCard = `<div className="card">
-                    <div className="card-body">
-                    <h5 className="card-title">Card title</h5>
-                    </div>
-                  </div>` ;
-
+  let printAllCategoryData = ''  ;
+  let printSingleCategoryData_header = '<div class="row"><div class="col-sm-12 col-xs-12 col-md-6 col-lg-4 col-xl-4"><div class="card text-dark bg-light mb-3">'  ;
+  let printSingleCategoryData_footer = '</div></div></div>'  ;
+  //
   for (const singleCategoryName of categoryList_unique) {
     console.log(singleCategoryName);
-    printSingleCategoryData = printSingleCategoryData + '<h3>' + singleCategoryName + '</h3>' + FnGetSingleCategoryData(singleCategoryName) ;
-    console.log(printSingleCategoryData);
+    let printSingleCategoryData = FnGetSingleCategoryData(singleCategoryName)  ;
+    let singleCategoryNamePrint = '<div class="card-header">' + singleCategoryName + '</div>' ;
+    printAllCategoryData = printAllCategoryData + printSingleCategoryData_header + singleCategoryNamePrint + '<div class="card-body">' + printSingleCategoryData + '</div>' + printSingleCategoryData_footer ;
   }
-  return printSingleCategoryData ; 
+  //
+  console.log(printAllCategoryData) ;
+  return printAllCategoryData ; 
 }
 /* ========================================= */
 
@@ -53,7 +53,7 @@ const App = () => {
   console.log(typeof(printAllCategoryDataValue)) ; // should be string type
 
   return (
-    <div className="container">
+    <div className="section">
       <NavBar />
       <HeaderText />
       <div className="row">
