@@ -1,5 +1,5 @@
 import React from 'react';
-import data from './data/combinedCategoryLinksData.json'
+import data from './data/data_out/combinedCategoryLinksData.json'
 import NavBar from './components/NavBar' ;
 import HeaderText from './components/HeaderText' ;
 
@@ -29,8 +29,8 @@ function FnGetSingleCategoryData(singleCategoryName) {
 /////////////
 function printAllCategoryData(categoryList_unique) {
   let printAllCategoryData = ''  ;
-  let printSingleCategoryData_header = '<div class="row"><div class="col-sm-12 col-xs-12 col-md-6 col-lg-4 col-xl-4"><div class="card text-dark bg-light mb-3">'  ;
-  let printSingleCategoryData_footer = '</div></div></div>'  ;
+  let printSingleCategoryData_header = '<div class="col-sm-12 col-xs-12 col-md-6 col-lg-3 col-xl-3"><div class="card text-dark bg-light mb-3">'  ;
+  let printSingleCategoryData_footer = '</div></div>'  ;
   //
   for (const singleCategoryName of categoryList_unique) {
     console.log(singleCategoryName);
@@ -56,9 +56,7 @@ const App = () => {
     <div className="section">
       <NavBar />
       <HeaderText />
-      <div className="row">
-        <div dangerouslySetInnerHTML={{ __html: printAllCategoryDataValue }} />
-      </div>
+      <div className="row" dangerouslySetInnerHTML={{ __html: printAllCategoryDataValue }} />
     </div>
   );
 } ;

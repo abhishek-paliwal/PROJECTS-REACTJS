@@ -25,8 +25,10 @@ const NavBar = () => {
             Apps
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a className="dropdown-item" href="#">App01</a></li>
-            <li><a className="dropdown-item" href="#">App02</a></li>
+            <li><a className="dropdown-item" href="https://app-mggk01-image-finder.abhishekpali.us/index.html">app-mggk01-image-finder</a></li>
+            <li><a className="dropdown-item" href="https://app02-foodblogfeeds.abhishekpali.us/index.html">app02-foodblogfeeds</a></li>
+            <li><a className="dropdown-item" href="https://app03-tictactoe.abhishekpali.us/index.html">app03-tictactoe</a></li>
+            <li><a className="dropdown-item" href="https://app04-openmultiplelinks.abhishekpali.us/index.html">app04-openmultiplelinks</a></li>
           </ul>
         </li>
       </ul>
