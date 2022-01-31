@@ -100,7 +100,6 @@ const MyApp = () => {
       <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/feed_halfbakedharvest.xml' />
       <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/feed_leelasrecipes.xml' />
       <MyAppSingleFeed feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/feed_mygingergarlickitchen.xml' />
-      {/* <MyAppSingleFeed feedurl='./data/mytest.xml' /> */}
     </div>
   )
 }
