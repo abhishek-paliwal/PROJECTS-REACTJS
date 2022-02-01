@@ -15,19 +15,20 @@ JSON_FILE_OUT="$PROJECT_DATA_DIR_OUT/$( basename $CSVFILE_BASENAME | sed 's|.csv
 ################################################################################
 
 ##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-## clean up the data (sort and remove duplicates)
-# get csv header (by reading only the first line of first file)
+## Cleaning up the data (sort and remove duplicates)
+## Getting csv header (by reading only the first line of first file)
 TMP_HEADERFILE="$DIR_Y/tmp_csv_header.txt" ; 
-cat $(fd -I -t f -e csv --search-path="$PROJECT_DATA_DIR_IN" | head -1) > $TMP_HEADERFILE ; 
-cat $TMP_HEADERFILE > $CSVFILE_OUT
-cat $(fd -I -t f -e csv --search-path="$PROJECT_DATA_DIR_IN") | grep -iv 'ANCHORTEXT' | grep -iv '^$' | sort -u >> $CSVFILE_OUT ;
+cat $PROJECT_DATA_DIR_IN/*.csv | head -1 > $TMP_HEADERFILE ; 
+cat $TMP_HEADERFILE | grep -iv "^$" > $CSVFILE_OUT ;
+## Appending rest of the data
+cat $PROJECT_DATA_DIR_IN/*.csv | grep -iv 'ANCHORTEXT' | grep -iv "^$" | sort -u >> $CSVFILE_OUT ;
 ##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## convert downloaded data to json format
-function step2_convertCsvFileToJson () {
+function FUNC_step1_convertCsvFileToJson () {
     inFile="$CSVFILE_OUT" ;
     tmpFile="$DIR_Y/tmp0.txt" ;
-    cat $inFile | grep -iv 'ANCHORTEXT' > $tmpFile ;
+    cat $inFile | grep -iv 'ANCHORTEXT' | grep -iv "^$" > $tmpFile ;
     echo "[" ;
     while read line; do
         ## IDENTIFYING COMMA-SEPARATED FIELDS
@@ -43,7 +44,7 @@ function step2_convertCsvFileToJson () {
 ##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## call function and prettify output json
-step2_convertCsvFileToJson | jq > $JSON_FILE_OUT ;
+FUNC_step1_convertCsvFileToJson | jq > $JSON_FILE_OUT ;
 
 ## print some lines from json file
 echo; echo "################################################################################" ;
