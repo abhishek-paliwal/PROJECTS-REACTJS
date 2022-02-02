@@ -33,9 +33,9 @@ function FUNC_step1_convertCsvFileToJson () {
     while read line; do
         ## IDENTIFYING COMMA-SEPARATED FIELDS
         #echo "LINE = > $line" ;
-        F_CATEGORY="$(echo $line | cut -d ',' -f1)" ;
-        F_ANCHORTEXT="$(echo $line | cut -d ',' -f2)" ;
-        F_URL="$(echo $line | cut -d ',' -f3)" ;
+        F_CATEGORY="$(echo $line | cut -d ';' -f1)" ;
+        F_ANCHORTEXT="$(echo $line | cut -d ';' -f2)" ;
+        F_URL="$(echo $line | cut -d ';' -f3)" ;
         echo "{ \"CATEGORY\" : \"$F_CATEGORY\",\"ANCHORTEXT\" : \"$F_ANCHORTEXT\",\"URL\" : \"$F_URL\" },"
     done < $tmpFile ;
     echo "{ \"CATEGORY\" : \"PERSONAL\",\"ANCHORTEXT\" : \"Our Homepage\",\"URL\" : \"$PROJECT_APP_URL\" }" ;
