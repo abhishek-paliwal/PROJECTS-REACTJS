@@ -1,18 +1,928 @@
 [
   {
     "CATEGORY": "CONCEPRO",
-    "URL": "file:///home/mint/Desktop/Y/1-travel.html",
-    "ANCHORTEXT": "10929"
+    "URL": "file:///home/mint/Desktop/Y/4-concepro.html",
+    "ANCHORTEXT": "2585"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "file://www.brandazzler.com",
+    "ANCHORTEXT": "www.brandazzler.com"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "file://www.mggkanu.com",
+    "ANCHORTEXT": "www.mggkanu.com"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "file://www.stockfotoage.com",
+    "ANCHORTEXT": "www.stockfotoage.com"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://abhishek-paliwal.github.io/",
+    "ANCHORTEXT": "My GitHub HomePage"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://abhishek-paliwal.github.io/wallpapers-index.html",
+    "ANCHORTEXT": "Github Javascript Wallpapers Index"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://drive.google.com/drive/my-drive",
+    "ANCHORTEXT": "Google Drive"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://drive.google.com/drive/quota",
+    "ANCHORTEXT": "QUOTA-GoogleDrive"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://github.com/abhishek-paliwal/Bash-Scripts-To-Make-Life-Easier/tree/master/mggk_bash_scripts/600-mggk-artificial-intelligence-nlp-programs",
+    "ANCHORTEXT": "Github-600-scripts"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://github.com/abhishek-paliwal/",
+    "ANCHORTEXT": "My GitHub Repositories"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://panel.dreamhost.com/",
+    "ANCHORTEXT": "Dreamhost Login"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://public-palibucket.objects-us-east-1.dream.io/",
+    "ANCHORTEXT": "DreamObjects Public Bucket"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://public-palibucket.objects-us-east-1.dream.io/g/tmp_g.html",
+    "ANCHORTEXT": "tmp_g"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://virre.prh.fi/novus/companySearch?execution=e2s1",
+    "ANCHORTEXT": "Company Search"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://www.advanceb2b.fi",
+    "ANCHORTEXT": "ADVANCE-B2B"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://www.concepro.com/wp-admin",
+    "ANCHORTEXT": "Concepro Login"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://www.salescommunications.fi",
+    "ANCHORTEXT": "SALES-COMMUNICATIONS-FI"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://www.sendy.concepro.com/sendy/",
+    "ANCHORTEXT": "SENDY"
+  },
+  {
+    "CATEGORY": "CONCEPRO",
+    "URL": "https://www.smartinsights.com/members/",
+    "ANCHORTEXT": "Digital Marketing Toolkits by SmartInsights"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "file:///home/mint/Desktop/Y/6-designing.html",
+    "ANCHORTEXT": "2750"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://bit.ly/MsIYrK",
+    "ANCHORTEXT": "Responsive-screen-resolutions"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://db.tt/jLzCJOJk",
+    "ANCHORTEXT": "Posing Guides"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://graphicburger.com/",
+    "ANCHORTEXT": "Graphic-BURGER MOCKUPS"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://graphicriver.net/",
+    "ANCHORTEXT": "GRAPHIC-river"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://iconsvg.xyz/",
+    "ANCHORTEXT": "SVG Icons (monocolor, resizable)"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://pinterest.com/psdcovers/psd-cover-actions/",
+    "ANCHORTEXT": "PSDcovers-Pinterest"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://themeforest.net/item/kula-responsive-html5-one-page-wordpress-theme/4491523",
+    "ANCHORTEXT": "THEMEforest-KULA"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://typeslab.com/",
+    "ANCHORTEXT": "Slab poster maker"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://typespiration.com/",
+    "ANCHORTEXT": "Typographic-CSS//TYPEspiration"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://uk.moo.com/design-templates/business-cards/",
+    "ANCHORTEXT": "MOO CARDS - Design inspiration"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://videohive.net/",
+    "ANCHORTEXT": "VIDEOhive"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.bamagazine.com/",
+    "ANCHORTEXT": "BEFORE and AFTER"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.canva.com/templates/",
+    "ANCHORTEXT": "CANVA Design Templates"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.cssauthor.com/free-mockup-templates-psd-designs/",
+    "ANCHORTEXT": "500+ Free Mockup Templates"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.diedruckerei.de/",
+    "ANCHORTEXT": "https://www.diedruckerei.de"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.diedruckerei.de/versand_bg.htm?websale8=diedruckerei&tpl=%24ws-cms/versand_bg.html",
+    "ANCHORTEXT": "Shipping to Finland"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.freepik.com",
+    "ANCHORTEXT": "FreePik free vectors"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.homemade-gifts-made-easy.com/personalized-poster-80th-birthday-gift.html",
+    "ANCHORTEXT": "Homemade Typography Posters"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.inkydeals.com/",
+    "ANCHORTEXT": "INKYDEALS"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.pixeden.com/psd-mock-up-templates",
+    "ANCHORTEXT": "PIXEDEN"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.psdcovers.com/",
+    "ANCHORTEXT": "PSDcovers"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.smashingmagazine.com/",
+    "ANCHORTEXT": "SMASHING magazine"
+  },
+  {
+    "CATEGORY": "DESIGNING",
+    "URL": "https://www.vanschneider.com/colors/",
+    "ANCHORTEXT": "Tobias Van Schneider - ColorClaim"
   },
   {
     "CATEGORY": "MGGK",
-    "URL": "file:///home/mint/Desktop/Y/1-travel.html",
-    "ANCHORTEXT": "10929"
+    "URL": "file:///home/mint/Desktop/Y/2019-mggk-all-input-forms.html",
+    "ANCHORTEXT": "MGGK ALL INPUT FORMS"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "file:///home/mint/Desktop/Y/3-mggk.html",
+    "ANCHORTEXT": "4861"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://adrevenueindex.ezoic.com/",
+    "ANCHORTEXT": "Ezoic Index"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://ahrefs.com/dashboard",
+    "ANCHORTEXT": "Ahrefs - Webmaster Tools"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://clarity.microsoft.com/projects",
+    "ANCHORTEXT": "Microsoft Clarity SEO"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/2-Mind-And-Personal-Development-Books/201606-Deal-With-Rejection-By-Identifying-Correct-Negative-Emotion.html",
+    "ANCHORTEXT": "Find Negative Emotions correctly"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/Index-Of-All-Markdown-Books.html",
+    "ANCHORTEXT": "note_addINDEX - MARKDOWN BOOKS"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/20150807-Inspirational-Words-Plus-Words-For-Pleasant-And-Unpleasant-Feelings.html",
+    "ANCHORTEXT": "Words for Inspiration + Pleasant and Unpleasant feelings"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/Abhishek-317-Power-Words-To-Selling-And-Writing-For-Kindle.html",
+    "ANCHORTEXT": "317+29 WORDS THAT SELL"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/Cooking-Adjectives.html",
+    "ANCHORTEXT": "Cooking Adjectives"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/The-800-Most-Commonly-Used-Idioms-In-America.html",
+    "ANCHORTEXT": "800-Most-Commonly-Used-Idioms"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/__notes_scribbled_by_pali/notes.html",
+    "ANCHORTEXT": "// SCRIBBLED NOTES //"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/PDFs/Vocabulary-of-Emotions.pdf",
+    "ANCHORTEXT": "Vocabulary-of-Emotions-PDF"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://downloads.mygingergarlickitchen.com/mggk-00-external-communication/__mggk_profile/_mggk-blogpost-checklist.html",
+    "ANCHORTEXT": "BlogPost-CHECKLIST"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://htmlarrows.com",
+    "ANCHORTEXT": "HTML Symbols Database"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://html-cleaner.com",
+    "ANCHORTEXT": "HTML cleaner"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://html-css-js.com/html/character-codes/icons/",
+    "ANCHORTEXT": "HTML Symbols Colored Icons"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://premium.ezoic.com/premium/dashboard",
+    "ANCHORTEXT": "Ezoic - Premium"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://pubdash.ezoic.com/speed/caching/app?action=load",
+    "ANCHORTEXT": "EZOIC-cache"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://search.google.com/test/rich-results",
+    "ANCHORTEXT": "GOOGLE LD+JSON Rich Testing Tool"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://sellercentral.amazon.com/hz/inventory",
+    "ANCHORTEXT": "Amazon MGGK STORE INVENTORY - Login"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://svc.ezoic.com/publisher.php",
+    "ANCHORTEXT": "EZOIC-login"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://webmaster.yandex.com/site/https%3Awww.mygingergarlickitchen.com%3A443/dashboard/",
+    "ANCHORTEXT": "YANDEX Webmaster Tools"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://wordtohtml.net/",
+    "ANCHORTEXT": "HTML link converter"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://www.amzn.com/B00OKTU5MU",
+    "ANCHORTEXT": "Amazon Book - Cooking Tips"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://www.bing.com/webmasters/searchperf?siteUrl=https://mygingergarlickitchen.com/",
+    "ANCHORTEXT": "Bing Webmaster Tools"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://www.checkmoz.com/",
+    "ANCHORTEXT": "DA Finder (Domain authority)"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://www.mygingergarlickitchen.com/sitemap.xml",
+    "ANCHORTEXT": "Sitemap.xml"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://www.mygingergarlickitchen.com/video-sitemap.xml",
+    "ANCHORTEXT": "Video-Sitemap.xml"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://www.uefap.com/vocab/select/akl.htm",
+    "ANCHORTEXT": "Academic keyword list (AKL)"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://www.uefap.com/vocab/select/awl.htm",
+    "ANCHORTEXT": "Academic word list (AWL)"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://www.uefap.com/vocab/select/selfram.htm",
+    "ANCHORTEXT": "TOC"
+  },
+  {
+    "CATEGORY": "MGGK",
+    "URL": "https://www.whois.com/whois",
+    "ANCHORTEXT": "Whois"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "file:///home/mint/Desktop/Y/5-news.html",
+    "ANCHORTEXT": "1292"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://en.ilmatieteenlaitos.fi/weather/espoo/kivenlahti",
+    "ANCHORTEXT": "FMI-weather-kivenlahti"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://news.google.com/nwshp?hl%3Dhi%26ned%3Dhi_in",
+    "ANCHORTEXT": "samachar"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://slashdot.org/",
+    "ANCHORTEXT": "SlashDot"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://twitter.com/khabarbaazi",
+    "ANCHORTEXT": "ख़बरबाज़ी"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://twitter.com/KyaUkhaadLega",
+    "ANCHORTEXT": "Lying-Lama"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://twitter.com/nntaleb",
+    "ANCHORTEXT": "Nassim-Taleb"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://www.bbc.com/",
+    "ANCHORTEXT": "BBC"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://www.hindustantimes.com",
+    "ANCHORTEXT": "HT"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://www.hs.fi/",
+    "ANCHORTEXT": "HS.fi"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://www.hs.fi/metro/",
+    "ANCHORTEXT": "Metro Helsinki"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://www.thehindu.com",
+    "ANCHORTEXT": "TheHindu"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://www.timesofindia.com",
+    "ANCHORTEXT": "TOI"
+  },
+  {
+    "CATEGORY": "NEWS",
+    "URL": "https://www.yle.fi/news",
+    "ANCHORTEXT": "YLE English news"
   },
   {
     "CATEGORY": "PERSONAL",
-    "URL": "file:///home/mint/Desktop/Y/1-travel.html",
-    "ANCHORTEXT": "10929"
+    "URL": "file:///home/mint/Desktop/Y/2-personal.html",
+    "ANCHORTEXT": "4836"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "file:///home/mint/Desktop/Y/cursive-alphabets-lettering.jpg",
+    "ANCHORTEXT": "Cursive-letters-alphabets"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "file:///home/mint/Desktop/Y/cursive-ornamental-practice.jpg",
+    "ANCHORTEXT": "cursive-ornamental practice-print"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://abhishekpaliwal.com",
+    "ANCHORTEXT": "ABHISHEK Paliwal.com"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://abhishek-paliwal.github.io/wallpaper_creators/JSON-templates-for-design/Index-of-all-JSON-files.html",
+    "ANCHORTEXT": "JSON Templates"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://adoria.xyz",
+    "ANCHORTEXT": "ADORIA.XYZ"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://anupamapaliwal.com",
+    "ANCHORTEXT": "ANUPAMA Paliwal.com"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://corporate.nordea.fi/#!/",
+    "ANCHORTEXT": "Corporate"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://docs.google.com/document/d/1kqaQckligHllL_WafpHBXwDPstsuQ5-NmUlLRH9Ag48/edit?usp=sharing",
+    "ANCHORTEXT": "Details for reference (Google-Docs)"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSdDE14FLLyFaB2eJvc85i0cshDTx9029wbjZJqeepmXKKJrwg/viewform",
+    "ANCHORTEXT": "READ-FOR 30-MINUTES"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSdsaz4p2nn88bnpeW_937I2tG4GC0wPDPgd6AemMKPQzpXvIg/viewform?c=0&w=1",
+    "ANCHORTEXT": "BP-MON"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSeG-_cAQ1wpShGVqArKvVWKmBFvitaOd0BbDMPXhM9tiEwTGQ/viewform",
+    "ANCHORTEXT": "HABIT TRACKER"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://docs.google.com/spreadsheets/d/1LSlQHEO8Qh1hj2fdg2rC7BPvEkTsKeRunyEqkcyf8TI/edit?usp=sharing",
+    "ANCHORTEXT": "Concepro VAT VERO TAX checking"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://docs.google.com/spreadsheets/d/1neLA0MbPspdz_D5ZWszTIsCjlFAnGTqdvI6huzEoEac/edit#gid=0",
+    "ANCHORTEXT": "Monthly water meter reading"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://docs.google.com/spreadsheets/d/1ZLL84xaGyBdU6bsDOuRINt7mjnWdlhtQcgCYcWced6A/edit#gid=0",
+    "ANCHORTEXT": "Our Food List"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://downloads.concepro.com/_BRAND-CONCEPRO/concepro-08-social/sharing/Index-of-SocialMedia-files-BS.html",
+    "ANCHORTEXT": "SocialMedia"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/all-polygonal-backgrounds/all-lowpoly-backgrounds-index.html",
+    "ANCHORTEXT": "PolyTextures"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/logos/all-logos-index.html",
+    "ANCHORTEXT": "LOGOS"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://downloads.concepro.com/sitemap.html",
+    "ANCHORTEXT": "downloads.concepro.com"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://downloads.mygingergarlickitchen.com/sitemap.html",
+    "ANCHORTEXT": "downloads.mygingergarlickitchen.com"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://enterfinland.fi/eServices/dashboard",
+    "ANCHORTEXT": "Residence Permit Card (Visa)"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://en.ytk.fi/",
+    "ANCHORTEXT": "YTK"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://kiinteistotahkola.ovi.premis.fi/",
+    "ANCHORTEXT": "Kiinteistotahkola - Housing Company PREMIS Service"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://netbank.nordea.fi/#!/",
+    "ANCHORTEXT": "NORDEA"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://palvelu.dna.fi/kirjaudu/",
+    "ANCHORTEXT": "DNA-corporate"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://parenting.firstcry.com/articles/top-15-short-moral-stories-for-kids/",
+    "ANCHORTEXT": "Cursive-short-stories"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://rahoitus.teliasonerafinance.fi/en/MyPages/Overview",
+    "ANCHORTEXT": "TELIA-Business"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://verkkoasiointi.elisa.fi/",
+    "ANCHORTEXT": "OMA-ELISA"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://www.danskebank.fi/en-fi/Personal/Pages/Personal.aspx?secsystem=JS",
+    "ANCHORTEXT": "SAMPO / Danske"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://www.espoo.fi/fi-FI/Asioi_verkossa/Sosiaali_ja_terveyspalvelut/Hae_taydentavaa_ja_ehkaisevaa_toimeentulotukea_verkossa",
+    "ANCHORTEXT": "Espoo-city child hobby"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://www.kela.fi",
+    "ANCHORTEXT": "KELA"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://www.mygingergarlickitchen.com/wp-content/uploads/index-of-mggk-images-for-current-year.html",
+    "ANCHORTEXT": "MGGK-images-index"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://www.nordea.fi/en/business/our-services/accounts-payments/corporate-packages.html",
+    "ANCHORTEXT": "Nordea-packages"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://www.op.fi/etusivu",
+    "ANCHORTEXT": "OP.fi"
+  },
+  {
+    "CATEGORY": "PERSONAL",
+    "URL": "https://www.worksheetworks.com/english/writing/handwriting/cursive-practice.html",
+    "ANCHORTEXT": "Cursive Writing practice"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "file:///home/mint/Desktop/Y/8-software-tools.html",
+    "ANCHORTEXT": "7880"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "file:///home/mint/Desktop/Y/ffmpeg-h264-encoding-commands.html",
+    "ANCHORTEXT": "ffmpeg-h264-encoding-commands"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://192.168.10.1",
+    "ANCHORTEXT": "Elisa Router"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://192.168.10.41",
+    "ANCHORTEXT": "OpenMediaVault NAS (OMV)"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://192.168.3.16",
+    "ANCHORTEXT": "Raspberry Pi4"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://192.168.3.1",
+    "ANCHORTEXT": "WIFI6 Router"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://192.168.8.1",
+    "ANCHORTEXT": "Mango VPN Router"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://aria2.github.io/",
+    "ANCHORTEXT": "aria2 => best replacement for wget/curl"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://bunny.net",
+    "ANCHORTEXT": "Bunny image CDN"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://docs.python.org/3/tutorial/",
+    "ANCHORTEXT": "The Official Python tutorial"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://exiftool.org/",
+    "ANCHORTEXT": "EXIFTOOL"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://exiftool.org/exiftool_pod.html",
+    "ANCHORTEXT": "documentation"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/davatorium/rofi",
+    "ANCHORTEXT": "ROFI"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/denisidoro/navi",
+    "ANCHORTEXT": "navi -CLI interactive cheatsheet tool"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/ibraheemdev/modern-unix",
+    "ANCHORTEXT": "LINUX-FU modern-unix COMMANDS LIST"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/iptv-org/iptv",
+    "ANCHORTEXT": "IPTV - 8000+ channels"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/junegunn/fzf",
+    "ANCHORTEXT": "fzf - cli fuzzy finder"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/Nyr/openvpn-install",
+    "ANCHORTEXT": "openvpn - easy insallation script"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/ranger/ranger/wiki/Keybindings",
+    "ANCHORTEXT": "ranger - cli file manager"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/sharkdp/bat",
+    "ANCHORTEXT": "bat - cli syntax highlighter"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/sharkdp/fd",
+    "ANCHORTEXT": "fd - superb alternative to find"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://github.com/ytdl-org/youtube-dl/blob/master/README.md#output-template-examples",
+    "ANCHORTEXT": "youtube-dl - download web videos"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://gohugo.io/documentation/",
+    "ANCHORTEXT": "Official HUGO docs"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://learnxinyminutes.com/docs/python3/",
+    "ANCHORTEXT": "Learn Python3 in Y Minutes"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://linkchecker.github.io/linkchecker/install.html",
+    "ANCHORTEXT": "Linkchecker"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://manual.calibre-ebook.com/conversion.html#converting-to-pdf",
+    "ANCHORTEXT": "CALIbre - Kindle Mobi to PDF Cheatsheet"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://moz.com/blog/learning-machine-learning",
+    "ANCHORTEXT": "MOZ Machine Learning Guide"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://my.noip.com/#!/dynamic-dns",
+    "ANCHORTEXT": "Dynamic DNS (apx1.ddns.net)"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://ninite.com/",
+    "ANCHORTEXT": "NINITE: The easiest way to get apps"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://portablefreeware.com/",
+    "ANCHORTEXT": "Portable Freeware"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://python.swaroopch.com/",
+    "ANCHORTEXT": "A Byte of Python"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://qpdf.sourceforge.net/files/qpdf-manual.html",
+    "ANCHORTEXT": "QPDF - pdf join/extract CLI tool"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://rclone.org/",
+    "ANCHORTEXT": "rclone"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://realpython.com/",
+    "ANCHORTEXT": "RealPython Quick Tutorials"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://regex101.com/",
+    "ANCHORTEXT": "REGEX Tester Online"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://source.unsplash.com/",
+    "ANCHORTEXT": "Unsplash.com API"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://stackskills.com/courses/enrolled",
+    "ANCHORTEXT": "My StackSkills Courses"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://store.steampowered.com",
+    "ANCHORTEXT": "STEAM-POWERED-GAMING"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://support.bunny.net/hc/en-us/articles/360027448392-Bunny-Optimizer-Engine-Documentation",
+    "ANCHORTEXT": "Bunny image optimization docs"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://support.nordvpn.com/Connectivity/Router/1047409122/GL-iNet-setup-with-NordVPN.htm",
+    "ANCHORTEXT": "NordVPN"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://taskwarrior.org/docs/examples.html",
+    "ANCHORTEXT": "task = TaskWarrior Commands"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://ucp.nordvpn.com/login/",
+    "ANCHORTEXT": "Nord VPN Login"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://unsplash.com/wallpaper",
+    "ANCHORTEXT": "Unsplash-Wallpapers"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://unsplash.it/",
+    "ANCHORTEXT": "Unsplash.it/"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://vps.abhishekpaliwal.com/tree.html",
+    "ANCHORTEXT": "VPS"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://wiki.archlinux.org/title/dmenu",
+    "ANCHORTEXT": "DMENU"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://wiki.omv-extras.org/doku.php?id=installing_omv5_raspberry_pi",
+    "ANCHORTEXT": "NAS - OpenMediaVault on Raspberry Pi (OMV)"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.androidpolice.com/2020/03/24/make-personal-vpn-30-minutes/",
+    "ANCHORTEXT": "(tutorial)"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.degraeve.com/invent-a-word/",
+    "ANCHORTEXT": "Invent-A-Word"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.exiftool.org/examples.html",
+    "ANCHORTEXT": "examples"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.filehippo.com/",
+    "ANCHORTEXT": "FileHippo"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.humblebundle.com/",
+    "ANCHORTEXT": "HumbleBundle.com"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.icollege.co/my-courses",
+    "ANCHORTEXT": "CYBERSECURITY+HACKING-COURSES"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.learnpython.org/",
+    "ANCHORTEXT": "Learn-Python"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.mailinator.com/inbox2.jsp?public_to=apx#/%23public_maildirdiv",
+    "ANCHORTEXT": "apx @ MAILinator"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.ostechnix.com/youtube-dl-tutorial-with-examples-for-beginners/",
+    "ANCHORTEXT": "(easy tutorial)"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.portableapps.com/",
+    "ANCHORTEXT": "Portable APPS"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.sharelatex.com/templates/",
+    "ANCHORTEXT": "ShareLatex Templates"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.smartdnsproxy.com/MyAccount",
+    "ANCHORTEXT": "Smart DNS Proxy"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "https://www.youtube.com/watch?v=qtIqKaDlqXo&index=1&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3",
+    "ANCHORTEXT": "by MikeDane on Youtube"
   },
   {
     "CATEGORY": "TRAVEL",
@@ -358,6 +1268,91 @@
     "CATEGORY": "TRAVEL",
     "URL": "https://www.worldometers.info/coronavirus/#countries",
     "ANCHORTEXT": "Globally"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "file:///home/mint/Desktop/Y/7-website-tools.html",
+    "ANCHORTEXT": "3390"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "file:///home/mint/Desktop/Y/qrcode.png",
+    "ANCHORTEXT": ""
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://anupamapaliwal.com/studio/",
+    "ANCHORTEXT": "BOOTSTRAP site builder"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://bramp.github.io/js-sequence-diagrams/",
+    "ANCHORTEXT": "MARKDOWN - UML Sequence Diagrams"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://chart.googleapis.com/chart?chs=520x520&cht=qr&chl=https://www.concepro.com",
+    "ANCHORTEXT": "Google Barcode Creator"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://design.google.com/icons/",
+    "ANCHORTEXT": "GOOGLE Material Design Icons"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://donatstudios.com/CsvToMarkdownTable",
+    "ANCHORTEXT": "CSV_to_Markdown_Table"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://fortawesome.github.io/Font-Awesome/cheatsheet/",
+    "ANCHORTEXT": "FONT AWESOME CHEATSHEET"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://html-cleaner.com/case-converter/",
+    "ANCHORTEXT": "Online CASE Converter + File Renamer"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://jhy.io/tools/convert-word-to-plain-text",
+    "ANCHORTEXT": "Convert to PlainText from MS-Docs/Google-Docs"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://materializecss.com/",
+    "ANCHORTEXT": "Materialize-CSS"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://stackedit.io/editor",
+    "ANCHORTEXT": "MARKDOWN - StackEdit-or"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://trial.sitebeam.net/",
+    "ANCHORTEXT": "SITEBEAM - WEBSITE ASSESSMENT"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://www.html-cleaner.com/",
+    "ANCHORTEXT": "HTML Cleaner"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://www.muicss.com",
+    "ANCHORTEXT": "MUI-CSS Templates"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://www.tablesgenerator.com/markdown_tables",
+    "ANCHORTEXT": "MarkDown_Tables_Generator"
+  },
+  {
+    "CATEGORY": "WEB-DEVELOPMENT",
+    "URL": "https://www.textfixer.com/tools/remove-line-breaks.php",
+    "ANCHORTEXT": "Remove-Line-Breaks"
   },
   {
     "CATEGORY": "PERSONAL",
