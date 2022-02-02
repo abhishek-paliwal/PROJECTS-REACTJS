@@ -24,7 +24,7 @@ function FnGetSingleCategoryData(singleCategoryName) {
           // console.log(elementList) ; 
       }
   }
-  return ('<ul>' + elementListFull + '</ul>');
+  return ('<ol>' + elementListFull + '</ol>');
 }
 /////////////
 function printAllCategoryData(categoryList_unique) {

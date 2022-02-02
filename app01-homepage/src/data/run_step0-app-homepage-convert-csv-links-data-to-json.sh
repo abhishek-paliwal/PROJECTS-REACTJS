@@ -21,7 +21,7 @@ TMP_HEADERFILE="$DIR_Y/tmp_csv_header.txt" ;
 cat $PROJECT_DATA_DIR_IN/*.csv | head -1 > $TMP_HEADERFILE ; 
 cat $TMP_HEADERFILE | grep -iv "^$" > $CSVFILE_OUT ;
 ## Appending rest of the data
-cat $PROJECT_DATA_DIR_IN/*.csv | grep -iv 'ANCHORTEXT' | grep -iv "^$" | sort -u >> $CSVFILE_OUT ;
+cat $PROJECT_DATA_DIR_IN/*.csv |grep -iv 'ANCHORTEXT' | sed 's/"//ig' |grep -iv "^$" | sort -u >> $CSVFILE_OUT ;
 ##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ## convert downloaded data to json format
@@ -33,12 +33,13 @@ function FUNC_step1_convertCsvFileToJson () {
     while read line; do
         ## IDENTIFYING COMMA-SEPARATED FIELDS
         #echo "LINE = > $line" ;
+        ##
         F_CATEGORY="$(echo $line | cut -d ';' -f1)" ;
-        F_ANCHORTEXT="$(echo $line | cut -d ';' -f2)" ;
-        F_URL="$(echo $line | cut -d ';' -f3)" ;
-        echo "{ \"CATEGORY\" : \"$F_CATEGORY\",\"ANCHORTEXT\" : \"$F_ANCHORTEXT\",\"URL\" : \"$F_URL\" },"
+        F_URL="$(echo $line | cut -d ';' -f2)" ;
+        F_ANCHORTEXT="$(echo $line | cut -d ';' -f3)" ;
+        echo "{ \"CATEGORY\" : \"$F_CATEGORY\",\"URL\" : \"$F_URL\",\"ANCHORTEXT\" : \"$F_ANCHORTEXT\" },"
     done < $tmpFile ;
-    echo "{ \"CATEGORY\" : \"PERSONAL\",\"ANCHORTEXT\" : \"Our Homepage\",\"URL\" : \"$PROJECT_APP_URL\" }" ;
+    echo "{ \"CATEGORY\" : \"PERSONAL\",\"URL\" : \"$PROJECT_APP_URL\",\"ANCHORTEXT\" : \"Our Homepage\" }" ;
     echo "]" ;
 }
 ##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
