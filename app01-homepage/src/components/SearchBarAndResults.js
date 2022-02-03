@@ -5,15 +5,15 @@ import {useState} from 'react';
 /* =============================================== */
 function showInputField (triggerSearchAtChars, setQuery) {
   return <div className="m-3">
-        <label htmlFor="exampleFormControlInput1" className="form-label">Search (with url segment or anchor text, {triggerSearchAtChars} chars required)</label>
-        <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="search image here" onChange={event => {(event.target.value.length >= triggerSearchAtChars) ? setQuery(event.target.value) : setQuery('') }} />
+        <label htmlFor="exampleFormControlInput1" className="form-label">Enter single word (url/anchor-text, {triggerSearchAtChars} chars min)</label>
+        <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="search here" onChange={event => {(event.target.value.length >= triggerSearchAtChars) ? setQuery(event.target.value) : setQuery('') }} />
       </div>
 }
 
 function showRangeSlider (numImagesToShow, setNumImagesToShow) {
   return <div className="m-3">
         <label htmlFor="customRange1" className="form-label">Number of results to display</label>
-        <input type="range" className="form-range" min="1" max="50" id="customRange1" onChange={e => setNumImagesToShow(e.target.value)} />
+        <input type="range" className="form-range" min="1" max="20" id="customRange1" onChange={e => setNumImagesToShow(e.target.value)} />
       </div>
 }
 
@@ -28,8 +28,12 @@ function getSearchResults (query) {
   }) ;      
 
   const printFilteredDataItems = filteredData.map((post,index) => {
-        return <div className="col-sm-6 col-md-4 col-lg-2 col-xl-2" key={index}>
-                    &bull; <a href={post.URL}><small>{post.ANCHORTEXT}</small></a>
+        return  <div className="col-sm-6 col-md-4 col-lg-3 col-xl-3" key={index}>
+                    <div className="card text-white bg-warning mb-3">
+                        <div className="card-body">
+                        <h5 className="card-title"><a href={post.URL}>{post.ANCHORTEXT}</a></h5>
+                        </div>
+                    </div>                  
                 </div>
   }) ;
   return printFilteredDataItems ; 
@@ -38,7 +42,7 @@ function getSearchResults (query) {
 
 const SearchBarAndResults = () => {
   const [query, setQuery] = useState('') ;
-  const [numImagesToShow, setNumImagesToShow] = useState(5) ;
+  const [numImagesToShow, setNumImagesToShow] = useState(4) ;
   // Getting array elements and slicing it to only show N elements
   const finalData = getSearchResults(query) ; 
   const slicedArray = finalData.slice(0, numImagesToShow);
