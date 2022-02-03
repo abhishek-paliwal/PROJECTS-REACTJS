@@ -2,6 +2,7 @@ import React from 'react';
 import data from './data/data_out/combinedCategoryLinksData.json'
 import NavBar from './components/NavBar' ;
 import HeaderText from './components/HeaderText' ;
+import SearchBarAndResults from './components/SearchBarAndResults' ;
 
 /* ========================================= */
 function FnGetAllCategories () {
@@ -56,6 +57,8 @@ const App = () => {
     <div className="section">
       <NavBar />
       <HeaderText />
+      <SearchBarAndResults />
+      <hr />
       <div className="row" dangerouslySetInnerHTML={{ __html: printAllCategoryDataValue }} />
     </div>
   );
