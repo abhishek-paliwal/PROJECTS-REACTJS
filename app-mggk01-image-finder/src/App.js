@@ -1,7 +1,6 @@
 import React from 'react';
 import Data from './data/data_out/mggk_summary_cloudflare_ImagesUrlsWPcontentUploads.csv.json' ;
 import {useState} from 'react';
-import './App.css' ;
 
 /* =============================================== */
 function showInputField (triggerSearchAtChars, setQuery) {
