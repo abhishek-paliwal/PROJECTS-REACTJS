@@ -20,6 +20,25 @@ const NavBar = () => {
         <li className="nav-item">
           <a className="nav-link" href="https://adoria.xyz/">Ado.xyz</a>
         </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://downloads.concepro.com/dropbox-public-files/logos/all-logos-index.html">All-Logos</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://abhishek-paliwal.github.io/wallpapers-index.html">Design4Love</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://downloads.concepro.com/dropbox-public-files/LCE/personal_shorturl_creator.html">URL-Shortners</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://downloads.concepro.com/dropbox-public-files/LCE/_typography_wallpaper_creator/_CSS-Typography-EFFECTS/slabText-master/index_final.html">Bold-Wallpapers</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://downloads.concepro.com/dropbox-public-files/LCE/google_material_design_colors.html">Material-Colors</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://downloads.concepro.com/dropbox-public-files/all-polygonal-backgrounds/all-lowpoly-backgrounds-index.html">Poly-Textures</a>
+        </li>
+
         <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Apps
