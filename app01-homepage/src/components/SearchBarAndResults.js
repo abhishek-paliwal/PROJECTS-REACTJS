@@ -31,7 +31,7 @@ function getSearchResults (query) {
         return  <div className="col-sm-6 col-md-4 col-lg-3 col-xl-3" key={index}>
                     <div className="card text-white bg-warning mb-3">
                         <div className="card-body">
-                        <h5 className="card-title"><a href={post.URL}>{post.ANCHORTEXT}</a></h5>
+                        <h5 className="card-title"><a target="_blank" rel="noopener noreferrer" href={post.URL}>{post.ANCHORTEXT}</a></h5>
                         </div>
                     </div>                  
                 </div>
