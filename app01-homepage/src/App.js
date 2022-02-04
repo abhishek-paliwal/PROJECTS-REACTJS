@@ -13,34 +13,38 @@ function FnGetAllCategories () {
   }
   return categoryList ; 
 }
+
 /////////////
 function FnGetSingleCategoryData(singleCategoryName) {
-  let elementListFull = '' ; 
-  let myObj = [] ;
+  // Getting data for single category 
+  let mySingleCategoryItemsObj = [] ;
   for(var i = 0 ; i < data.length ; i++){
       let singleCategoryOriginal = data[i]['CATEGORY'] ; 
       if( singleCategoryOriginal.toLowerCase() === singleCategoryName.toLowerCase() ){
-          let myVar = data[i] ;
-          ////
-          myObj.push(myVar) ;
-          ////
-          let elementList = '<li><a href="' + myVar.URL + '">' + myVar.ANCHORTEXT + '</a></li>' ;
-          elementListFull = elementListFull + elementList ;
-          // console.log(elementList) ; 
+        mySingleCategoryItemsObj.push(data[i]) ;
+        //console.log(data[i]) ; 
       }
   }
-
-  let myObj_sorted = myObj.sort(function(a, b) {
-    var nameA = a.ANCHORTEXT.toUpperCase(); // ignore case
-    var nameB = b.ANCHORTEXT.toUpperCase(); // ignore case
-    if (nameA < nameB) { return -1; }
-    if (nameA > nameB) { return 1;}    
-    return 0; // names must be equal
-    });
-
-  console.log(myObj_sorted);
+  // Sorting the data based upon anchor text
+  let mySingleCategoryItemsObj_sorted = mySingleCategoryItemsObj.sort(function(a, b) {
+    var valA = a.ANCHORTEXT.toUpperCase(); // ignore case first
+    var valB = b.ANCHORTEXT.toUpperCase(); // ignore case first
+    if (valA < valB) { return -1; }
+    if (valA > valB) { return 1; }    
+    return 0; // values must be equal
+  });  
+  //console.log(mySingleCategoryItemsObj_sorted);
+  // Create final data to print
+  let elementListFull = '' ; 
+  for (const myVar of Object.values(mySingleCategoryItemsObj_sorted)) { 
+    //console.log( myVar.ANCHORTEXT + ' = ' + myVar.URL) ;
+    let elementList = '<li><a target="_blank" rel="noopener noreferrer" href="' + myVar.URL + '">' + myVar.ANCHORTEXT + '</a></li>' ;
+    elementListFull = elementListFull + elementList ;
+  } ;
+  // Return final sorted data for this category
   return ('<ol>' + elementListFull + '</ol>');
 }
+
 /////////////
 function printAllCategoryData(categoryList_unique) {
   let printAllCategoryData = ''  ;
@@ -62,9 +66,9 @@ function printAllCategoryData(categoryList_unique) {
 const App = () => {
   const categoryList = FnGetAllCategories() ;
   const categoryList_unique = [...new Set(categoryList)];
-  //console.log(categoryList);
-  // console.log(categoryList_unique);
   const printAllCategoryDataValue = printAllCategoryData(categoryList_unique) ; 
+  //console.log(categoryList);
+  //console.log(categoryList_unique);
   //console.log(typeof(printAllCategoryDataValue)) ; // should be string type
 
   return (
