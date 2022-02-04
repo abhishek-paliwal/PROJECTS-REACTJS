@@ -541,6 +541,11 @@
   },
   {
     "CATEGORY": "PERSONAL",
+    "URL": "https://www.onlinesbi.com/",
+    "ANCHORTEXT": "Banking - SBI Online"
+  },
+  {
+    "CATEGORY": "PERSONAL",
     "URL": "https://www.op.fi/etusivu",
     "ANCHORTEXT": "Banking - OP.fi"
   },
@@ -721,28 +726,38 @@
   },
   {
     "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://192.168.10.1",
+    "URL": "http://192.168.10.1",
     "ANCHORTEXT": "LAN server - Elisa Router"
   },
   {
     "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://192.168.10.41",
+    "URL": "http://192.168.10.41",
     "ANCHORTEXT": "LAN server - OpenMediaVault NAS (OMV)"
   },
   {
     "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://192.168.3.16",
+    "URL": "http://192.168.3.16",
     "ANCHORTEXT": "LAN server - Raspberry Pi4"
   },
   {
     "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://192.168.3.1",
+    "URL": "http://192.168.3.1",
     "ANCHORTEXT": "LAN server - WIFI6 Router"
   },
   {
     "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://192.168.8.1",
+    "URL": "http://192.168.8.1",
     "ANCHORTEXT": "LAN server - Mango VPN Router"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "http://localhost:1313",
+    "ANCHORTEXT": "LAN server - Hugo Server (localhost:1313)"
+  },
+  {
+    "CATEGORY": "SOFTWARE-TOOLS",
+    "URL": "http://localhost:3000",
+    "ANCHORTEXT": "LAN server - Node NPM Server (localhost:3000)"
   },
   {
     "CATEGORY": "SOFTWARE-TOOLS",
@@ -823,16 +838,6 @@
     "CATEGORY": "SOFTWARE-TOOLS",
     "URL": "https://linkchecker.github.io/linkchecker/install.html",
     "ANCHORTEXT": "CLI tool - Linkchecker"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://localhost:1313",
-    "ANCHORTEXT": "LAN server - Hugo Server (localhost:1313)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://localhost:3000",
-    "ANCHORTEXT": "LAN server - Node NPM Server (localhost:3000)"
   },
   {
     "CATEGORY": "SOFTWARE-TOOLS",

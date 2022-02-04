@@ -107,6 +107,7 @@ PERSONAL;https://www.danskebank.fi/en-fi/Personal/Pages/Personal.aspx?secsystem=
 PERSONAL;https://www.espoo.fi/fi-FI/Asioi_verkossa/Sosiaali_ja_terveyspalvelut/Hae_taydentavaa_ja_ehkaisevaa_toimeentulotukea_verkossa;Banking - Espoo-city child hobby
 PERSONAL;https://www.kela.fi;Banking - KELA
 PERSONAL;https://www.nordea.fi/en/business/our-services/accounts-payments/corporate-packages.html;Banking - Nordea Corporate packages
+PERSONAL;https://www.onlinesbi.com/;Banking - SBI Online
 PERSONAL;https://www.op.fi/etusivu;Banking - OP.fi
 PROGRAMMING;https://analytics.google.com/analytics/web/#/p251225617/reports/reportinghub;Google Analytics
 PROGRAMMING;https://api.cloudflare.com/#cloudflare-images-properties;Cloudflare API docs
@@ -143,11 +144,13 @@ SCHOOL;https://www.hs.fi/lastenuutiset/;School - HS_fi (Lasten Uutiset News)
 SCHOOL;https://www.sanomapro.fi/;School - SanomaPro Login
 SCHOOL;https://www.storylineonline.net/library/;School - English stories by celebrities
 SCHOOL;https://www.worksheetworks.com/english/writing/handwriting/cursive-practice.html;School - Cursive Writing practice
-SOFTWARE-TOOLS;https://192.168.10.1;LAN server - Elisa Router
-SOFTWARE-TOOLS;https://192.168.10.41;LAN server - OpenMediaVault NAS (OMV)
-SOFTWARE-TOOLS;https://192.168.3.16;LAN server - Raspberry Pi4
-SOFTWARE-TOOLS;https://192.168.3.1;LAN server - WIFI6 Router
-SOFTWARE-TOOLS;https://192.168.8.1;LAN server - Mango VPN Router
+SOFTWARE-TOOLS;http://192.168.10.1;LAN server - Elisa Router
+SOFTWARE-TOOLS;http://192.168.10.41;LAN server - OpenMediaVault NAS (OMV)
+SOFTWARE-TOOLS;http://192.168.3.16;LAN server - Raspberry Pi4
+SOFTWARE-TOOLS;http://192.168.3.1;LAN server - WIFI6 Router
+SOFTWARE-TOOLS;http://192.168.8.1;LAN server - Mango VPN Router
+SOFTWARE-TOOLS;http://localhost:1313;LAN server - Hugo Server (localhost:1313)
+SOFTWARE-TOOLS;http://localhost:3000;LAN server - Node NPM Server (localhost:3000)
 SOFTWARE-TOOLS;https://aria2.github.io/;CLI Tool aria2 (best replacement for wget/curl)
 SOFTWARE-TOOLS;https://downloads.concepro.com/dropbox-public-files/LCE/ffmpeg-h264-encoding-commands.html;CLI Tool - ffmpeg-h264-encoding-commands
 SOFTWARE-TOOLS;https://exiftool.org/;CLI tool - Exiftool
@@ -164,8 +167,6 @@ SOFTWARE-TOOLS;https://github.com/sharkdp/fd;CLI Tool - fd - alternative to find
 SOFTWARE-TOOLS;https://github.com/ytdl-org/youtube-dl/blob/master/README.md#output-template-examples;CLI Tool - youtube-dl - download web videos
 SOFTWARE-TOOLS;https://gohugo.io/documentation/;Official Go-HUGO docs
 SOFTWARE-TOOLS;https://linkchecker.github.io/linkchecker/install.html;CLI tool - Linkchecker
-SOFTWARE-TOOLS;https://localhost:1313;LAN server - Hugo Server (localhost:1313)
-SOFTWARE-TOOLS;https://localhost:3000;LAN server - Node NPM Server (localhost:3000)
 SOFTWARE-TOOLS;https://manual.calibre-ebook.com/conversion.html#converting-to-pdf;CALIBRE - Kindle Mobi to PDF Cheatsheet
 SOFTWARE-TOOLS;https://moz.com/blog/learning-machine-learning;MOZ Machine Learning Guide
 SOFTWARE-TOOLS;https://ninite.com/;NINITE: The easiest way to get apps
