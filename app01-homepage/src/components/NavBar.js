@@ -14,17 +14,21 @@ const NavBar = () => {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item">
-          <a className="nav-link" aria-current="page" href="https://www.mygingergarlickitchen.com/">MGGK</a>
+          <a className="nav-link" href="https://www.mygingergarlickitchen.com/">MGGK</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="https://www.concepro.com/">Concepro</a>
         </li>
         <li className="nav-item">
+          <a className="nav-link" href="https://www.leelasrecipes.com/">LeelasRecipes</a>
+        </li>        
+        <li className="nav-item">
           <a className="nav-link" href="https://adoria.xyz/">Ado.xyz</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="https://abhishek-paliwal.github.io/wallpapers-index.html">Design4Love</a>
+          <a className="nav-link" href="https://downloads.concepro.com/dropbox-public-files/LCE/big_bold_random_quotes.html">Want-Wisdom?</a>
         </li>
+
         <li className="nav-item">
           <a className="nav-link" href="https://downloads.concepro.com/dropbox-public-files/LCE/personal_shorturl_creator.html">URL-Shorteners</a>
         </li>
@@ -34,6 +38,7 @@ const NavBar = () => {
             Designing-Tools
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown1">
+            <li><a className="dropdown-item" href="https://abhishek-paliwal.github.io/wallpapers-index.html">Design4Love</a></li>
             <li><a className="dropdown-item" href="https://downloads.concepro.com/dropbox-public-files/all-polygonal-backgrounds/all-lowpoly-backgrounds-index.html">Poly-Textures</a></li>
             <li><a className="dropdown-item" href="https://downloads.concepro.com/dropbox-public-files/LCE/google_material_design_colors.html">Material-Colors</a></li>
             <li><a className="dropdown-item" href="https://downloads.concepro.com/dropbox-public-files/logos/all-logos-index.html">All-Logos</a></li>

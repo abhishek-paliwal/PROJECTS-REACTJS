@@ -55,8 +55,8 @@ const SearchBarAndResults = () => {
       {showRangeSlider (numImagesToShow, setNumImagesToShow)}
     </div></div>
     <div className="row">
-      <div className="col-12 m-3">
-        <h4><strong>{finalData.length} results found</strong> { (query.length >= triggerSearchAtChars) ? 'for term ' + query : 'in database' } (showing max {numImagesToShow})</h4> 
+      <div className="col-12 m-3 text-white">
+        <h4><strong>{finalData.length} links found</strong> { (query.length >= triggerSearchAtChars) ? 'for term ' + query : 'in database' } (showing max {numImagesToShow})</h4> 
       </div>
       {slicedArray}
     </div>

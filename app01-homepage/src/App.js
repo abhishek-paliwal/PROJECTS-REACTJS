@@ -72,10 +72,12 @@ const App = () => {
   //console.log(typeof(printAllCategoryDataValue)) ; // should be string type
 
   return (
-    <div className="section">
+    <div className="section">    
       <NavBar />
       <HeaderText />
-      <SearchBarAndResults />
+      <div className="shadow rounded bg-dark">
+        <SearchBarAndResults />
+      </div>
       <hr />
       <div className="row" dangerouslySetInnerHTML={{ __html: printAllCategoryDataValue }} />
     </div>

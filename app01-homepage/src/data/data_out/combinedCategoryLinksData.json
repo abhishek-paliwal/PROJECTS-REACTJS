@@ -1,1016 +1,1061 @@
 [
   {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://abhishek-paliwal.github.io/",
-    "ANCHORTEXT": "GITHUB - My GitHub HomePage"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://abhishek-paliwal.github.io/wallpapers-index.html",
-    "ANCHORTEXT": "Github - Javascript Wallpapers Index"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://drive.google.com/drive/my-drive",
-    "ANCHORTEXT": "Google Drive"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://drive.google.com/drive/quota",
-    "ANCHORTEXT": "Google Drive - Find Quota"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://github.com/abhishek-paliwal/",
-    "ANCHORTEXT": "GITHUB - My GitHub Repositories"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://github.com/abhishek-paliwal/Bash-Scripts-To-Make-Life-Easier/tree/master/mggk_bash_scripts/600-mggk-artificial-intelligence-nlp-programs",
-    "ANCHORTEXT": "GITHUB - Github-600-scripts"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://panel.dreamhost.com/",
-    "ANCHORTEXT": "Dreamhost - Login"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://public-palibucket.objects-us-east-1.dream.io/",
-    "ANCHORTEXT": "Dreamhost - DreamObjects Public Bucket"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://public-palibucket.objects-us-east-1.dream.io/g/tmp_g.html",
-    "ANCHORTEXT": "Dreamhost - Dreamobjects (tmp_g)"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://virre.prh.fi/novus/companySearch?execution=e2s1",
-    "ANCHORTEXT": "Finland- Company Search"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://www.concepro.com/wp-admin",
-    "ANCHORTEXT": "Concepro Login (Wordpress)"
-  },
-  {
-    "CATEGORY": "CONCEPRO",
-    "URL": "https://www.sendy.concepro.com/sendy/",
-    "ANCHORTEXT": "SENDY - Login"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://graphicburger.com/",
-    "ANCHORTEXT": "Graphic-BURGER MOCKUPS"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://graphicriver.net/",
-    "ANCHORTEXT": "GRAPHIC-river"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://iconsvg.xyz/",
-    "ANCHORTEXT": "SVG Icons (monocolor, resizable)"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://pinterest.com/psdcovers/psd-cover-actions/",
-    "ANCHORTEXT": "PSDcovers-Pinterest"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://typeslab.com/",
-    "ANCHORTEXT": "Slab poster maker"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://typespiration.com/",
-    "ANCHORTEXT": "Typographic-CSS - TYPEspiration"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://uk.moo.com/design-templates/business-cards/",
-    "ANCHORTEXT": "MOO CARDS - Design inspiration"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://videohive.net/",
-    "ANCHORTEXT": "VIDEOhive"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://www.canva.com/templates/",
-    "ANCHORTEXT": "CANVA Design Templates"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://www.cssauthor.com/free-mockup-templates-psd-designs/",
-    "ANCHORTEXT": "500+ Free Mockup Templates"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://www.freepik.com",
-    "ANCHORTEXT": "FreePik free vectors"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://www.homemade-gifts-made-easy.com/personalized-poster-80th-birthday-gift.html",
-    "ANCHORTEXT": "Typography Homemade Posters"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://www.inkydeals.com/",
-    "ANCHORTEXT": "INKYDEALS"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://www.pixeden.com/psd-mock-up-templates",
-    "ANCHORTEXT": "PIXEDEN"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://www.psdcovers.com/",
-    "ANCHORTEXT": "PSDcovers"
-  },
-  {
-    "CATEGORY": "DESIGNING",
-    "URL": "https://www.vanschneider.com/colors/",
-    "ANCHORTEXT": "Tobias Van Schneider - ColorClaim"
-  },
-  {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://ahrefs.com/dashboard",
     "ANCHORTEXT": "AHREFS - Webmaster Tools"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://audiojungle.net/category/music-kits?sort=sales",
     "ANCHORTEXT": "Royalty-Free-Music - AudioJungle"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://clarity.microsoft.com/projects",
     "ANCHORTEXT": "Microsoft Clarity SEO"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/2019-mggk-all-input-forms.html",
     "ANCHORTEXT": "MGGK ALL INPUT FORMS"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/index.html",
     "ANCHORTEXT": "MGGK Scripts Outputs- INDEX of Summary Files"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/mggk-sitestats.html",
     "ANCHORTEXT": "MGGK Sitestats"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://downloads.mygingergarlickitchen.com/mggk-00-external-communication/__mggk_profile/_mggk-blogpost-checklist.html",
     "ANCHORTEXT": "MGGK - BlogPost-CHECKLIST (old)"
   },
   {
-    "CATEGORY": "MGGK",
-    "URL": "https://html-cleaner.com",
-    "ANCHORTEXT": "HTML cleaner"
-  },
-  {
-    "CATEGORY": "MGGK",
-    "URL": "https://html-css-js.com/html/character-codes/icons/",
-    "ANCHORTEXT": "HTML Symbols Colored Icons"
-  },
-  {
-    "CATEGORY": "MGGK",
-    "URL": "https://htmlarrows.com",
-    "ANCHORTEXT": "HTML Symbols Database"
-  },
-  {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://incompetech.com/music/royalty-free/music.html",
     "ANCHORTEXT": "Royalty-Free-Music - Incompetech"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://search.google.com/test/rich-results",
     "ANCHORTEXT": "GOOGLE LD+JSON Rich Testing Tool"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://sellercentral.amazon.com/hz/inventory",
     "ANCHORTEXT": "MGGK - Amazon STORE INVENTORY (Login)"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://svc.ezoic.com/publisher.php",
     "ANCHORTEXT": "EZOIC-login"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://teknoaxe.com/Home.php",
     "ANCHORTEXT": "Royalty-Free-Music - TechnoAxe"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://webmaster.yandex.com/site/https%3Awww.mygingergarlickitchen.com%3A443/dashboard/",
     "ANCHORTEXT": "Webmaster Tools - YANDEX"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://wordtohtml.net/",
     "ANCHORTEXT": "HTML MS-Word to links converter"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://www.amzn.com/B00OKTU5MU",
     "ANCHORTEXT": "MGGK - Amazon Book (Cooking Tips)"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://www.bensound.com/",
     "ANCHORTEXT": "Royalty-Free-Music - BenSound"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://www.bing.com/webmasters/searchperf?siteUrl=https://mygingergarlickitchen.com/",
     "ANCHORTEXT": "Webmaster Tools - Microsoft Bing"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://www.checkmoz.com/",
     "ANCHORTEXT": "DA Finder (Domain authority)"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://www.mygingergarlickitchen.com/sitemap.xml",
     "ANCHORTEXT": "MGGK - Sitemap.xml"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://www.mygingergarlickitchen.com/video-sitemap.xml",
     "ANCHORTEXT": "MGGK - Video-Sitemap.xml"
   },
   {
-    "CATEGORY": "MGGK",
+    "CATEGORY": "01-MGGK",
     "URL": "https://www.whois.com/whois",
     "ANCHORTEXT": "Whois.com"
   },
   {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://192.168.3.16/pi03-plotting-outputs/_TMP_PI03_PYTHON_TEMPERATURE_PLOTS_PROGRAM_OUTPUT.html",
-    "ANCHORTEXT": "RPI4 -Temperature Plots"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://abhishek-paliwal.github.io/wallpaper_creators/JSON-templates-for-design/Index-of-all-JSON-files.html",
-    "ANCHORTEXT": "Index of images - JSON Templates (designing)"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://abhishekpali.us",
-    "ANCHORTEXT": "abhishekpali.us"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://adoria.xyz/",
-    "ANCHORTEXT": "adoria.xyz"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://app-mggk01-image-finder.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app-mggk01-image-finder"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://app-mggk01-image-finder.vercel.app/",
-    "ANCHORTEXT": "React Vercel - app-mggk01-image-finder"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://app01-homepage.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app01-homepage"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://app02-foodblogfeeds.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app02-foodblogfeeds"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://app02-foodblogfeeds.vercel.app/",
-    "ANCHORTEXT": "React Vercel - app02-foodblogfeeds"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://app03-tictactoe.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app03-tictactoe"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://app04-openmultiplelinks.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app04-openmultiplelinks"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://conce.pro",
-    "ANCHORTEXT": "conce.pro"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://downloads.concepro.com/_BRAND-CONCEPRO/concepro-08-social/sharing/Index-of-SocialMedia-files-BS.html",
-    "ANCHORTEXT": "Index of images - SocialMedia"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/leelasrecipes-sitestats.html",
-    "ANCHORTEXT": "LeelasRecipes Sitestats"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/all-polygonal-backgrounds/all-lowpoly-backgrounds-index.html",
-    "ANCHORTEXT": "Index of images - PolyTextures"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/logos/all-logos-index.html",
-    "ANCHORTEXT": "Index of images - LOGOS"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://downloads.concepro.com/sitemap.html",
-    "ANCHORTEXT": "Sitemap - downloads.concepro.com"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://downloads.mygingergarlickitchen.com/sitemap.html",
-    "ANCHORTEXT": "Sitemap - downloads.mygingergarlickitchen.com"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://sendy.concepro.com/my-scripts/sendy-subscriber-names.php",
-    "ANCHORTEXT": "Sendy - Subs Count"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://vps.abhishekpaliwal.com/scripts-html-outputs/602-mggk-plotting-outputs/_TMP_602_PYTHON_PLOTS_PROGRAM_OUTPUT.html",
-    "ANCHORTEXT": "VPS - PYTHON CSV-PLOTS"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://vps.abhishekpaliwal.com/scripts-html-outputs/INDEX-OF-OUR-EVENTS.html",
-    "ANCHORTEXT": "VPS - EVENTS TIMETABLE"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://vps.abhishekpaliwal.com/tree.html",
-    "ANCHORTEXT": "VPS-TREE"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://www.abhishekpaliwal.com",
-    "ANCHORTEXT": "abhishekpaliwal.com"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://www.anupamapaliwal.com",
-    "ANCHORTEXT": "anupamapaliwal.com"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://www.leelasrecipes.com/",
-    "ANCHORTEXT": "LeelasRecipes.com"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://www.mantracoaching.in",
-    "ANCHORTEXT": "mantracoaching.in"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://www.mggkanu.com",
-    "ANCHORTEXT": "mggkanu.com"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://www.notes.abhishekpaliwal.com/",
-    "ANCHORTEXT": "notes.abhishekpaliwal.com"
-  },
-  {
-    "CATEGORY": "MY-WEBAPPS",
-    "URL": "https://www.stockfotoage.com",
-    "ANCHORTEXT": "stockfotoage.com"
-  },
-  {
-    "CATEGORY": "NEWS",
+    "CATEGORY": "02-NEWS",
     "URL": "https://news.google.com/",
     "ANCHORTEXT": "Google News"
   },
   {
-    "CATEGORY": "NEWS",
+    "CATEGORY": "02-NEWS",
     "URL": "https://slashdot.org/",
     "ANCHORTEXT": "SlashDot"
   },
   {
-    "CATEGORY": "NEWS",
+    "CATEGORY": "02-NEWS",
     "URL": "https://www.bbc.com/",
     "ANCHORTEXT": "BBC"
   },
   {
-    "CATEGORY": "NEWS",
+    "CATEGORY": "02-NEWS",
     "URL": "https://www.hindustantimes.com",
     "ANCHORTEXT": "HT"
   },
   {
-    "CATEGORY": "NEWS",
+    "CATEGORY": "02-NEWS",
     "URL": "https://www.hs.fi/",
     "ANCHORTEXT": "Finland- HS.fi"
   },
   {
-    "CATEGORY": "NEWS",
+    "CATEGORY": "02-NEWS",
     "URL": "https://www.hs.fi/metro/",
     "ANCHORTEXT": "Finland - Metro Helsinki"
   },
   {
-    "CATEGORY": "NEWS",
+    "CATEGORY": "02-NEWS",
+    "URL": "https://www.nytimes.com/",
+    "ANCHORTEXT": "NYTimes"
+  },
+  {
+    "CATEGORY": "02-NEWS",
     "URL": "https://www.thehindu.com",
     "ANCHORTEXT": "TheHindu"
   },
   {
-    "CATEGORY": "NEWS",
+    "CATEGORY": "02-NEWS",
     "URL": "https://www.timesofindia.com",
     "ANCHORTEXT": "TOI"
   },
   {
-    "CATEGORY": "NEWS",
+    "CATEGORY": "02-NEWS",
     "URL": "https://www.yle.fi/news",
     "ANCHORTEXT": "Finland - YLE English news"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://corporate.nordea.fi/#!/",
-    "ANCHORTEXT": "Banking - Nordea Corporate Login"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://abhishek-paliwal.github.io/",
+    "ANCHORTEXT": "GITHUB - My GitHub HomePage"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://docs.google.com/document/d/1kqaQckligHllL_WafpHBXwDPstsuQ5-NmUlLRH9Ag48/edit?usp=sharing",
-    "ANCHORTEXT": "Google Docs - Details for reference"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://abhishek-paliwal.github.io/wallpapers-index.html",
+    "ANCHORTEXT": "Github - Javascript Wallpapers Index"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSdDE14FLLyFaB2eJvc85i0cshDTx9029wbjZJqeepmXKKJrwg/viewform",
-    "ANCHORTEXT": "Google Form - READ-FOR 30-MINUTES"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://drive.google.com/drive/my-drive",
+    "ANCHORTEXT": "Google Drive"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSdsaz4p2nn88bnpeW_937I2tG4GC0wPDPgd6AemMKPQzpXvIg/viewform?c=0&w=1",
-    "ANCHORTEXT": "Google Form - BP-MON"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://drive.google.com/drive/quota",
+    "ANCHORTEXT": "Google Drive - Find Quota"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSeG-_cAQ1wpShGVqArKvVWKmBFvitaOd0BbDMPXhM9tiEwTGQ/viewform",
-    "ANCHORTEXT": "Google Form - HABIT TRACKER"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://github.com/abhishek-paliwal/",
+    "ANCHORTEXT": "GITHUB - My GitHub Repositories"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://docs.google.com/spreadsheets/d/1LSlQHEO8Qh1hj2fdg2rC7BPvEkTsKeRunyEqkcyf8TI/edit?usp=sharing",
-    "ANCHORTEXT": "Google Form - Concepro VAT VERO TAX checking"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://github.com/abhishek-paliwal/Bash-Scripts-To-Make-Life-Easier/tree/master/mggk_bash_scripts/600-mggk-artificial-intelligence-nlp-programs",
+    "ANCHORTEXT": "GITHUB - Github-600-scripts"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://docs.google.com/spreadsheets/d/1ZLL84xaGyBdU6bsDOuRINt7mjnWdlhtQcgCYcWced6A/edit#gid=0",
-    "ANCHORTEXT": "Google Form - Our Food List"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://panel.dreamhost.com/",
+    "ANCHORTEXT": "Dreamhost - Login"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://docs.google.com/spreadsheets/d/1neLA0MbPspdz_D5ZWszTIsCjlFAnGTqdvI6huzEoEac/edit#gid=0",
-    "ANCHORTEXT": "Google Form - Monthly water meter reading"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://public-palibucket.objects-us-east-1.dream.io/",
+    "ANCHORTEXT": "Dreamhost - DreamObjects Public Bucket"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://en.ytk.fi/",
-    "ANCHORTEXT": "Banking - YTK"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://public-palibucket.objects-us-east-1.dream.io/g/tmp_g.html",
+    "ANCHORTEXT": "Dreamhost - Dreamobjects (tmp_g)"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://enterfinland.fi/eServices/dashboard",
-    "ANCHORTEXT": "Banking - MIGRI Residence Permit Card (Visa)"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://virre.prh.fi/novus/companySearch?execution=e2s1",
+    "ANCHORTEXT": "Finland- Company Search"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://netbank.nordea.fi/#!/",
-    "ANCHORTEXT": "Banking - Nordea Private Login"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://www.concepro.com/wp-admin",
+    "ANCHORTEXT": "Concepro Login (Wordpress)"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://palvelu.dna.fi/kirjaudu/",
-    "ANCHORTEXT": "Banking - DNA-corporate"
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://www.sendy.concepro.com/sendy/",
+    "ANCHORTEXT": "SENDY - Login"
   },
   {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://rahoitus.teliasonerafinance.fi/en/MyPages/Overview",
-    "ANCHORTEXT": "Banking - TELIA-Business"
-  },
-  {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://verkkoasiointi.elisa.fi/",
-    "ANCHORTEXT": "Banking - OMA-ELISA"
-  },
-  {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://www.danskebank.fi/en-fi/Personal/Pages/Personal.aspx?secsystem=JS",
-    "ANCHORTEXT": "Banking - Danske Login"
-  },
-  {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://www.espoo.fi/fi-FI/Asioi_verkossa/Sosiaali_ja_terveyspalvelut/Hae_taydentavaa_ja_ehkaisevaa_toimeentulotukea_verkossa",
-    "ANCHORTEXT": "Banking - Espoo-city child hobby"
-  },
-  {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://www.kela.fi",
-    "ANCHORTEXT": "Banking - KELA"
-  },
-  {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://www.nordea.fi/en/business/our-services/accounts-payments/corporate-packages.html",
-    "ANCHORTEXT": "Banking - Nordea Corporate packages"
-  },
-  {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://www.onlinesbi.com/",
-    "ANCHORTEXT": "Banking - SBI Online"
-  },
-  {
-    "CATEGORY": "PERSONAL",
-    "URL": "https://www.op.fi/etusivu",
-    "ANCHORTEXT": "Banking - OP.fi"
-  },
-  {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://analytics.google.com/analytics/web/#/p251225617/reports/reportinghub",
     "ANCHORTEXT": "Google Analytics"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://api.cloudflare.com/#cloudflare-images-properties",
     "ANCHORTEXT": "Cloudflare API docs"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://app.short.io/users/dashboard/325285/links",
     "ANCHORTEXT": "SHORT.IO (URL shortener)"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://dash.cloudflare.com/",
     "ANCHORTEXT": "Cloudflare Login"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://dash.cloudflare.com/sign-up/images",
     "ANCHORTEXT": "Cloudflare Images"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://matplotlib.org/gallery/index.html",
     "ANCHORTEXT": "Python - MatPlotLib Gallery"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://pages.cloudflare.com/",
     "ANCHORTEXT": "Cloudflare Pages"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html",
     "ANCHORTEXT": "Python - Plotting with Pandas"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://search.google.com/search-console?utm_source=about-page&resource_id=https://www.mygingergarlickitchen.com/",
     "ANCHORTEXT": "Google Search Console"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://stackabuse.com/how-to-format-dates-in-python/",
     "ANCHORTEXT": "Python - Date formatting"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://talktotransformer.com",
     "ANCHORTEXT": "AI + NLP - OpenAI (TalkToTransformer)"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://translate.google.com",
     "ANCHORTEXT": "Google Translate"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://vercel.com/login",
     "ANCHORTEXT": "VERCEL login"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/",
     "ANCHORTEXT": "Python - Beautiful Soup4 Tutorial"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://www.google.com/adsense/new/u/0/pub-7892938469578087/home?sourceid=aso&noaccount=false&marketing=true",
     "ANCHORTEXT": "Google Adsense"
   },
   {
-    "CATEGORY": "PROGRAMMING",
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://www.google.com/inputtools/try/",
     "ANCHORTEXT": "Google Hindi TransLiteration"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://areena.yle.fi/1-3371178",
-    "ANCHORTEXT": "School - Pikku Kakkonen (Yle Areena)"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://corporate.nordea.fi/#!/",
+    "ANCHORTEXT": "Banking - Nordea Corporate Login"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://areena.yle.fi/audio/ohjelmat/57-DDRw1lBwg",
-    "ANCHORTEXT": "School - YLE Audio Stories"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://docs.google.com/document/d/1kqaQckligHllL_WafpHBXwDPstsuQ5-NmUlLRH9Ag48/edit?usp=sharing",
+    "ANCHORTEXT": "Google Docs - Details for reference"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://docs.google.com/document/d/120Lny9rU6dohEgISChgTIY5tEhWBKidWxzpgL_v3YTA/edit?usp=sharing",
-    "ANCHORTEXT": "School - English-Homework"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSdDE14FLLyFaB2eJvc85i0cshDTx9029wbjZJqeepmXKKJrwg/viewform",
+    "ANCHORTEXT": "Google Form - READ-FOR 30-MINUTES"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://docs.google.com/document/d/1XzJvgbzjLRik3IzikXP2KSJ-4L76K1e0xOJQ31dM7A4/edit",
-    "ANCHORTEXT": "School - Words I Know"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSdsaz4p2nn88bnpeW_937I2tG4GC0wPDPgd6AemMKPQzpXvIg/viewform?c=0&w=1",
+    "ANCHORTEXT": "Google Form - BP-MON"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/cursive-alphabets-lettering.jpg",
-    "ANCHORTEXT": "School - Cursive-letters-alphabets"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSeG-_cAQ1wpShGVqArKvVWKmBFvitaOd0BbDMPXhM9tiEwTGQ/viewform",
+    "ANCHORTEXT": "Google Form - HABIT TRACKER"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/cursive-ornamental-practice.jpg",
-    "ANCHORTEXT": "School - cursive-ornamental practice-print"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://docs.google.com/spreadsheets/d/1LSlQHEO8Qh1hj2fdg2rC7BPvEkTsKeRunyEqkcyf8TI/edit?usp=sharing",
+    "ANCHORTEXT": "Google Form - Concepro VAT VERO TAX checking"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://edu.typingmaster.com/login?id=cdkcn9md3",
-    "ANCHORTEXT": "School - Touch Typing Tutorial"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://docs.google.com/spreadsheets/d/1ZLL84xaGyBdU6bsDOuRINt7mjnWdlhtQcgCYcWced6A/edit#gid=0",
+    "ANCHORTEXT": "Google Form - Our Food List"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://espoo.inschool.fi/",
-    "ANCHORTEXT": "School - WILMA (espoo.inschool.fi)"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://docs.google.com/spreadsheets/d/1neLA0MbPspdz_D5ZWszTIsCjlFAnGTqdvI6huzEoEac/edit#gid=0",
+    "ANCHORTEXT": "Google Form - Monthly water meter reading"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://getcomics.info/?s=donald%20duck",
-    "ANCHORTEXT": "Comics - Donald Duck"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://en.ytk.fi/",
+    "ANCHORTEXT": "Banking - YTK"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://oopperabaletti.fi/en/stage24/",
-    "ANCHORTEXT": "School- Opera (Stage24 Performances)"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://enterfinland.fi/eServices/dashboard",
+    "ANCHORTEXT": "Banking - MIGRI Residence Permit Card (Visa)"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://oppilas.otava.fi/#/",
-    "ANCHORTEXT": "School - oppilas.otava.fi"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://netbank.nordea.fi/#!/",
+    "ANCHORTEXT": "Banking - Nordea Private Login"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://parenting.firstcry.com/articles/top-15-short-moral-stories-for-kids/",
-    "ANCHORTEXT": "School - Cursive-short-stories"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://palvelu.dna.fi/kirjaudu/",
+    "ANCHORTEXT": "Banking - DNA-corporate"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://www.10monkeys.com/uk/",
-    "ANCHORTEXT": "School - 10monkeys.com"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://rahoitus.teliasonerafinance.fi/en/MyPages/Overview",
+    "ANCHORTEXT": "Banking - TELIA-Business"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://www.bingel.fi/pupil/dashboard",
-    "ANCHORTEXT": "School - Bingel Online"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://verkkoasiointi.elisa.fi/",
+    "ANCHORTEXT": "Banking - OMA-ELISA"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://www.ellibslibrary.com/fi/collection/0?format=MP3&language=fi&audience=kids",
-    "ANCHORTEXT": "School - HELMET - ELLIBS Kids Audiobooks"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.danskebank.fi/en-fi/Personal/Pages/Personal.aspx?secsystem=JS",
+    "ANCHORTEXT": "Banking - Danske Login"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://www.hs.fi/lastenuutiset/",
-    "ANCHORTEXT": "School - HS_fi (Lasten Uutiset News)"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.espoo.fi/fi-FI/Asioi_verkossa/Sosiaali_ja_terveyspalvelut/Hae_taydentavaa_ja_ehkaisevaa_toimeentulotukea_verkossa",
+    "ANCHORTEXT": "Banking - Espoo-city child hobby"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://www.sanomapro.fi/",
-    "ANCHORTEXT": "School - SanomaPro Login"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.kela.fi",
+    "ANCHORTEXT": "Banking - KELA"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://www.storylineonline.net/library/",
-    "ANCHORTEXT": "School - English stories by celebrities"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.nordea.fi/en/business/our-services/accounts-payments/corporate-packages.html",
+    "ANCHORTEXT": "Banking - Nordea Corporate packages"
   },
   {
-    "CATEGORY": "SCHOOL",
-    "URL": "https://www.worksheetworks.com/english/writing/handwriting/cursive-practice.html",
-    "ANCHORTEXT": "School - Cursive Writing practice"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.onlinesbi.com/",
+    "ANCHORTEXT": "Banking - SBI Online"
   },
   {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "http://192.168.10.1",
-    "ANCHORTEXT": "LAN server - Elisa Router"
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.op.fi/etusivu",
+    "ANCHORTEXT": "Banking - OP.fi"
   },
   {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "http://192.168.10.41",
-    "ANCHORTEXT": "LAN server - OpenMediaVault NAS (OMV)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "http://192.168.3.16",
-    "ANCHORTEXT": "LAN server - Raspberry Pi4"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "http://192.168.3.1",
-    "ANCHORTEXT": "LAN server - WIFI6 Router"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "http://192.168.8.1",
-    "ANCHORTEXT": "LAN server - Mango VPN Router"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "http://localhost:1313",
-    "ANCHORTEXT": "LAN server - Hugo Server (localhost:1313)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "http://localhost:3000",
-    "ANCHORTEXT": "LAN server - Node NPM Server (localhost:3000)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://aria2.github.io/",
-    "ANCHORTEXT": "CLI Tool aria2 (best replacement for wget/curl)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/ffmpeg-h264-encoding-commands.html",
-    "ANCHORTEXT": "CLI Tool - ffmpeg-h264-encoding-commands"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://exiftool.org/",
-    "ANCHORTEXT": "CLI tool - Exiftool"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://exiftool.org/exiftool_pod.html",
-    "ANCHORTEXT": "CLI tool - Exiftool documentation"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/Nyr/openvpn-install",
-    "ANCHORTEXT": "CLI Tool - openvpn (easy insallation script)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/davatorium/rofi",
-    "ANCHORTEXT": "CLI tool - ROFI (Linux dmenu type tool)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/denisidoro/navi",
-    "ANCHORTEXT": "CLI Tool - navi (CLI interactive cheatsheet)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/ibraheemdev/modern-unix",
-    "ANCHORTEXT": "LINUX-FU modern-unix COMMANDS LIST"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/iptv-org/iptv",
-    "ANCHORTEXT": "CLI Tool - IPTV - 8000+ channels"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/junegunn/fzf",
-    "ANCHORTEXT": "CLI Tool - fzf fuzzy finder"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/ranger/ranger/wiki/Keybindings",
-    "ANCHORTEXT": "CLI Tool - ranger - cli file manager"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/sharkdp/bat",
-    "ANCHORTEXT": "CLI Tool - bat - syntax highlighter"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/sharkdp/fd",
-    "ANCHORTEXT": "CLI Tool - fd - alternative to find"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://github.com/ytdl-org/youtube-dl/blob/master/README.md#output-template-examples",
-    "ANCHORTEXT": "CLI Tool - youtube-dl - download web videos"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://gohugo.io/documentation/",
-    "ANCHORTEXT": "Official Go-HUGO docs"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://linkchecker.github.io/linkchecker/install.html",
-    "ANCHORTEXT": "CLI tool - Linkchecker"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://manual.calibre-ebook.com/conversion.html#converting-to-pdf",
-    "ANCHORTEXT": "CALIBRE - Kindle Mobi to PDF Cheatsheet"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://moz.com/blog/learning-machine-learning",
-    "ANCHORTEXT": "MOZ Machine Learning Guide"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://ninite.com/",
-    "ANCHORTEXT": "NINITE: The easiest way to get apps"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://portablefreeware.com/",
-    "ANCHORTEXT": "Portable Freeware"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://qpdf.sourceforge.net/files/qpdf-manual.html",
-    "ANCHORTEXT": "CLI tool - QPDF (pdf join/extract)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://rclone.org/",
-    "ANCHORTEXT": "CLI Tool - rclone"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://stackskills.com/courses/enrolled",
-    "ANCHORTEXT": "My StackSkills Courses"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://support.nordvpn.com/Connectivity/Router/1047409122/GL-iNet-setup-with-NordVPN.htm",
-    "ANCHORTEXT": "LAN server - Mango Router NordVPN Setup"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://taskwarrior.org/docs/examples.html",
-    "ANCHORTEXT": "CLI Tool - task = TaskWarrior Commands"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://unsplash.com/wallpaper",
-    "ANCHORTEXT": "Unsplash-Wallpapers"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://wiki.archlinux.org/title/dmenu",
-    "ANCHORTEXT": "DMENU"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://wiki.omv-extras.org/doku.php?id=installing_omv5_raspberry_pi",
-    "ANCHORTEXT": "CLI tool - NAS Installing OpenMediaVault (OMV) on Raspberry Pi"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.androidpolice.com/2020/03/24/make-personal-vpn-30-minutes/",
-    "ANCHORTEXT": "(tutorial)"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.degraeve.com/invent-a-word/",
-    "ANCHORTEXT": "Invent-A-Word"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.eneba.com/",
-    "ANCHORTEXT": "Gaming - Eneba.com"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.exiftool.org/examples.html",
-    "ANCHORTEXT": "CLI Tool - Exiftool examples"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.filehippo.com/",
-    "ANCHORTEXT": "FileHippo Apps"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.gamivo.com/",
-    "ANCHORTEXT": "Gaming - Gamivo.com"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.humblebundle.com/",
-    "ANCHORTEXT": "Gaming - HumbleBundle.com"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.icollege.co/my-courses",
-    "ANCHORTEXT": "COURSES - CYBERSECURITY + HACKING"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.mailinator.com/v4/public/inboxes.jsp?to=apx",
-    "ANCHORTEXT": "Inbox - apx@MAILinator"
-  },
-  {
-    "CATEGORY": "SOFTWARE-TOOLS",
-    "URL": "https://www.portableapps.com/",
-    "ANCHORTEXT": "Portable Apps"
-  },
-  {
-    "CATEGORY": "TRAVEL",
+    "CATEGORY": "06-TRAVEL",
     "URL": "https://en.ilmatieteenlaitos.fi/weather/espoo/kivenlahti",
     "ANCHORTEXT": "Weather - Kivenlahti Finland (FMI.fi)"
   },
   {
-    "CATEGORY": "TRAVEL",
+    "CATEGORY": "06-TRAVEL",
     "URL": "https://reittiopas.hsl.fi/reitti/Espoonlahden%20uimah.%20E4012,%20Espoo%3A%3A60.14776,24.6582/Merivalkama,%20Espoo%3A%3A60.153275,24.631935",
     "ANCHORTEXT": "HSL - Espoonlahti-uimahalli → Merivalkama (146(A), 124, etc.)"
   },
   {
-    "CATEGORY": "TRAVEL",
+    "CATEGORY": "06-TRAVEL",
     "URL": "https://reittiopas.hsl.fi/reitti/Merivalkama,%20Espoo%3A%3A60.153275,24.631935/Espoonlahden%20uimah.%20E4013,%20Espoo%3A%3A60.14766,24.65846",
     "ANCHORTEXT": "HSL - Merivalkama → Espoonlahti-uimahalli / ice-halli (146(A), 124, etc.)"
   },
   {
-    "CATEGORY": "TRAVEL",
+    "CATEGORY": "06-TRAVEL",
     "URL": "https://www.hsl.fi/en/timetables-and-routes",
     "ANCHORTEXT": "HSL - timetables-and-routes"
   },
   {
-    "CATEGORY": "TRAVEL",
+    "CATEGORY": "06-TRAVEL",
     "URL": "https://www.reittiopas.fi/",
     "ANCHORTEXT": "HSL - Reittiopas - Journey Planner"
   },
   {
-    "CATEGORY": "TRAVEL",
+    "CATEGORY": "06-TRAVEL",
     "URL": "https://www.reittiopas.fi/pysakit/HSL%3A2413211",
     "ANCHORTEXT": "Merivalkama → Iso-omena (146, 147, 165, etc.)"
   },
   {
-    "CATEGORY": "WEB-DEVELOPMENT",
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://areena.yle.fi/1-3371178",
+    "ANCHORTEXT": "School - Pikku Kakkonen (Yle Areena)"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://areena.yle.fi/audio/ohjelmat/57-DDRw1lBwg",
+    "ANCHORTEXT": "School - YLE Audio Stories"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://docs.google.com/document/d/120Lny9rU6dohEgISChgTIY5tEhWBKidWxzpgL_v3YTA/edit?usp=sharing",
+    "ANCHORTEXT": "School - English-Homework"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://docs.google.com/document/d/1XzJvgbzjLRik3IzikXP2KSJ-4L76K1e0xOJQ31dM7A4/edit",
+    "ANCHORTEXT": "School - Words I Know"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/cursive-alphabets-lettering.jpg",
+    "ANCHORTEXT": "School - Cursive-letters-alphabets"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/cursive-ornamental-practice.jpg",
+    "ANCHORTEXT": "School - cursive-ornamental practice-print"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://edu.typingmaster.com/login?id=cdkcn9md3",
+    "ANCHORTEXT": "School - Touch Typing Tutorial"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://espoo.inschool.fi/",
+    "ANCHORTEXT": "School - WILMA (espoo.inschool.fi)"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://getcomics.info/?s=donald%20duck",
+    "ANCHORTEXT": "Comics - Donald Duck"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://oopperabaletti.fi/en/stage24/",
+    "ANCHORTEXT": "School- Opera (Stage24 Performances)"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://oppilas.otava.fi/#/",
+    "ANCHORTEXT": "School - oppilas.otava.fi"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://parenting.firstcry.com/articles/top-15-short-moral-stories-for-kids/",
+    "ANCHORTEXT": "School - Cursive-short-stories"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://www.10monkeys.com/uk/",
+    "ANCHORTEXT": "School - 10monkeys.com"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://www.bingel.fi/pupil/dashboard",
+    "ANCHORTEXT": "School - Bingel Online"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://www.ellibslibrary.com/fi/collection/0?format=MP3&language=fi&audience=kids",
+    "ANCHORTEXT": "School - HELMET - ELLIBS Kids Audiobooks"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://www.hs.fi/lastenuutiset/",
+    "ANCHORTEXT": "School - HS_fi (Lasten Uutiset News)"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://www.sanomapro.fi/",
+    "ANCHORTEXT": "School - SanomaPro Login"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://www.storylineonline.net/library/",
+    "ANCHORTEXT": "School - English stories by celebrities"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://www.worksheetworks.com/english/writing/handwriting/cursive-practice.html",
+    "ANCHORTEXT": "School - Cursive Writing practice"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://graphicburger.com/",
+    "ANCHORTEXT": "Graphic-BURGER MOCKUPS"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://graphicriver.net/",
+    "ANCHORTEXT": "GRAPHIC-river"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://pinterest.com/psdcovers/psd-cover-actions/",
+    "ANCHORTEXT": "PSDcovers-Pinterest"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://typeslab.com/",
+    "ANCHORTEXT": "Slab poster maker"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://typespiration.com/",
+    "ANCHORTEXT": "Typographic-CSS - TYPEspiration"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://uk.moo.com/design-templates/business-cards/",
+    "ANCHORTEXT": "MOO CARDS - Design inspiration"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://videohive.net/",
+    "ANCHORTEXT": "VIDEOhive"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.canva.com/templates/",
+    "ANCHORTEXT": "CANVA Design Templates"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.cssauthor.com/free-mockup-templates-psd-designs/",
+    "ANCHORTEXT": "500+ Free Mockup Templates"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.freepik.com",
+    "ANCHORTEXT": "FreePik free vectors"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.homemade-gifts-made-easy.com/personalized-poster-80th-birthday-gift.html",
+    "ANCHORTEXT": "Typography Homemade Posters"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.inkydeals.com/",
+    "ANCHORTEXT": "INKYDEALS"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.pixeden.com/psd-mock-up-templates",
+    "ANCHORTEXT": "PIXEDEN"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.psdcovers.com/",
+    "ANCHORTEXT": "PSDcovers"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.vanschneider.com/colors/",
+    "ANCHORTEXT": "Tobias Van Schneider - ColorClaim"
+  },
+  {
+    "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://chart.googleapis.com/chart?chs=520x520&cht=qr&chl=https://www.concepro.com",
     "ANCHORTEXT": "Google Barcode Creator"
   },
   {
-    "CATEGORY": "WEB-DEVELOPMENT",
+    "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://fortawesome.github.io/Font-Awesome/cheatsheet/",
     "ANCHORTEXT": "FONT AWESOME CHEATSHEET"
   },
   {
-    "CATEGORY": "WEB-DEVELOPMENT",
+    "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://getbootstrap.com/docs/5.0/getting-started/introduction/",
     "ANCHORTEXT": "Bootstrap 5"
   },
   {
-    "CATEGORY": "WEB-DEVELOPMENT",
+    "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://getbootstrap.com/docs/5.1/components/",
     "ANCHORTEXT": "Bootstrap 5 - Components"
   },
   {
-    "CATEGORY": "WEB-DEVELOPMENT",
+    "CATEGORY": "09-WEB-DEVELOPMENT",
+    "URL": "https://html-cleaner.com",
+    "ANCHORTEXT": "HTML cleaner"
+  },
+  {
+    "CATEGORY": "09-WEB-DEVELOPMENT",
+    "URL": "https://html-css-js.com/html/character-codes/icons/",
+    "ANCHORTEXT": "HTML Symbols Colored Icons"
+  },
+  {
+    "CATEGORY": "09-WEB-DEVELOPMENT",
+    "URL": "https://htmlarrows.com",
+    "ANCHORTEXT": "HTML Symbols+Arrows Icons"
+  },
+  {
+    "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://icons.getbootstrap.com/",
     "ANCHORTEXT": "Bootstrap 5- SVG Icons"
   },
   {
-    "CATEGORY": "WEB-DEVELOPMENT",
+    "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://www.smashingmagazine.com/",
     "ANCHORTEXT": "SMASHING Magazine"
   },
   {
-    "CATEGORY": "PERSONAL",
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "http://192.168.10.1",
+    "ANCHORTEXT": "LAN server - Elisa Router"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "http://192.168.10.41",
+    "ANCHORTEXT": "LAN server - OpenMediaVault NAS (OMV)"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "http://192.168.3.16",
+    "ANCHORTEXT": "LAN server - Raspberry Pi4"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "http://192.168.3.1",
+    "ANCHORTEXT": "LAN server - WIFI6 Router"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "http://192.168.8.1",
+    "ANCHORTEXT": "LAN server - Mango VPN Router"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "http://localhost:1313",
+    "ANCHORTEXT": "LAN server - Hugo Server (localhost:1313)"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "http://localhost:3000",
+    "ANCHORTEXT": "LAN server - Node NPM Server (localhost:3000)"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://github.com/ibraheemdev/modern-unix",
+    "ANCHORTEXT": "LINUX-FU modern-unix COMMANDS LIST"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://gohugo.io/documentation/",
+    "ANCHORTEXT": "Official Go-HUGO docs"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://manual.calibre-ebook.com/conversion.html#converting-to-pdf",
+    "ANCHORTEXT": "CALIBRE - Kindle Mobi to PDF Cheatsheet"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://moz.com/blog/learning-machine-learning",
+    "ANCHORTEXT": "MOZ Machine Learning Guide"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://ninite.com/",
+    "ANCHORTEXT": "NINITE: The easiest way to get apps"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://portablefreeware.com/",
+    "ANCHORTEXT": "Portable Freeware"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://stackskills.com/courses/enrolled",
+    "ANCHORTEXT": "My StackSkills Courses"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://support.nordvpn.com/Connectivity/Router/1047409122/GL-iNet-setup-with-NordVPN.htm",
+    "ANCHORTEXT": "LAN server - Mango Router NordVPN Setup"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://unsplash.com/wallpaper",
+    "ANCHORTEXT": "Unsplash-Wallpapers"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://wiki.archlinux.org/title/dmenu",
+    "ANCHORTEXT": "DMENU"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://www.degraeve.com/invent-a-word/",
+    "ANCHORTEXT": "Invent-A-Word"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://www.eneba.com/",
+    "ANCHORTEXT": "Gaming - Eneba.com"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://www.filehippo.com/",
+    "ANCHORTEXT": "FileHippo Apps"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://www.gamivo.com/",
+    "ANCHORTEXT": "Gaming - Gamivo.com"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://www.humblebundle.com/",
+    "ANCHORTEXT": "Gaming - HumbleBundle.com"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://www.icollege.co/my-courses",
+    "ANCHORTEXT": "COURSES - CYBERSECURITY + HACKING"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://www.mailinator.com/v4/public/inboxes.jsp?to=apx",
+    "ANCHORTEXT": "Inbox - apx@MAILinator"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/2-Mind-And-Personal-Development-Books/201606-Deal-With-Rejection-By-Identifying-Correct-Negative-Emotion.html",
+    "ANCHORTEXT": "WORDS+VOCAB - Find Negative Emotions correctly"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/Index-Of-All-Markdown-Books.html",
+    "ANCHORTEXT": "WORDS+VOCAB - Index of My Markdown Books"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/20150807-Inspirational-Words-Plus-Words-For-Pleasant-And-Unpleasant-Feelings.html",
+    "ANCHORTEXT": "WORDS+VOCAB - Words for Inspiration + Pleasant and Unpleasant feelings"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/Abhishek-317-Power-Words-To-Selling-And-Writing-For-Kindle.html",
+    "ANCHORTEXT": "WORDS+VOCAB - 317+29 WORDS THAT SELL"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/Cooking-Adjectives.html",
+    "ANCHORTEXT": "WORDS+VOCAB - Cooking Adjectives"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/The-800-Most-Commonly-Used-Idioms-In-America.html",
+    "ANCHORTEXT": "WORDS+VOCAB - 800-Most-Commonly-Used-Idioms"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/PDFs/Vocabulary-of-Emotions.pdf",
+    "ANCHORTEXT": "WORDS+VOCAB - Vocabulary-of-Emotions-PDF"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/__notes_scribbled_by_pali/notes.html",
+    "ANCHORTEXT": "WORDS+VOCAB - SCRIBBLED NOTES"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://www.uefap.com/vocab/select/akl.htm",
+    "ANCHORTEXT": "WORDS+VOCAB - Academic keyword list (AKL)"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://www.uefap.com/vocab/select/awl.htm",
+    "ANCHORTEXT": "WORDS+VOCAB - Academic word list (AWL)"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://www.uefap.com/vocab/select/selfram.htm",
+    "ANCHORTEXT": "WORDS+VOCAB - TOC"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://aria2.github.io/",
+    "ANCHORTEXT": "CLI Tool aria2 (best replacement for wget/curl)"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/ffmpeg-h264-encoding-commands.html",
+    "ANCHORTEXT": "ffmpeg-h264-encoding-commands"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://exiftool.org/",
+    "ANCHORTEXT": "Exiftool"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://exiftool.org/exiftool_pod.html",
+    "ANCHORTEXT": "Exiftool documentation"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/Nyr/openvpn-install",
+    "ANCHORTEXT": "openvpn (easy insallation script)"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/davatorium/rofi",
+    "ANCHORTEXT": "ROFI (Linux dmenu type tool)"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/denisidoro/navi",
+    "ANCHORTEXT": "navi (CLI interactive cheatsheet)"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/iptv-org/iptv",
+    "ANCHORTEXT": "IPTV - 8000+ channels"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/junegunn/fzf",
+    "ANCHORTEXT": "fzf fuzzy finder"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/ranger/ranger/wiki/Keybindings",
+    "ANCHORTEXT": "ranger - cli file manager"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/sharkdp/bat",
+    "ANCHORTEXT": "bat - syntax highlighter"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/sharkdp/fd",
+    "ANCHORTEXT": "fd - alternative to find"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/ytdl-org/youtube-dl/blob/master/README.md#output-template-examples",
+    "ANCHORTEXT": "youtube-dl - download web videos"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://linkchecker.github.io/linkchecker/install.html",
+    "ANCHORTEXT": "Linkchecker"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://qpdf.sourceforge.net/files/qpdf-manual.html",
+    "ANCHORTEXT": "QPDF (pdf join/extract)"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://rclone.org/",
+    "ANCHORTEXT": "rclone"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://taskwarrior.org/docs/examples.html",
+    "ANCHORTEXT": "task = TaskWarrior Commands"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://wiki.omv-extras.org/doku.php?id=installing_omv5_raspberry_pi",
+    "ANCHORTEXT": "NAS Installing OpenMediaVault (OMV) on Raspberry Pi"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://www.androidpolice.com/2020/03/24/make-personal-vpn-30-minutes/",
+    "ANCHORTEXT": "openvpn (easy insallation tutorial)"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://192.168.3.16/pi03-plotting-outputs/_TMP_PI03_PYTHON_TEMPERATURE_PLOTS_PROGRAM_OUTPUT.html",
+    "ANCHORTEXT": "RPI4 -Temperature Plots"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://abhishek-paliwal.github.io/wallpaper_creators/JSON-templates-for-design/Index-of-all-JSON-files.html",
+    "ANCHORTEXT": "Index of images - JSON Templates (designing)"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://abhishekpali.us",
+    "ANCHORTEXT": "abhishekpali.us"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://adoria.xyz/",
+    "ANCHORTEXT": "adoria.xyz"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://app-mggk01-image-finder.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app-mggk01-image-finder"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://app-mggk01-image-finder.vercel.app/",
+    "ANCHORTEXT": "React Vercel - app-mggk01-image-finder"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://app01-homepage.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app01-homepage"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://app02-foodblogfeeds.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app02-foodblogfeeds"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://app02-foodblogfeeds.vercel.app/",
+    "ANCHORTEXT": "React Vercel - app02-foodblogfeeds"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://app03-tictactoe.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app03-tictactoe"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://app04-openmultiplelinks.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app04-openmultiplelinks"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://conce.pro",
+    "ANCHORTEXT": "conce.pro"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://downloads.concepro.com/_BRAND-CONCEPRO/concepro-08-social/sharing/Index-of-SocialMedia-files-BS.html",
+    "ANCHORTEXT": "Index of images - SocialMedia"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/leelasrecipes-sitestats.html",
+    "ANCHORTEXT": "LeelasRecipes Sitestats"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/all-polygonal-backgrounds/all-lowpoly-backgrounds-index.html",
+    "ANCHORTEXT": "Index of images - PolyTextures"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/logos/all-logos-index.html",
+    "ANCHORTEXT": "Index of images - LOGOS"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://downloads.concepro.com/sitemap.html",
+    "ANCHORTEXT": "Sitemap - downloads.concepro.com"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://downloads.mygingergarlickitchen.com/sitemap.html",
+    "ANCHORTEXT": "Sitemap - downloads.mygingergarlickitchen.com"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://sendy.concepro.com/my-scripts/sendy-subscriber-names.php",
+    "ANCHORTEXT": "Sendy - Subs Count"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://vps.abhishekpaliwal.com/scripts-html-outputs/602-mggk-plotting-outputs/_TMP_602_PYTHON_PLOTS_PROGRAM_OUTPUT.html",
+    "ANCHORTEXT": "VPS - PYTHON CSV-PLOTS"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://vps.abhishekpaliwal.com/scripts-html-outputs/INDEX-OF-OUR-EVENTS.html",
+    "ANCHORTEXT": "VPS - EVENTS TIMETABLE"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://vps.abhishekpaliwal.com/tree.html",
+    "ANCHORTEXT": "VPS-TREE"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://www.abhishekpaliwal.com",
+    "ANCHORTEXT": "abhishekpaliwal.com"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://www.anupamapaliwal.com",
+    "ANCHORTEXT": "anupamapaliwal.com"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://www.leelasrecipes.com/",
+    "ANCHORTEXT": "LeelasRecipes.com"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://www.mantracoaching.in",
+    "ANCHORTEXT": "mantracoaching.in"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://www.mggkanu.com",
+    "ANCHORTEXT": "mggkanu.com"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://www.notes.abhishekpaliwal.com/",
+    "ANCHORTEXT": "notes.abhishekpaliwal.com"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://www.stockfotoage.com",
+    "ANCHORTEXT": "stockfotoage.com"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
     "URL": "https://app01-homepage.abhishekpali.us/index.html",
     "ANCHORTEXT": "Our Homepage"
   }

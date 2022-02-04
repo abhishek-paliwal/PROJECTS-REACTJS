@@ -39,7 +39,7 @@ function FUNC_step1_convertCsvFileToJson () {
         F_ANCHORTEXT="$(echo $line | cut -d ';' -f3)" ;
         echo "{ \"CATEGORY\" : \"$F_CATEGORY\",\"URL\" : \"$F_URL\",\"ANCHORTEXT\" : \"$F_ANCHORTEXT\" },"
     done < $tmpFile ;
-    echo "{ \"CATEGORY\" : \"PERSONAL\",\"URL\" : \"$PROJECT_APP_URL\",\"ANCHORTEXT\" : \"Our Homepage\" }" ;
+    echo "{ \"CATEGORY\" : \"05-PERSONAL\",\"URL\" : \"$PROJECT_APP_URL\",\"ANCHORTEXT\" : \"Our Homepage\" }" ;
     echo "]" ;
 }
 ##++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
