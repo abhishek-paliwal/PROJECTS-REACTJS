@@ -16,15 +16,29 @@ function FnGetAllCategories () {
 /////////////
 function FnGetSingleCategoryData(singleCategoryName) {
   let elementListFull = '' ; 
+  let myObj = [] ;
   for(var i = 0 ; i < data.length ; i++){
       let singleCategoryOriginal = data[i]['CATEGORY'] ; 
       if( singleCategoryOriginal.toLowerCase() === singleCategoryName.toLowerCase() ){
-          let myVar = data[i] ; 
+          let myVar = data[i] ;
+          ////
+          myObj.push(myVar) ;
+          ////
           let elementList = '<li><a href="' + myVar.URL + '">' + myVar.ANCHORTEXT + '</a></li>' ;
           elementListFull = elementListFull + elementList ;
           // console.log(elementList) ; 
       }
   }
+
+  let myObj_sorted = myObj.sort(function(a, b) {
+    var nameA = a.ANCHORTEXT.toUpperCase(); // ignore case
+    var nameB = b.ANCHORTEXT.toUpperCase(); // ignore case
+    if (nameA < nameB) { return -1; }
+    if (nameA > nameB) { return 1;}    
+    return 0; // names must be equal
+    });
+
+  console.log(myObj_sorted);
   return ('<ol>' + elementListFull + '</ol>');
 }
 /////////////
@@ -34,13 +48,13 @@ function printAllCategoryData(categoryList_unique) {
   let printSingleCategoryData_footer = '</div></div>'  ;
   //
   for (const singleCategoryName of categoryList_unique) {
-    console.log(singleCategoryName);
+    //console.log(singleCategoryName);
     let printSingleCategoryData = FnGetSingleCategoryData(singleCategoryName)  ;
     let singleCategoryNamePrint = '<div class="card-header">' + singleCategoryName + '</div>' ;
     printAllCategoryData = printAllCategoryData + printSingleCategoryData_header + singleCategoryNamePrint + '<div class="card-body">' + printSingleCategoryData + '</div>' + printSingleCategoryData_footer ;
   }
   //
-  console.log(printAllCategoryData) ;
+  //console.log(printAllCategoryData) ;
   return printAllCategoryData ; 
 }
 /* ========================================= */
@@ -48,10 +62,10 @@ function printAllCategoryData(categoryList_unique) {
 const App = () => {
   const categoryList = FnGetAllCategories() ;
   const categoryList_unique = [...new Set(categoryList)];
-  console.log(categoryList);
-  console.log(categoryList_unique);
+  //console.log(categoryList);
+  // console.log(categoryList_unique);
   const printAllCategoryDataValue = printAllCategoryData(categoryList_unique) ; 
-  console.log(typeof(printAllCategoryDataValue)) ; // should be string type
+  //console.log(typeof(printAllCategoryDataValue)) ; // should be string type
 
   return (
     <div className="section">
