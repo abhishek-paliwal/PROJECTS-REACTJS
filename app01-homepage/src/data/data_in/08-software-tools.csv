@@ -1,12 +1,12 @@
 CATEGORY;URL;ANCHORTEXT
 SOFTWARE-TOOLS;https://downloads.concepro.com/dropbox-public-files/LCE/ffmpeg-h264-encoding-commands.html;CLI Tool - ffmpeg-h264-encoding-commands
-SOFTWARE-TOOLS;https://192.168.10.1;LAN server - Elisa Router
-SOFTWARE-TOOLS;https://192.168.10.41;LAN server - OpenMediaVault NAS (OMV)
-SOFTWARE-TOOLS;https://192.168.3.16;LAN server - Raspberry Pi4
-SOFTWARE-TOOLS;https://192.168.3.1;LAN server - WIFI6 Router
-SOFTWARE-TOOLS;https://192.168.8.1;LAN server - Mango VPN Router
-SOFTWARE-TOOLS;https://localhost:1313;LAN server - Hugo Server (localhost:1313)
-SOFTWARE-TOOLS;https://localhost:3000;LAN server - Node NPM Server (localhost:3000)
+SOFTWARE-TOOLS;http://192.168.10.1;LAN server - Elisa Router
+SOFTWARE-TOOLS;http://192.168.10.41;LAN server - OpenMediaVault NAS (OMV)
+SOFTWARE-TOOLS;http://192.168.3.16;LAN server - Raspberry Pi4
+SOFTWARE-TOOLS;http://192.168.3.1;LAN server - WIFI6 Router
+SOFTWARE-TOOLS;http://192.168.8.1;LAN server - Mango VPN Router
+SOFTWARE-TOOLS;http://localhost:1313;LAN server - Hugo Server (localhost:1313)
+SOFTWARE-TOOLS;http://localhost:3000;LAN server - Node NPM Server (localhost:3000)
 SOFTWARE-TOOLS;https://aria2.github.io/;CLI Tool aria2 (best replacement for wget/curl)
 SOFTWARE-TOOLS;https://exiftool.org/;CLI tool - Exiftool
 SOFTWARE-TOOLS;https://exiftool.org/exiftool_pod.html;CLI tool - Exiftool documentation
