@@ -266,11 +266,6 @@
   },
   {
     "CATEGORY": "04-PROGRAMMING",
-    "URL": "https://talktotransformer.com",
-    "ANCHORTEXT": "AI + NLP - OpenAI (TalkToTransformer)"
-  },
-  {
-    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://translate.google.com",
     "ANCHORTEXT": "Google Translate"
   },
@@ -762,57 +757,52 @@
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/2-Mind-And-Personal-Development-Books/201606-Deal-With-Rejection-By-Identifying-Correct-Negative-Emotion.html",
-    "ANCHORTEXT": "WORDS+VOCAB - Find Negative Emotions correctly"
+    "ANCHORTEXT": "Find Negative Emotions correctly"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/Index-Of-All-Markdown-Books.html",
-    "ANCHORTEXT": "WORDS+VOCAB - Index of My Markdown Books"
+    "ANCHORTEXT": "Index of My Markdown Books"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/20150807-Inspirational-Words-Plus-Words-For-Pleasant-And-Unpleasant-Feelings.html",
-    "ANCHORTEXT": "WORDS+VOCAB - Words for Inspiration + Pleasant and Unpleasant feelings"
+    "ANCHORTEXT": "Words for Inspiration + Pleasant and Unpleasant feelings"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/Abhishek-317-Power-Words-To-Selling-And-Writing-For-Kindle.html",
-    "ANCHORTEXT": "WORDS+VOCAB - 317+29 WORDS THAT SELL"
+    "ANCHORTEXT": "317+29 WORDS THAT SELL"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/Cooking-Adjectives.html",
-    "ANCHORTEXT": "WORDS+VOCAB - Cooking Adjectives"
+    "ANCHORTEXT": "Cooking Adjectives"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/The-800-Most-Commonly-Used-Idioms-In-America.html",
-    "ANCHORTEXT": "WORDS+VOCAB - 800-Most-Commonly-Used-Idioms"
+    "ANCHORTEXT": "800-Most-Commonly-Used-Idioms"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/PDFs/Vocabulary-of-Emotions.pdf",
-    "ANCHORTEXT": "WORDS+VOCAB - Vocabulary-of-Emotions-PDF"
-  },
-  {
-    "CATEGORY": "11-WORDS + VOCABULARY",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/__notes_scribbled_by_pali/notes.html",
-    "ANCHORTEXT": "WORDS+VOCAB - SCRIBBLED NOTES"
+    "ANCHORTEXT": "Vocabulary-of-Emotions-PDF"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://www.uefap.com/vocab/select/akl.htm",
-    "ANCHORTEXT": "WORDS+VOCAB - Academic keyword list (AKL)"
+    "ANCHORTEXT": "Academic keywords list (AKL)"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://www.uefap.com/vocab/select/awl.htm",
-    "ANCHORTEXT": "WORDS+VOCAB - Academic word list (AWL)"
+    "ANCHORTEXT": "Academic keywords list (AWL)"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://www.uefap.com/vocab/select/selfram.htm",
-    "ANCHORTEXT": "WORDS+VOCAB - TOC"
+    "ANCHORTEXT": "Academic keywords - TOC"
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
@@ -876,6 +866,11 @@
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/yt-dlp/yt-dlp",
+    "ANCHORTEXT": "yt-dlp (a youtube-dl fork)"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
     "URL": "https://github.com/ytdl-org/youtube-dl/blob/master/README.md#output-template-examples",
     "ANCHORTEXT": "youtube-dl - download web videos"
   },
@@ -910,6 +905,11 @@
     "ANCHORTEXT": "openvpn (easy insallation tutorial)"
   },
   {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://www.exiftool.org/examples.html",
+    "ANCHORTEXT": "Exiftool examples"
+  },
+  {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://192.168.3.16/pi03-plotting-outputs/_TMP_PI03_PYTHON_TEMPERATURE_PLOTS_PROGRAM_OUTPUT.html",
     "ANCHORTEXT": "RPI4 -Temperature Plots"
@@ -922,52 +922,17 @@
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://abhishekpali.us",
-    "ANCHORTEXT": "abhishekpali.us"
+    "ANCHORTEXT": "https://abhishekpali.us"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://adoria.xyz/",
-    "ANCHORTEXT": "adoria.xyz"
-  },
-  {
-    "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://app-mggk01-image-finder.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app-mggk01-image-finder"
-  },
-  {
-    "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://app-mggk01-image-finder.vercel.app/",
-    "ANCHORTEXT": "React Vercel - app-mggk01-image-finder"
-  },
-  {
-    "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://app01-homepage.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app01-homepage"
-  },
-  {
-    "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://app02-foodblogfeeds.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app02-foodblogfeeds"
-  },
-  {
-    "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://app02-foodblogfeeds.vercel.app/",
-    "ANCHORTEXT": "React Vercel - app02-foodblogfeeds"
-  },
-  {
-    "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://app03-tictactoe.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app03-tictactoe"
-  },
-  {
-    "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://app04-openmultiplelinks.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app04-openmultiplelinks"
+    "ANCHORTEXT": "https://adoria.xyz/"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://conce.pro",
-    "ANCHORTEXT": "conce.pro"
+    "ANCHORTEXT": "https://conce.pro"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
@@ -978,6 +943,16 @@
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/leelasrecipes-sitestats.html",
     "ANCHORTEXT": "LeelasRecipes Sitestats"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_typography_wallpaper_creator/_CSS-Typography-EFFECTS/slabText-master/index_final.html",
+    "ANCHORTEXT": "Quotes - Bold Wallpapers"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/big_bold_random_quotes.html",
+    "ANCHORTEXT": "Quotes- Colorful Wisdom"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
@@ -1022,37 +997,82 @@
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://www.abhishekpaliwal.com",
-    "ANCHORTEXT": "abhishekpaliwal.com"
+    "ANCHORTEXT": "https://www.abhishekpaliwal.com"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://www.anupamapaliwal.com",
-    "ANCHORTEXT": "anupamapaliwal.com"
+    "ANCHORTEXT": "https://www.anupamapaliwal.com"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://www.leelasrecipes.com/",
-    "ANCHORTEXT": "LeelasRecipes.com"
+    "ANCHORTEXT": "https://www.leelasrecipes.com/"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://www.mantracoaching.in",
-    "ANCHORTEXT": "mantracoaching.in"
+    "ANCHORTEXT": "https://www.mantracoaching.in"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://www.mggkanu.com",
-    "ANCHORTEXT": "mggkanu.com"
+    "ANCHORTEXT": "https://www.mggkanu.com"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://www.notes.abhishekpaliwal.com/",
-    "ANCHORTEXT": "notes.abhishekpaliwal.com"
+    "ANCHORTEXT": "https://www.notes.abhishekpaliwal.com/"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://www.stockfotoage.com",
-    "ANCHORTEXT": "stockfotoage.com"
+    "ANCHORTEXT": "https://www.stockfotoage.com"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app-mggk01-image-finder.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app-mggk01-image-finder"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app-mggk01-image-finder.vercel.app/",
+    "ANCHORTEXT": "React Vercel - app-mggk01-image-finder"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app01-homepage.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app01-homepage"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app01-homepage.vercel.app/",
+    "ANCHORTEXT": "React Vercel - app01-homepage"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app02-foodblogfeeds.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app02-foodblogfeeds"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app02-foodblogfeeds.vercel.app/",
+    "ANCHORTEXT": "React Vercel - app02-foodblogfeeds"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app03-tictactoe.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app03-tictactoe"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app04-openmultiplelinks.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app04-openmultiplelinks"
+  },
+  {
+    "CATEGORY": "99-TMP-LINKS",
+    "URL": "https://www.mygingergarlickitchen.com",
+    "ANCHORTEXT": "mygingergarlickitchen.com"
   },
   {
     "CATEGORY": "05-PERSONAL",
