@@ -79,7 +79,7 @@ const App = () => {
         <SearchBarAndResults />
       </div>
       <hr />
-      <div className="row" dangerouslySetInnerHTML={{ __html: printAllCategoryDataValue }} />
+      <div data-masonry='{"percentPosition": true }' className="row" dangerouslySetInnerHTML={{ __html: printAllCategoryDataValue }} />
     </div>
   );
 } ;
