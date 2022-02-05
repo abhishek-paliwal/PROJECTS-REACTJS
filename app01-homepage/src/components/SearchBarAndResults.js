@@ -3,10 +3,14 @@ import Data from '../data/data_out/combinedCategoryLinksData.json' ;
 import {useState} from 'react';
 
 /* =============================================== */
-function showInputField (triggerSearchAtChars, setQuery) {
+function showInputField (triggerSearchAtChars, setQuery, textareaRef, cursorPosition) {
   return <div className="m-3">
         <label htmlFor="exampleFormControlInput1" className="form-label">Enter single word (url/anchor-text, {triggerSearchAtChars} chars min)</label>
-        <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="search here" onChange={event => {(event.target.value.length >= triggerSearchAtChars) ? setQuery(event.target.value) : setQuery('') }} />
+        <input type="text" 
+        className="form-control" 
+        id="exampleFormControlInput1" 
+        placeholder="search here" 
+        onChange={event => {(event.target.value.length >= triggerSearchAtChars) ? setQuery(event.target.value) : setQuery('') }} />
       </div>
 }
 
@@ -29,11 +33,9 @@ function getSearchResults (query) {
 
   const printFilteredDataItems = filteredData.map((post,index) => {
         return  <div className="col-sm-6 col-md-4 col-lg-3 col-xl-3" key={index}>
-                    <div className="card text-white bg-warning mb-3">
-                        <div className="card-body">
-                        <h5 className="card-title"><a target="_blank" rel="noopener noreferrer" href={post.URL}>{post.ANCHORTEXT}</a></h5>
-                        </div>
-                    </div>                  
+                  <div className=" m-2 p-2 rounded bg-warning rounded text-center">
+                    <a target="_blank" rel="noopener noreferrer" href={post.URL}><strong>{post.ANCHORTEXT}</strong></a>
+                  </div>
                 </div>
   }) ;
   return printFilteredDataItems ; 
@@ -55,7 +57,7 @@ const SearchBarAndResults = () => {
       {showRangeSlider (numImagesToShow, setNumImagesToShow)}
     </div></div>
     <div className="row">
-      <div className="col-12 m-3 text-white">
+      <div className="col-12 m-2 p-2 text-white">
         <h4><strong>{finalData.length} links found</strong> { (query.length >= triggerSearchAtChars) ? 'for term ' + query : 'in database' } (showing max {numImagesToShow})</h4> 
       </div>
       {slicedArray}
