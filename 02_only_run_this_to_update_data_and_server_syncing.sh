@@ -51,9 +51,9 @@ echo "$(date) = START-TIME" > $time_taken
 function STEP1_FUNC_RUN_DATA_UPDATE_PROGRAMS_FOR_EACH_APP () {
     ## Calling scripts for data update and syncing (add others as needed)
     ## app-mggk01-image-finder
-    bash $REACTJS_APPS_ROOTDIR/app-mggk01-image-finder/src/data/run_step0-download-data-and-convert-to-json.sh ;
+    bash $REACTJS_APPS_ROOTDIR/app-mggk01-image-finder/run_step0-download-data-and-convert-to-json.sh ;
     ## app01-homepage
-    bash $REACTJS_APPS_ROOTDIR/app01-homepage/src/data/run_step0-app-homepage-convert-csv-links-data-to-json.sh ;
+    bash $REACTJS_APPS_ROOTDIR/app01-homepage/run_step0-app-homepage-convert-csv-links-data-to-json.sh ;
     ##
 }
 ####
