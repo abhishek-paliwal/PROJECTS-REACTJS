@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "react-native-rss-parser": "^1.5.1"
+    "react-native-rss-parser": "^1.5.1",
+    "react-router-dom": "^6.2.1"
   }
 }
