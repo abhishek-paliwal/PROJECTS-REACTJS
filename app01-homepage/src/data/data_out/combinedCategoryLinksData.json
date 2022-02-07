@@ -306,6 +306,11 @@
   },
   {
     "CATEGORY": "04-PROGRAMMING",
+    "URL": "https://www.gmail.com",
+    "ANCHORTEXT": "Google Mail - Gmail"
+  },
+  {
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://www.google.com/adsense/new/u/0/pub-7892938469578087/home?sourceid=aso&noaccount=false&marketing=true",
     "ANCHORTEXT": "Google Adsense"
   },
@@ -313,11 +318,6 @@
     "CATEGORY": "04-PROGRAMMING",
     "URL": "https://www.google.com/inputtools/try/",
     "ANCHORTEXT": "Google Hindi TransLiteration"
-  },
-  {
-    "CATEGORY": "04-PROGRAMMING",
-    "URL": "https:/www.gmail.com",
-    "ANCHORTEXT": "Google Mail - Gmail"
   },
   {
     "CATEGORY": "05-PERSONAL",
