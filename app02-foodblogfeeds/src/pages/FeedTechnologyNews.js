@@ -96,27 +96,11 @@ const MyNewsTechnologyFeeds = () => {
   return (
     <div className="row">
       <div className="col-12"><h1 className="display-5">Latest News</h1></div>
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/YLE-English.xml' />
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/Slashdot-Top-News.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Top.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-World.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Health.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Science.xml' />
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Technology.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Top.xml' />
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Technology.xml' />
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Personal-Tech.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-World.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Asia-Pacific.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Science.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Health.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-Top.xml' />
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-Technology.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-World.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/HT-Latest.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/HT-World.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/The-Hindu-Top-News.xml' />
-        <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/The-Hindu-World.xml' />
       </div>
   )
 }

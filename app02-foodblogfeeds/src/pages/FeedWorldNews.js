@@ -97,21 +97,16 @@ const MyNewsFeeds = () => {
     <div className="row">
       <div className="col-12"><h1 className="display-5">Latest News</h1></div>
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/YLE-English.xml' />
-        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/Slashdot-Top-News.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Top.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-World.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Health.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Science.xml' />
-        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Technology.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Top.xml' />
-        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Technology.xml' />
-        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Personal-Tech.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-World.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Asia-Pacific.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Science.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Health.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-Top.xml' />
-        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-Technology.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-World.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/HT-Latest.xml' />
         <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/HT-World.xml' />
