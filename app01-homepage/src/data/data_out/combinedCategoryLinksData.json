@@ -6,6 +6,11 @@
   },
   {
     "CATEGORY": "01-MGGK",
+    "URL": "https://app.grammarly.com/",
+    "ANCHORTEXT": "Grammarly"
+  },
+  {
+    "CATEGORY": "01-MGGK",
     "URL": "https://audiojungle.net/category/music-kits?sort=sales",
     "ANCHORTEXT": "Royalty-Free-Music - AudioJungle"
   },
@@ -13,11 +18,6 @@
     "CATEGORY": "01-MGGK",
     "URL": "https://clarity.microsoft.com/projects",
     "ANCHORTEXT": "Microsoft Clarity SEO"
-  },
-  {
-    "CATEGORY": "01-MGGK",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/2019-mggk-all-input-forms.html",
-    "ANCHORTEXT": "MGGK ALL INPUT FORMS"
   },
   {
     "CATEGORY": "01-MGGK",
@@ -38,6 +38,11 @@
     "CATEGORY": "01-MGGK",
     "URL": "https://incompetech.com/music/royalty-free/music.html",
     "ANCHORTEXT": "Royalty-Free-Music - Incompetech"
+  },
+  {
+    "CATEGORY": "01-MGGK",
+    "URL": "https://instagram.com/mygingergarlickitchen/",
+    "ANCHORTEXT": "MGGK Instragram"
   },
   {
     "CATEGORY": "01-MGGK",
@@ -66,6 +71,11 @@
   },
   {
     "CATEGORY": "01-MGGK",
+    "URL": "https://websiteseochecker.com/domain-authority-checker/",
+    "ANCHORTEXT": "DA Checker (Domain authority)"
+  },
+  {
+    "CATEGORY": "01-MGGK",
     "URL": "https://wordtohtml.net/",
     "ANCHORTEXT": "HTML MS-Word to links converter"
   },
@@ -86,8 +96,8 @@
   },
   {
     "CATEGORY": "01-MGGK",
-    "URL": "https://www.checkmoz.com/",
-    "ANCHORTEXT": "DA Finder (Domain authority)"
+    "URL": "https://www.facebook.com/MyGingerGarlicKitchen",
+    "ANCHORTEXT": "MGGK Facebook"
   },
   {
     "CATEGORY": "01-MGGK",
@@ -101,8 +111,28 @@
   },
   {
     "CATEGORY": "01-MGGK",
+    "URL": "https://www.pinterest.com/anupamapaliwal/",
+    "ANCHORTEXT": "MGGK Pinterest"
+  },
+  {
+    "CATEGORY": "01-MGGK",
+    "URL": "https://www.verywellfit.com/recipe-nutrition-analyzer-4157076",
+    "ANCHORTEXT": "Recipe Nutrition Analyzer"
+  },
+  {
+    "CATEGORY": "01-MGGK",
+    "URL": "https://www.whois.com/whois",
+    "ANCHORTEXT": "Whois Checker"
+  },
+  {
+    "CATEGORY": "01-MGGK",
     "URL": "https://www.whois.com/whois",
     "ANCHORTEXT": "Whois.com"
+  },
+  {
+    "CATEGORY": "01-MGGK",
+    "URL": "https://www.youtube.com/c/Mygingergarlickitchen",
+    "ANCHORTEXT": "MGGK Youtube"
   },
   {
     "CATEGORY": "02-NEWS",
@@ -166,16 +196,6 @@
   },
   {
     "CATEGORY": "03-CONCEPRO",
-    "URL": "https://drive.google.com/drive/my-drive",
-    "ANCHORTEXT": "Google Drive"
-  },
-  {
-    "CATEGORY": "03-CONCEPRO",
-    "URL": "https://drive.google.com/drive/quota",
-    "ANCHORTEXT": "Google Drive - Find Quota"
-  },
-  {
-    "CATEGORY": "03-CONCEPRO",
     "URL": "https://github.com/abhishek-paliwal/",
     "ANCHORTEXT": "GITHUB - My GitHub Repositories"
   },
@@ -210,11 +230,6 @@
     "ANCHORTEXT": "Concepro Login (Wordpress)"
   },
   {
-    "CATEGORY": "03-CONCEPRO",
-    "URL": "https://www.sendy.concepro.com/sendy/",
-    "ANCHORTEXT": "SENDY - Login"
-  },
-  {
     "CATEGORY": "04-PROGRAMMING",
     "URL": "https://analytics.google.com/analytics/web/#/p251225617/reports/reportinghub",
     "ANCHORTEXT": "Google Analytics"
@@ -238,6 +253,16 @@
     "CATEGORY": "04-PROGRAMMING",
     "URL": "https://dash.cloudflare.com/sign-up/images",
     "ANCHORTEXT": "Cloudflare Images"
+  },
+  {
+    "CATEGORY": "04-PROGRAMMING",
+    "URL": "https://drive.google.com/drive/my-drive",
+    "ANCHORTEXT": "Google Drive"
+  },
+  {
+    "CATEGORY": "04-PROGRAMMING",
+    "URL": "https://drive.google.com/drive/quota",
+    "ANCHORTEXT": "Google Drive - Find Quota"
   },
   {
     "CATEGORY": "04-PROGRAMMING",
@@ -288,6 +313,11 @@
     "CATEGORY": "04-PROGRAMMING",
     "URL": "https://www.google.com/inputtools/try/",
     "ANCHORTEXT": "Google Hindi TransLiteration"
+  },
+  {
+    "CATEGORY": "04-PROGRAMMING",
+    "URL": "https:/www.gmail.com",
+    "ANCHORTEXT": "Google Mail - Gmail"
   },
   {
     "CATEGORY": "05-PERSONAL",
@@ -1033,6 +1063,11 @@
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://www.notes.abhishekpaliwal.com/",
     "ANCHORTEXT": "https://www.notes.abhishekpaliwal.com/"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://www.sendy.concepro.com/sendy/",
+    "ANCHORTEXT": "SENDY - Login"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",

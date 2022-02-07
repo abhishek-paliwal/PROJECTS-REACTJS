@@ -1,25 +1,31 @@
 CATEGORY;URL;ANCHORTEXT
 01-MGGK;https://ahrefs.com/dashboard;AHREFS - Webmaster Tools
+01-MGGK;https://app.grammarly.com/;Grammarly
 01-MGGK;https://audiojungle.net/category/music-kits?sort=sales;Royalty-Free-Music - AudioJungle
 01-MGGK;https://clarity.microsoft.com/projects;Microsoft Clarity SEO
-01-MGGK;https://downloads.concepro.com/dropbox-public-files/LCE/2019-mggk-all-input-forms.html;MGGK ALL INPUT FORMS
 01-MGGK;https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/index.html;MGGK Scripts Outputs- INDEX of Summary Files
 01-MGGK;https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/mggk-sitestats.html;MGGK Sitestats
 01-MGGK;https://downloads.mygingergarlickitchen.com/mggk-00-external-communication/__mggk_profile/_mggk-blogpost-checklist.html;MGGK - BlogPost-CHECKLIST (old)
 01-MGGK;https://incompetech.com/music/royalty-free/music.html;Royalty-Free-Music - Incompetech
+01-MGGK;https://instagram.com/mygingergarlickitchen/;MGGK Instragram
 01-MGGK;https://search.google.com/test/rich-results;GOOGLE LD+JSON Rich Testing Tool
 01-MGGK;https://sellercentral.amazon.com/hz/inventory;MGGK - Amazon STORE INVENTORY (Login)
 01-MGGK;https://svc.ezoic.com/publisher.php;EZOIC-login
 01-MGGK;https://teknoaxe.com/Home.php;Royalty-Free-Music - TechnoAxe
 01-MGGK;https://webmaster.yandex.com/site/https%3Awww.mygingergarlickitchen.com%3A443/dashboard/;Webmaster Tools - YANDEX
+01-MGGK;https://websiteseochecker.com/domain-authority-checker/;DA Checker (Domain authority)
 01-MGGK;https://wordtohtml.net/;HTML MS-Word to links converter
 01-MGGK;https://www.amzn.com/B00OKTU5MU;MGGK - Amazon Book (Cooking Tips)
 01-MGGK;https://www.bensound.com/;Royalty-Free-Music - BenSound
 01-MGGK;https://www.bing.com/webmasters/searchperf?siteUrl=https://mygingergarlickitchen.com/;Webmaster Tools - Microsoft Bing
-01-MGGK;https://www.checkmoz.com/;DA Finder (Domain authority)
+01-MGGK;https://www.facebook.com/MyGingerGarlicKitchen;MGGK Facebook
 01-MGGK;https://www.mygingergarlickitchen.com/sitemap.xml;MGGK - Sitemap.xml
 01-MGGK;https://www.mygingergarlickitchen.com/video-sitemap.xml;MGGK - Video-Sitemap.xml
+01-MGGK;https://www.pinterest.com/anupamapaliwal/;MGGK Pinterest
+01-MGGK;https://www.verywellfit.com/recipe-nutrition-analyzer-4157076;Recipe Nutrition Analyzer
+01-MGGK;https://www.whois.com/whois;Whois Checker
 01-MGGK;https://www.whois.com/whois;Whois.com
+01-MGGK;https://www.youtube.com/c/Mygingergarlickitchen;MGGK Youtube 
 02-NEWS;https://news.google.com/;Google News
 02-NEWS;https://slashdot.org/;SlashDot
 02-NEWS;https://www.bbc.com/;BBC
@@ -32,8 +38,6 @@ CATEGORY;URL;ANCHORTEXT
 02-NEWS;https://www.yle.fi/news;Finland - YLE English news
 03-CONCEPRO;https://abhishek-paliwal.github.io/;GITHUB - My GitHub HomePage
 03-CONCEPRO;https://abhishek-paliwal.github.io/wallpapers-index.html;Github - Javascript Wallpapers Index
-03-CONCEPRO;https://drive.google.com/drive/my-drive;Google Drive
-03-CONCEPRO;https://drive.google.com/drive/quota;Google Drive - Find Quota 
 03-CONCEPRO;https://github.com/abhishek-paliwal/;GITHUB - My GitHub Repositories
 03-CONCEPRO;https://github.com/abhishek-paliwal/Bash-Scripts-To-Make-Life-Easier/tree/master/mggk_bash_scripts/600-mggk-artificial-intelligence-nlp-programs;GITHUB - Github-600-scripts
 03-CONCEPRO;https://panel.dreamhost.com/;Dreamhost - Login
@@ -41,12 +45,13 @@ CATEGORY;URL;ANCHORTEXT
 03-CONCEPRO;https://public-palibucket.objects-us-east-1.dream.io/g/tmp_g.html;Dreamhost - Dreamobjects (tmp_g)
 03-CONCEPRO;https://virre.prh.fi/novus/companySearch?execution=e2s1;Finland- Company Search
 03-CONCEPRO;https://www.concepro.com/wp-admin;Concepro Login (Wordpress)
-03-CONCEPRO;https://www.sendy.concepro.com/sendy/;SENDY - Login
 04-PROGRAMMING;https://analytics.google.com/analytics/web/#/p251225617/reports/reportinghub;Google Analytics
 04-PROGRAMMING;https://api.cloudflare.com/#cloudflare-images-properties;Cloudflare API docs
 04-PROGRAMMING;https://app.short.io/users/dashboard/325285/links;SHORT.IO (URL shortener)
 04-PROGRAMMING;https://dash.cloudflare.com/;Cloudflare Login
 04-PROGRAMMING;https://dash.cloudflare.com/sign-up/images;Cloudflare Images
+04-PROGRAMMING;https://drive.google.com/drive/my-drive;Google Drive
+04-PROGRAMMING;https://drive.google.com/drive/quota;Google Drive - Find Quota 
 04-PROGRAMMING;https://matplotlib.org/gallery/index.html;Python - MatPlotLib Gallery
 04-PROGRAMMING;https://pages.cloudflare.com/;Cloudflare Pages
 04-PROGRAMMING;https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html;Python - Plotting with Pandas
@@ -57,6 +62,7 @@ CATEGORY;URL;ANCHORTEXT
 04-PROGRAMMING;https://www.crummy.com/software/BeautifulSoup/bs4/doc/;Python - Beautiful Soup4 Tutorial
 04-PROGRAMMING;https://www.google.com/adsense/new/u/0/pub-7892938469578087/home?sourceid=aso&noaccount=false&marketing=true;Google Adsense
 04-PROGRAMMING;https://www.google.com/inputtools/try/;Google Hindi TransLiteration
+04-PROGRAMMING;https:/www.gmail.com;Google Mail - Gmail 
 05-PERSONAL;https://corporate.nordea.fi/#!/;Banking - Nordea Corporate Login
 05-PERSONAL;https://docs.google.com/document/d/1kqaQckligHllL_WafpHBXwDPstsuQ5-NmUlLRH9Ag48/edit?usp=sharing;Google Docs - Details for reference
 05-PERSONAL;https://docs.google.com/forms/d/e/1FAIpQLSdDE14FLLyFaB2eJvc85i0cshDTx9029wbjZJqeepmXKKJrwg/viewform;Google Form - READ-FOR 30-MINUTES
@@ -206,6 +212,7 @@ CATEGORY;URL;ANCHORTEXT
 13-WEBAPPS-BY-US;https://www.mantracoaching.in;https://www.mantracoaching.in
 13-WEBAPPS-BY-US;https://www.mggkanu.com;https://www.mggkanu.com
 13-WEBAPPS-BY-US;https://www.notes.abhishekpaliwal.com/;https://www.notes.abhishekpaliwal.com/
+13-WEBAPPS-BY-US;https://www.sendy.concepro.com/sendy/;SENDY - Login
 13-WEBAPPS-BY-US;https://www.stockfotoage.com;https://www.stockfotoage.com
 14-REACT-APPS;https://app-mggk01-image-finder.abhishekpali.us/index.html;React - app-mggk01-image-finder
 14-REACT-APPS;https://app-mggk01-image-finder.vercel.app/;React Vercel - app-mggk01-image-finder
