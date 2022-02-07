@@ -59,7 +59,11 @@ class MyAppSingleFeed extends React.Component {
     for (let x in myitems1){
       count++ ; 
       if (count < 11) {
-      rows.push(<li key={myitems1[x].id}><a target='_blank' rel='noopener noreferrer' href={myitems1[x].id}><strong>{myitems1[x].title}</strong></a> (<Moment fromNow>{myitems1[x].published}</Moment>)</li>) ;  }
+      //console.log(myitems1[x].id) ;
+      //console.log(myitems1[x].links[0].url) ;
+      const articleUrl = myitems1[x].links[0].url ;
+      const articleTitle = myitems1[x].title ;
+      rows.push(<li key={articleUrl}><a target='_blank' rel='noopener noreferrer' href={articleUrl}><strong>{articleTitle}</strong></a> (<Moment fromNow>{myitems1[x].published}</Moment>)</li>) ;  }
     } 
     return <ul>{rows}</ul> ;
   } ; 

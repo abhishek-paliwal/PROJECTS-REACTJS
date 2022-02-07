@@ -59,7 +59,11 @@ class MyAppSingleFeed1 extends React.Component {
     for (let x in myitems1){
       count++ ; 
       if (count < 11) {
-      rows.push(<li key={myitems1[x].id}><a target='_blank' rel='noopener noreferrer' href={myitems1[x].id}><strong>{myitems1[x].title}</strong></a> (<Moment fromNow>{myitems1[x].published}</Moment>)</li>) ;  }
+      //console.log(myitems1[x].id) ;
+      //console.log(myitems1[x].links[0].url) ;
+      const articleUrl = myitems1[x].links[0].url ;
+      const articleTitle = myitems1[x].title ;
+      rows.push(<li key={articleUrl}><a target='_blank' rel='noopener noreferrer' href={articleUrl}><strong>{articleTitle}</strong></a> (<Moment fromNow>{myitems1[x].published}</Moment>)</li>) ;  }
     } 
     return <ul>{rows}</ul> ;
   } ; 
@@ -92,28 +96,28 @@ const MyNewsFeeds = () => {
   return (
     <div className="row">
       <div className="col-12"><h1 className="display-5">Latest News</h1></div>
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-01.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-02.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-03.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-04.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-05.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-06.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-07.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-08.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-09.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-10.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-11.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-12.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-13.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-14.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-15.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-16.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-17.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-18.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-19.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-20.xml' />
-      <MyAppSingleFeed1 feedurl='../data/rssfeed-21.xml' />
-    </div>
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/YLE-English.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/Slashdot-Top-News.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Top.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-World.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Health.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Science.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Technology.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Top.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Technology.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Personal-Tech.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-World.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Asia-Pacific.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Science.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Health.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-Top.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-Technology.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-World.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/HT-Latest.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/HT-World.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/The-Hindu-Top-News.xml' />
+        <MyAppSingleFeed1 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/The-Hindu-World.xml' />
+      </div>
   )
 }
 
