@@ -1,0 +1,122 @@
+import React from 'react' ;
+import * as rssParser from 'react-native-rss-parser' ;
+import Moment from 'react-moment';
+
+ 
+/* ==================================================== */
+class MyAppSingleFeed1 extends React.Component {
+  constructor() {
+    super();
+    this.state = {
+      showProgressBar: true,
+      feedTitle: '',
+      feedLength: '',
+      lastBuildDate: new Date(),
+      feedItems: [], 
+    }
+  }
+
+  getFeedItemsFromUrl() {
+    // const feedurl = 'https://www.mygingergarlickitchen.com/index.xml' ; 
+    const feedurl = this.props.feedurl ; 
+    console.log('CURRENT_FEED = ' + feedurl) ;
+    return fetch(feedurl) ;
+  };
+
+  componentDidMount() {
+    this.getFeedItemsFromUrl()
+    .then((response) => response.text())
+    .then((responseData) => rssParser.parse(responseData))
+    .then((rss) => {
+      console.log(rss.title);
+      console.log(rss.lastUpdated);
+      console.log(rss.items.length);
+      console.log(rss.items);
+      console.log(rss.items[0].title);
+      console.log(rss.items[0].id);
+      console.log(rss.items[0].published);
+      // setting state for all variables
+      this.setState({ feedItems: rss.items }) ;
+      this.setState({ feedLength: rss.items.length }) ;
+      this.setState({ feedTitle: rss.title }) ;
+      this.setState({ lastBuildDate: rss.lastUpdated }) ;
+      this.setState({ showProgressBar: false }) ;
+    }) ;
+    return null; 
+  }
+
+  printProgressBar() {
+    if (this.state.showProgressBar) {
+    return <div className="spinner-border text-primary" role="status">
+            <span className="visually-hidden">Loading...</span>
+          </div>
+    }
+  } ;
+
+  printObjectElements(myitems1 = this.state.feedItems) {
+    let rows = [] ; 
+    let count = 0; 
+    for (let x in myitems1){
+      count++ ; 
+      if (count < 11) {
+      rows.push(<li key={myitems1[x].id}><a target='_blank' rel='noopener noreferrer' href={myitems1[x].id}><strong>{myitems1[x].title}</strong></a> (<Moment fromNow>{myitems1[x].published}</Moment>)</li>) ;  }
+    } 
+    return <ul>{rows}</ul> ;
+  } ; 
+ 
+  render() {
+    const feedTitle = this.state.feedTitle ;
+    const feedLength = this.state.feedLength ; 
+    const lastBuildDate = this.state.lastBuildDate ; 
+    const myitems = this.state.feedItems ;
+    const printFullItemList = this.printObjectElements(myitems) ; 
+    const printProgressBar = this.printProgressBar() ;
+    
+    return (
+      <div className="col-sm-12 col-xs-12 col-md-6 col-lg-4 col-xl-4">        
+        <div className="card text-dark bg-light mb-3">
+            <div className="card-header">Feed last updated: <strong><Moment fromNow>{lastBuildDate}</Moment></strong><br />(Feed contains {feedLength} posts)</div>
+            <div className="card-body">
+                <h5 className="card-title">{feedTitle}</h5>
+                <div className="card-text">{printFullItemList}</div>
+                {printProgressBar}
+            </div>
+        </div>
+      </div> 
+    ) ; 
+  }
+}
+/* ==================================================== */
+
+const MyNewsFeeds = () => {
+  return (
+    <div className="row">
+      <div className="col-12"><h1 className="display-5">Latest News</h1></div>
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-01.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-02.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-03.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-04.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-05.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-06.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-07.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-08.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-09.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-10.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-11.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-12.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-13.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-14.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-15.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-16.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-17.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-18.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-19.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-20.xml' />
+      <MyAppSingleFeed1 feedurl='../data/rssfeed-21.xml' />
+    </div>
+  )
+}
+
+/* ==================================================== */
+
+export default MyNewsFeeds

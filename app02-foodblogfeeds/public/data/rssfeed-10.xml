@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Health]]></title>
+        <description><![CDATA[BBC News - Health]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Health</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 07 Feb 2022 16:43:22 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Tinnitus biobank needed to explain ringing ears condition]]></title>
+            <description><![CDATA[A charity says a biobank library of human tissue is needed so experts can try to cure tinnitus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-60258453?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-60258453</guid>
+            <pubDate>Mon, 07 Feb 2022 09:51:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Tough new targets will tackle NHS backlog, Boris Johnson says]]></title>
+            <description><![CDATA[Boris Johnson promises action after plans to tackle record waiting lists in England are delayed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-60289635?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-60289635</guid>
+            <pubDate>Mon, 07 Feb 2022 14:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Improving cancer care a huge challenge post-pandemic]]></title>
+            <description><![CDATA[Charities warn of more missed diagnoses because of Covid, as the government plans a "war on cancer".]]></description>
+            <link>https://www.bbc.co.uk/news/health-60249904?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-60249904</guid>
+            <pubDate>Fri, 04 Feb 2022 01:31:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paralysed man with severed spine walks thanks to implant]]></title>
+            <description><![CDATA[World first using electrical implant developed by a team of Swiss researchers]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60258620?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60258620</guid>
+            <pubDate>Mon, 07 Feb 2022 16:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Libmeldy: World's 'most expensive' drug recommended for NHS use]]></title>
+            <description><![CDATA[The gene therapy Libmeldy treats babies and children with a very rare genetic condition.]]></description>
+            <link>https://www.bbc.co.uk/news/health-60245738?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-60245738</guid>
+            <pubDate>Fri, 04 Feb 2022 01:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surgical mesh centres not working, warn MPs]]></title>
+            <description><![CDATA[A debate in Westminster hears that GPs are not always aware of the referral process.]]></description>
+            <link>https://www.bbc.co.uk/news/health-60244321?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-60244321</guid>
+            <pubDate>Fri, 04 Feb 2022 01:38:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Novavax Covid jab approved by UK drugs regulator]]></title>
+            <description><![CDATA[UK regulator the MHRA says Nuvaxovid is safe as a first and second dose in adults.]]></description>
+            <link>https://www.bbc.co.uk/news/health-60245736?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-60245736</guid>
+            <pubDate>Thu, 03 Feb 2022 15:58:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS Tracker: How is the NHS in your area coping this winter?]]></title>
+            <description><![CDATA[Winter and Covid are putting the NHS under severe strain, find out what's happening in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/health-59549800?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-59549800</guid>
+            <pubDate>Thu, 03 Feb 2022 10:10:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deaf people diagnosed with cancer face 'big barriers']]></title>
+            <description><![CDATA[Coleen McSorely says the barriers she faced included being unable to lip-read medics wearing masks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-60231182?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-scotland-60231182</guid>
+            <pubDate>Fri, 04 Feb 2022 06:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plans to sell vaginal HRT tablets over the counter]]></title>
+            <description><![CDATA[GPs, pharmacists and the public in England are being asked for their views on the proposal.]]></description>
+            <link>https://www.bbc.co.uk/news/health-60227881?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-60227881</guid>
+            <pubDate>Wed, 02 Feb 2022 13:02:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The myth of a 'super-charged' immune system]]></title>
+            <description><![CDATA[Suddenly we are all talking about immunity but how much do we really understand?]]></description>
+            <link>https://www.bbc.co.uk/news/health-60171592?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-60171592</guid>
+            <pubDate>Tue, 01 Feb 2022 20:31:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How HIV elimination is within Australia's reach]]></title>
+            <description><![CDATA[Australian HIV cases have hit an all-time low - and it's partly a legacy of unconventional strategy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-59764592?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-australia-59764592</guid>
+            <pubDate>Tue, 01 Feb 2022 16:22:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pfizer and BioNTech start trials of new Omicron-specific jab]]></title>
+            <description><![CDATA[The companies have adapted their original vaccine to target the fast-spreading variant.]]></description>
+            <link>https://www.bbc.co.uk/news/health-60131986?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-60131986</guid>
+            <pubDate>Tue, 25 Jan 2022 16:57:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands needed to try a new Covid antiviral treatment]]></title>
+            <description><![CDATA[A UK study aims to find out who will benefit most from a pill designed to treat Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/health-60117313?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-60117313</guid>
+            <pubDate>Tue, 25 Jan 2022 09:55:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hymen repair surgery and virginity testing to be banned in UK]]></title>
+            <description><![CDATA[The practice is linked to virginity in some cultures and has been described as a form of violence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-59960177?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-59960177</guid>
+            <pubDate>Tue, 25 Jan 2022 14:52:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Long Covid: Ipswich Hospital worker says it has changed her life]]></title>
+            <description><![CDATA[Jodi Avery experiences fatigue, breathlessness and brain fog after contracting coronavirus twice.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-60091918?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-suffolk-60091918</guid>
+            <pubDate>Mon, 24 Jan 2022 17:35:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Omicron: How do I know if I have it?]]></title>
+            <description><![CDATA[The symptoms are similar to a cold, while genetic analysis is the only way to confirm the variant.]]></description>
+            <link>https://www.bbc.co.uk/news/health-59460252?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-59460252</guid>
+            <pubDate>Tue, 04 Jan 2022 12:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the Covid variants and will vaccines still work?]]></title>
+            <description><![CDATA[A new Covid variant has emerged that looks worryingly different to the one vaccines were designed to fight.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55659820?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55659820</guid>
+            <pubDate>Thu, 23 Dec 2021 09:17:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the Covid rules in England, Scotland, Wales and Northern Ireland?]]></title>
+            <description><![CDATA[Covid rules are being eased across all four nations of the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Mon, 31 Jan 2022 16:40:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How to look after yourself at home]]></title>
+            <description><![CDATA[What can you expect if you have Covid, and when should you get extra help?]]></description>
+            <link>https://www.bbc.co.uk/news/health-59683083?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-59683083</guid>
+            <pubDate>Tue, 18 Jan 2022 12:46:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine ‘waning immunity’: How worried should I be?]]></title>
+            <description><![CDATA[Is the effectiveness of Covid vaccines waning over time? We look at how much protection being double vaccinated offers.]]></description>
+            <link>https://www.bbc.co.uk/news/health-59260294?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-59260294</guid>
+            <pubDate>Sun, 14 Nov 2021 01:06:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I book my Covid jab and does it work against Omicron?]]></title>
+            <description><![CDATA[The government has scrapped plans to make Covid jabs mandatory for frontline NHS staff in England.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Tue, 01 Feb 2022 12:35:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why bonding over the Euros appeared to increase Covid cases in men]]></title>
+            <description><![CDATA[Psychologists say men need to be part of a group in order to vent their feelings and emotions.]]></description>
+            <link>https://www.bbc.co.uk/news/health-58015593?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-58015593</guid>
+            <pubDate>Sun, 01 Aug 2021 23:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Why are 12-15s now being double-jabbed?]]></title>
+            <description><![CDATA[All children aged 12 to 15 are being offered two doses of Covid vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57888429?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-57888429</guid>
+            <pubDate>Mon, 29 Nov 2021 16:45:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why you shouldn't get a second Covid jab too early]]></title>
+            <description><![CDATA[A government scientific advisor tells Newsbeat why four weeks is too soon between Covid jabs.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-57682233?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/newsbeat-57682233</guid>
+            <pubDate>Fri, 02 Jul 2021 06:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beta coronavirus variant: What is the risk?]]></title>
+            <description><![CDATA[There are fears that this version of coronavirus, first identified in South Africa, is]]></description>
+            <link>https://www.bbc.co.uk/news/health-55534727?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55534727</guid>
+            <pubDate>Thu, 29 Jul 2021 08:57:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid rules: How can the clinically vulnerable stay safe?]]></title>
+            <description><![CDATA[As social-distancing and other Covid rules end in England, how can people who were shielding stay safe?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51997151?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51997151</guid>
+            <pubDate>Tue, 13 Jul 2021 15:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the latest rules for face coverings and masks?]]></title>
+            <description><![CDATA[Masks are no longer compulsory in England, but are still recommended in some settings.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Mon, 31 Jan 2022 16:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many cases in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 06 Feb 2022 16:50:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: When can teenagers get a second dose?]]></title>
+            <description><![CDATA[All 16 and 17 year-olds in the UK can now have a second dose 12 weeks after the first.]]></description>
+            <link>https://www.bbc.co.uk/news/health-57273875?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-57273875</guid>
+            <pubDate>Wed, 17 Nov 2021 16:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do we know Covid vaccines are safe?]]></title>
+            <description><![CDATA[Busting myths and explaining the facts around vaccines.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55056016?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-55056016</guid>
+            <pubDate>Mon, 10 May 2021 17:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What it does to the body]]></title>
+            <description><![CDATA[What is it like to have the coronavirus, how will it affect you and how is it treated?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51214864?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51214864</guid>
+            <pubDate>Sat, 14 Mar 2020 01:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Support bubbles: How do they work and who is in yours?]]></title>
+            <description><![CDATA[Some people across the UK have been able to form "support bubbles" or "extended households".]]></description>
+            <link>https://www.bbc.co.uk/news/health-52637354?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-52637354</guid>
+            <pubDate>Wed, 06 Jan 2021 10:41:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to get a Covid test]]></title>
+            <description><![CDATA[Across the UK, people without symptoms no longer have to confirm a positive LFT result with a PCR.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Wed, 02 Feb 2022 15:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All you need to know on the coronavirus]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms of coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Wed, 06 Oct 2021 10:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Intensive care and other key terms explained]]></title>
+            <description><![CDATA[Use our tool to check the meaning of key words and phrases associated with the Covid-19 outbreak.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52182658?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-52182658</guid>
+            <pubDate>Sun, 03 May 2020 00:06:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What is the risk to men over 50?]]></title>
+            <description><![CDATA[While most people will have mild symptoms and recover quickly, some are more prone to getting sick.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52197594?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-52197594</guid>
+            <pubDate>Thu, 16 Apr 2020 20:03:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Do face masks actually work?]]></title>
+            <description><![CDATA[With face masks in high demand, we look at whether they really can protect people from the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51881555?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-51881555</guid>
+            <pubDate>Sat, 14 Mar 2020 01:04:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Delays to a plan to tackle England's NHS backlog not down to money - Sajid Javid]]></title>
+            <description><![CDATA[The health secretary says the delay is to make sure everyone in government is behind the plan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-60285588?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-politics-60285588</guid>
+            <pubDate>Mon, 07 Feb 2022 08:20:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fatherhood joy for paralysis implant dad]]></title>
+            <description><![CDATA[David M’zee received an electrical implant to his spine in 2017, it enables him to walk slowly and stand.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60253437?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60253437</guid>
+            <pubDate>Mon, 07 Feb 2022 00:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All-terrain wheelchair: ‘My chair is my freedom’]]></title>
+            <description><![CDATA[A woman says her all-terrain wheelchair means she can access the Peak District home she loves.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-60233119?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-derbyshire-60233119</guid>
+            <pubDate>Sat, 05 Feb 2022 00:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lyme disease: Man spent £25,000 before getting diagnosis]]></title>
+            <description><![CDATA[Steven Williams, 36, said his fit, active life was "totally devastated" by the disease.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-60202952?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-wales-60202952</guid>
+            <pubDate>Tue, 01 Feb 2022 15:30:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The NHS workers that faced UK's first Covid cases]]></title>
+            <description><![CDATA[Two years on, staff at Newcastle's Royal Victoria Hospital look back at the first weeks of the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-60173065?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-60173065</guid>
+            <pubDate>Mon, 31 Jan 2022 00:13:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

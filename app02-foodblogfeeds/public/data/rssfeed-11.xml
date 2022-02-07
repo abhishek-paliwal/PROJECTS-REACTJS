@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Science & Environment]]></title>
+        <description><![CDATA[BBC News - Science & Environment]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Science &amp; Environment</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 07 Feb 2022 16:39:30 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Paralysed man with severed spine walks thanks to implant]]></title>
+            <description><![CDATA[World first using electrical implant developed by a team of Swiss researchers]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60258620?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60258620</guid>
+            <pubDate>Mon, 07 Feb 2022 16:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: Top companies exaggerating their progress - study]]></title>
+            <description><![CDATA[Companies including Google, Amazon and Ikea are not meeting their own green targets, a report finds.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60248830?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60248830</guid>
+            <pubDate>Mon, 07 Feb 2022 13:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fatherhood joy for paralysis implant dad]]></title>
+            <description><![CDATA[David M’zee received an electrical implant to his spine in 2017, it enables him to walk slowly and stand.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60253437?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60253437</guid>
+            <pubDate>Mon, 07 Feb 2022 00:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New greenfield housing still designed around cars, report finds]]></title>
+            <description><![CDATA[Services such as shops, schools and doctors are often almost impossible to reach on foot or by bike]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60245980?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60245980</guid>
+            <pubDate>Mon, 07 Feb 2022 07:00:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why switching asthma inhaler could be better for you and the planet]]></title>
+            <description><![CDATA[Aerosol asthma inhalers are cheap but not good for climate change - is there a better way for both patients and the planet?]]></description>
+            <link>https://www.bbc.co.uk/news/health-59997297?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/health-59997297</guid>
+            <pubDate>Sun, 06 Feb 2022 00:14:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iceland whaling: Fisheries minister signals end from 2024]]></title>
+            <description><![CDATA[A fall in demand for Icelandic whale products means the controversial practice is no longer profitable.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-60265085?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-europe-60265085</guid>
+            <pubDate>Fri, 04 Feb 2022 22:34:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mount Everest: Mountain's highest glacier melting rapidly, new study shows]]></title>
+            <description><![CDATA[The melting is endangering both climbers and locals who rely on the glaciers for drinking water.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-60259427?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/world-asia-60259427</guid>
+            <pubDate>Fri, 04 Feb 2022 18:06:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Parrots for sale: The internet's role in illicit trade]]></title>
+            <description><![CDATA[An investigation finds some 4,500 classified ads on social media, offering African grey parrots for sale.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-60247540?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-60247540</guid>
+            <pubDate>Sat, 05 Feb 2022 01:09:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change threatening buried UK treasures]]></title>
+            <description><![CDATA[Our ability to understand Britain's history is at risk, warn archaeologists.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60091485?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60091485</guid>
+            <pubDate>Tue, 25 Jan 2022 00:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toxic 'forever chemicals' found in British otters]]></title>
+            <description><![CDATA[Toxic chemicals used in non-stick saucepans are found in otters across England and Wales.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60127701?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60127701</guid>
+            <pubDate>Tue, 25 Jan 2022 15:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: 'Fragile win' at COP26 summit under threat]]></title>
+            <description><![CDATA[Alok Sharma warns that unless there's swift action this year, progress made at COP26 will be lost.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60115969?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60115969</guid>
+            <pubDate>Mon, 24 Jan 2022 17:56:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[False banana: Is Ethiopia's enset 'wondercrop' for climate change?]]></title>
+            <description><![CDATA[The banana-like crop has the potential to feed more than 100 million people, according to research.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60074407?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60074407</guid>
+            <pubDate>Fri, 21 Jan 2022 06:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Giant pristine coral reef discovered off Tahiti]]></title>
+            <description><![CDATA[Marine explorers find a "pristine" 3km coral reef at depths of 30m off the coast of Tahiti.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60047368?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60047368</guid>
+            <pubDate>Thu, 20 Jan 2022 05:03:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iris: Student-built robot rover on track to explore the Moon]]></title>
+            <description><![CDATA[A student-built rover is being prepared for a launch to the Moon later this year.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60231748?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60231748</guid>
+            <pubDate>Thu, 03 Feb 2022 00:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[International Space Station to crash down to Earth in 2031]]></title>
+            <description><![CDATA[Nasa says the ISS will operate until 2030 before the agency hands over to commercial companies.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60246032?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60246032</guid>
+            <pubDate>Thu, 03 Feb 2022 15:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk SpaceX rocket on collision course with moon]]></title>
+            <description><![CDATA[Astronomers say that a rocket in space since 2015 is hurtling towards the Moon where it will explode.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60148543?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60148543</guid>
+            <pubDate>Wed, 26 Jan 2022 21:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Radar satellite's stunning map of UK and Ireland]]></title>
+            <description><![CDATA[For some technologies there are never any clouds to spoil the view.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60044065?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60044065</guid>
+            <pubDate>Wed, 19 Jan 2022 08:28:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shackleton's Endurance: The impossible search for the greatest shipwreck]]></title>
+            <description><![CDATA[The latest bid to find Antarctic explorer Ernest Shackleton's lost polar yacht is set to get under way.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60239105?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60239105</guid>
+            <pubDate>Fri, 04 Feb 2022 00:11:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woolly mammoth and other Ice Age remains found in Devon]]></title>
+            <description><![CDATA[The bones, including those of a woolly rhinoceros and wolf, were found on a housing development.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-60234766?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/uk-england-devon-60234766</guid>
+            <pubDate>Thu, 03 Feb 2022 10:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the quantum apocalypse and should we be scared?]]></title>
+            <description><![CDATA[Security experts say a quantum computing leap could crack open all our secrets - so should we worry?]]></description>
+            <link>https://www.bbc.co.uk/news/technology-60144498?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/technology-60144498</guid>
+            <pubDate>Thu, 27 Jan 2022 01:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NIF: US lab takes further step towards nuclear fusion goal]]></title>
+            <description><![CDATA[US physicists confirm that they have achieved a stage in nuclear fusion called "burning plasma".]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-60148105?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/science-environment-60148105</guid>
+            <pubDate>Wed, 26 Jan 2022 22:39:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Winter Olympics: Will the Beijing Games be 'green and clean'?]]></title>
+            <description><![CDATA[China is promising a greener Winter Olympics, although critics are not sure if it can deliver.]]></description>
+            <link>https://www.bbc.co.uk/news/60067690?at_medium=RSS&amp;at_campaign=KARANGA</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/60067690</guid>
+            <pubDate>Wed, 26 Jan 2022 00:17:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
