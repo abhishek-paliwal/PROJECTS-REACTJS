@@ -1,10 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+//
 import NavBar from './components/NavBar';
-//import MyApp from './MyApp';
-//import MyNewsFeeds from './MyNewsFeeds';
-
 import FeedFoodBlogs from './pages/FeedFoodBlogs';
 import FeedWorldNews from './pages/FeedWorldNews';
 import FeedTechnologyNews from './pages/FeedTechnologyNews';
