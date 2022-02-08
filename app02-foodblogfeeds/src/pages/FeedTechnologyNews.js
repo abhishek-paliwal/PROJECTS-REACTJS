@@ -28,13 +28,13 @@ class MyAppSingleFeed2 extends React.Component {
     .then((response) => response.text())
     .then((responseData) => rssParser.parse(responseData))
     .then((rss) => {
-      console.log(rss.title);
-      console.log(rss.lastUpdated);
-      console.log(rss.items.length);
-      console.log(rss.items);
-      console.log(rss.items[0].title);
-      console.log(rss.items[0].id);
-      console.log(rss.items[0].published);
+      //console.log(rss.title);
+      //console.log(rss.lastUpdated);
+      //console.log(rss.items.length);
+      //console.log(rss.items);
+      //console.log(rss.items[0].title);
+      //console.log(rss.items[0].id);
+      //console.log(rss.items[0].published);
       // setting state for all variables
       this.setState({ feedItems: rss.items }) ;
       this.setState({ feedLength: rss.items.length }) ;
@@ -63,7 +63,7 @@ class MyAppSingleFeed2 extends React.Component {
       //console.log(myitems1[x].links[0].url) ;
       const articleUrl = myitems1[x].links[0].url ;
       const articleTitle = myitems1[x].title ;
-      rows.push(<li key={articleUrl}><a target='_blank' rel='noopener noreferrer' href={articleUrl}><strong>{articleTitle}</strong></a> (<Moment fromNow>{myitems1[x].published}</Moment>)</li>) ;  }
+      rows.push(<li className='pb-2' key={articleUrl}><a target='_blank' rel='noopener noreferrer' href={articleUrl}>{articleTitle}</a> (<Moment fromNow>{myitems1[x].published}</Moment>)</li>) ;  }
     } 
     return <ul>{rows}</ul> ;
   } ; 
