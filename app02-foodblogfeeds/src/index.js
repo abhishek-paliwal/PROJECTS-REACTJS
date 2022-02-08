@@ -15,7 +15,7 @@ ReactDOM.render(
     <BrowserRouter>
         <Routes>
           <Route path="/" element={<NavBar />}>
-            <Route index element={<FeedFoodBlogs />} />
+            <Route index element={<FeedWorldNews />} />
             <Route path="feedfoodblogs" element={<FeedFoodBlogs />} />
             <Route path="feedworldnews" element={<FeedWorldNews />} />
             <Route path="feedtechnologynews" element={<FeedTechnologyNews />} />
