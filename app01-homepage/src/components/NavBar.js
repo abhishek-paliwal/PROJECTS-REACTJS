@@ -5,7 +5,7 @@ import homelogo from '../components/Homelogo.svg'
 const NavBar = () => {
   return <nav className="navbar navbar-expand-lg navbar-light bg-light">
   <div className="container-fluid">
-    <a className="navbar-brand">
+    <a className="navbar-brand" href="/">
       <img src={homelogo} alt="App Logo" width="30" height="30" className="d-inline-block align-text-top" />
     </a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -53,7 +53,7 @@ const NavBar = () => {
         </li>
 
         <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a className="nav-link dropdown-toggle" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="/">
             Designing-Tools
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown1">
@@ -67,7 +67,7 @@ const NavBar = () => {
         </li>
 
         <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a className="nav-link dropdown-toggle" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="/">
             Apps
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown2">
