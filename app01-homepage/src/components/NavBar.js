@@ -31,6 +31,7 @@ const NavBar = () => {
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076">Recipe Nutrition Analyzer</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://websiteseochecker.com/domain-authority-checker/">DA Checker (Domain authority)</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.whois.com/whois">Whois Checker</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app-mggk01-image-finder.vercel.app/unitscalculator">MGGK App - UnitsCalculator</a></li>
           </ul>
         </li>
 
@@ -71,9 +72,9 @@ const NavBar = () => {
             Apps
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown2">
-            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app-mggk01-image-finder.abhishekpali.us/index.html">app-mggk01-image-finder</a></li>
-            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app02-foodblogfeeds.abhishekpali.us/index.html">app02-foodblogfeeds</a></li>
-            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app03-tictactoe.abhishekpali.us/index.html">app03-tictactoe</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app01-homepage.vercel.app">app01-homepage</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app-mggk01-image-finder.vercel.app">app-mggk01-image-finder</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app02-foodblogfeeds.vercel.app">app02-foodblogfeeds</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app04-openmultiplelinks.abhishekpali.us/index.html">app04-openmultiplelinks</a></li>
           </ul>
         </li>
