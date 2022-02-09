@@ -1,11 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+//
+import NavBar from './components/NavBar';
+import MggkImageFinder from './pages/MggkImageFinder';
 
+//
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<NavBar />}>
+            <Route index element={<MggkImageFinder />} />
+            <Route path="mggkimagefinder" element={<MggkImageFinder />} />
+          </Route>
+        </Routes>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );

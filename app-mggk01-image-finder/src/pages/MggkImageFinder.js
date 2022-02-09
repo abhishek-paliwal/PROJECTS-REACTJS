@@ -1,5 +1,5 @@
 import React from 'react';
-import Data from './data/data_out/mggk_summary_cloudflare_ImagesUrlsWPcontentUploads.csv.json' ;
+import Data from '../data/data_out/mggk_summary_cloudflare_ImagesUrlsWPcontentUploads.csv.json' ;
 import {useState} from 'react';
 
 /* =============================================== */
@@ -59,7 +59,7 @@ function getSearchResults (query) {
 } ; 
 /* =============================================== */
 
-const App = () => {
+const MggkImageFinder = () => {
   const [query, setQuery] = useState('') ;
   const [numImagesToShow, setNumImagesToShow] = useState(10) ;
   // Getting array elements and slicing it to only show N elements
@@ -84,4 +84,4 @@ const App = () => {
   </div>;
 };
 
-export default App;
+export default MggkImageFinder;
