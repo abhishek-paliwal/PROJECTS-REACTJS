@@ -4,6 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 //
 import NavBar from './components/NavBar';
 import MggkImageFinder from './pages/MggkImageFinder';
+import UnitsCalculator from './pages/UnitsCalculator';
 
 //
 ReactDOM.render(
@@ -11,7 +12,8 @@ ReactDOM.render(
     <BrowserRouter>
         <Routes>
           <Route path="/" element={<NavBar />}>
-            <Route index element={<MggkImageFinder />} />
+            <Route index element={<UnitsCalculator />} />
+            <Route path="unitscalculator" element={<UnitsCalculator />} />
             <Route path="mggkimagefinder" element={<MggkImageFinder />} />
           </Route>
         </Routes>

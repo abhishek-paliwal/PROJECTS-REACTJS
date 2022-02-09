@@ -17,7 +17,7 @@ const NavBar = () => {
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
 
         <li className="nav-item">
-          <div className="nav-link"><Link to="/mggkimagefinder">MggkImageFinder</Link></div>
+          <div className="nav-link"><Link to="/unitscalculator">UnitsCalculator</Link></div>
         </li>
         <li className="nav-item">
           <div className="nav-link"><Link to="/mggkimagefinder">MggkImageFinder</Link></div>
