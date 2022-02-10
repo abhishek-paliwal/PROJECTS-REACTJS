@@ -12,23 +12,26 @@ function showInputFields (unit1value,unit2value,unit1valueNew,setUnit1value,setU
         <div className="input-group mb-3">
             <span className="input-group-text">If</span>       
             <input type="text" className="form-control bg-info" placeholder={unit1value} aria-label="unit1value" onChange={event => setUnit1value(event.target.value) } />        
-            <span className="input-group-text">of unit1 means</span>       
+            <span className="input-group-text">unit1 =</span>       
             <input type="text" className="form-control" placeholder={unit2value} aria-label="unit2value" onChange={event => setUnit2value(event.target.value) } />       
-            <span className="input-group-text">of unit2</span>
+            <span className="input-group-text">unit2</span>
         </div>
         <div className="input-group mb-3">
             <span className="input-group-text">Then</span>
             <input type="text" className="form-control" placeholder={unit1valueNew} aria-label="unit1valueNew" onChange={event => setUnit1valueNew(event.target.value) } />        
-            <span className="input-group-text">of unit1 means</span>
+            <span className="input-group-text">unit1 =</span>
             <input readOnly type="text" className="form-control bg-warning" placeholder={unit2valueNewRounded} aria-label="unit2valueNew"/>    
-            <span className="input-group-text">of unit2</span>   
+            <span className="input-group-text">unit2</span>   
         </div>
     </>
 }
 ////
 function CalculateCelciusToFahrenheit (unit1value) {
-  const CelToFah = ( (unit1value*9)/5 ) + 32 ;
-  const FahToCel = ( (unit1value-32)*5 )/9 ;
+  const CelToFahTmp = ((unit1value*9)/5 ) + 32 ;
+  const CelToFah = Math.round( (CelToFahTmp + Number.EPSILON) * 100) / 100 ;
+  //
+  const FahToCelTmp = ((unit1value-32)*5 )/9 ;
+  const FahToCel = Math.round( (FahToCelTmp + Number.EPSILON) * 100) / 100 ;
   //
   return <div className="card"> 
       <div className="card-header">Temperature conversion (automatic)</div>
@@ -41,7 +44,8 @@ function CalculateCelciusToFahrenheit (unit1value) {
 }
 ////
 function CalculateOvenTimings (unit1value,unit2value,unit1valueNew) {
-  const calculatedOvenTiming =  (unit1value*unit2value)/unit1valueNew ;
+  const calculatedOvenTimingTmp =  (unit1value*unit2value)/unit1valueNew ;
+  const calculatedOvenTiming = Math.round( (calculatedOvenTimingTmp + Number.EPSILON) * 100) / 100 ;
   //
   return <div className="card"> 
       <div className="card-header">Oven/Baking Timings calculations (automatic)</div>
@@ -70,8 +74,10 @@ const UnitsCalculator = () => {
   return <div className="container">
     <h1 className="display-6">Calculator = Convert unit1 to unit2</h1>
     <div className="section mb-2">{showCalculatedInputs}</div>
-    <div className="section mb-2">{convertTemperatures}</div>
-    <div className="section mb-2">{convertOvenTimings}</div>
+    <div className="section mb-2"><div className="row">
+      <div className="col-lg-6 col-sm-12">{convertTemperatures}</div>
+      <div className="col-lg-6 col-sm-12">{convertOvenTimings}</div>
+    </div></div>
   </div>;
 };
 
