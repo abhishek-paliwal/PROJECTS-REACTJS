@@ -78,7 +78,7 @@ class MyAppSingleFeed2 extends React.Component {
     
     return (
       <div className="col-sm-12 col-xs-12 col-md-6 col-lg-4 col-xl-4">        
-        <div className="card text-dark bg-light mb-3">
+        <div className="card text-white bg-dark mb-3">
             <div className="card-header">Feed last updated: <strong><Moment fromNow>{lastBuildDate}</Moment></strong><br />(Feed contains {feedLength} posts)</div>
             <div className="card-body">
                 <h5 className="card-title">{feedTitle}</h5>
@@ -94,14 +94,14 @@ class MyAppSingleFeed2 extends React.Component {
 
 const MyNewsTechnologyFeeds = () => {
   return (
-    <div className="row">
-      <div className="col-12"><h1 className="display-5">Latest News</h1></div>
+    <div className="section bg-light text-dark p-3"><div className="row">
+      <div className="col-12"><h1 className="display-5">Latest Techonology News</h1></div>
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/Slashdot-Top-News.xml' />
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/BBC-Technology.xml' />
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Technology.xml' />
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/NYT-Personal-Tech.xml' />
         <MyAppSingleFeed2 feedurl='https://vps.abhishekpaliwal.com/scripts-html-outputs/data-reactapps/rssfeeds/TOI-Technology.xml' />
-      </div>
+      </div></div>
   )
 }
 
