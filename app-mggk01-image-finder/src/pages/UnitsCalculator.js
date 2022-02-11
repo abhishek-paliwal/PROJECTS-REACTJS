@@ -81,8 +81,7 @@ function convertWeightUnits (unit1value) {
               </thead>
               <tbody>
                 <tr><td>{unit1value} tsp =</td><td>{tsp2tbsp} tbsp</td></tr>
-                <tr><td>{unit1value} tsp =</td><td> {tsp2tbsp} tbsp</td></tr>
-                <tr><td>{unit1value} tbsp =</td><td> {tbsp2tsp} tbsp</td></tr>
+                <tr><td>{unit1value} tbsp =</td><td> {tbsp2tsp} tsp</td></tr>
                 <tr><td>{unit1value} Oz =</td><td> {oz2grams} grams</td></tr>
                 <tr><td>{unit1value} grams =</td><td> {grams2oz} Oz</td></tr>
                 <tr><td>{unit1value} pounds (lb) =</td><td> {pounds2grams} grams</td></tr>
@@ -95,12 +94,16 @@ function convertWeightUnits (unit1value) {
 function convertVolumeUnits (unit1value) {
   // Get the following ratios from Google
   // Ratios below
-  const ml2cupsRatio = 1/237 ; 
+  const cups2tbspRatio = 16 ;
+  const ml2cupsRatio = 1/250 ; 
   const ml2tbspRatio = 1/14.78 ;
   const fluidOz2mlRatio = 29.574 ; 
   const fluidOz2cupsRatio = 1/8 ; 
   //
   // Calculations below
+  const cups2tbsp =  unit1value * cups2tbspRatio ;
+  const tbsp2cups =  unit1value / cups2tbspRatio ;
+  //
   const ml2cups =  unit1value * ml2cupsRatio ;
   const cups2ml =  unit1value / ml2cupsRatio ;
   //
@@ -120,15 +123,17 @@ function convertVolumeUnits (unit1value) {
               <thead>
                 <tr><th scope="col">Unit1</th><th scope="col">Unit2</th></tr>
               </thead>
-              <tbody>     
-        <tr><td>{unit1value} ml =</td><td>{ml2cups} cups</td></tr>
-        <tr><td>{unit1value} cups =</td><td>{cups2ml} ml</td></tr>
-        <tr><td>{unit1value} ml =</td><td>{ml2tbsp} tbsp</td></tr>
-        <tr><td>{unit1value} tbsp =</td><td>{tbsp2ml} ml</td></tr>
-        <tr><td>{unit1value} fluid Oz =</td><td>{fluidOz2ml} ml</td></tr>
-        <tr><td>{unit1value} ml =</td><td>{ml2fluidOz} fluid Oz</td></tr>
-        <tr><td>{unit1value} fluid Oz =</td><td>{fluidOz2cups} cups</td></tr>
-        <tr><td>{unit1value} cups =</td><td>{cups2fluidOz} fluid Oz</td></tr>
+              <tbody>   
+                <tr><td>{unit1value} cups =</td><td>{cups2tbsp} tbsp</td></tr>
+                <tr><td>{unit1value} tbsp =</td><td>{tbsp2cups} cups</td></tr>
+                <tr><td>{unit1value} ml =</td><td>{ml2cups} cups</td></tr>
+                <tr><td>{unit1value} cups =</td><td>{cups2ml} ml</td></tr>
+                <tr><td>{unit1value} ml =</td><td>{ml2tbsp} tbsp</td></tr>
+                <tr><td>{unit1value} tbsp =</td><td>{tbsp2ml} ml</td></tr>
+                <tr><td>{unit1value} fluid Oz =</td><td>{fluidOz2ml} ml</td></tr>
+                <tr><td>{unit1value} ml =</td><td>{ml2fluidOz} fluid Oz</td></tr>
+                <tr><td>{unit1value} fluid Oz =</td><td>{fluidOz2cups} cups</td></tr>
+                <tr><td>{unit1value} cups =</td><td>{cups2fluidOz} fluid Oz</td></tr>
             </tbody>
             </table>
         </div>
