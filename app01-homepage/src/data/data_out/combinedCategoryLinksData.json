@@ -331,11 +331,6 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
-    "URL": "https://docs.google.com/forms/d/e/1FAIpQLSdDE14FLLyFaB2eJvc85i0cshDTx9029wbjZJqeepmXKKJrwg/viewform",
-    "ANCHORTEXT": "Google Form - READ-FOR 30-MINUTES"
-  },
-  {
-    "CATEGORY": "05-PERSONAL",
     "URL": "https://docs.google.com/forms/d/e/1FAIpQLSdsaz4p2nn88bnpeW_937I2tG4GC0wPDPgd6AemMKPQzpXvIg/viewform?c=0&w=1",
     "ANCHORTEXT": "Google Form - BP-MON"
   },
@@ -466,11 +461,6 @@
   },
   {
     "CATEGORY": "07-SCHOOL",
-    "URL": "https://docs.google.com/document/d/1XzJvgbzjLRik3IzikXP2KSJ-4L76K1e0xOJQ31dM7A4/edit",
-    "ANCHORTEXT": "Words I Know"
-  },
-  {
-    "CATEGORY": "07-SCHOOL",
     "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/cursive-alphabets-lettering.jpg",
     "ANCHORTEXT": "Cursive-letters-alphabets"
   },
@@ -561,11 +551,6 @@
   },
   {
     "CATEGORY": "08-DESIGNING",
-    "URL": "https://typeslab.com/",
-    "ANCHORTEXT": "Slab poster maker"
-  },
-  {
-    "CATEGORY": "08-DESIGNING",
     "URL": "https://typespiration.com/",
     "ANCHORTEXT": "Typographic-CSS - TYPEspiration"
   },
@@ -623,11 +608,6 @@
     "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://chart.googleapis.com/chart?chs=520x520&cht=qr&chl=https://www.concepro.com",
     "ANCHORTEXT": "Google Barcode Creator"
-  },
-  {
-    "CATEGORY": "09-WEB-DEVELOPMENT",
-    "URL": "https://fortawesome.github.io/Font-Awesome/cheatsheet/",
-    "ANCHORTEXT": "FONT AWESOME CHEATSHEET"
   },
   {
     "CATEGORY": "09-WEB-DEVELOPMENT",
@@ -786,38 +766,8 @@
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/2-Mind-And-Personal-Development-Books/201606-Deal-With-Rejection-By-Identifying-Correct-Negative-Emotion.html",
-    "ANCHORTEXT": "Find Negative Emotions correctly"
-  },
-  {
-    "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/Index-Of-All-Markdown-Books.html",
     "ANCHORTEXT": "Index of My Markdown Books"
-  },
-  {
-    "CATEGORY": "11-WORDS + VOCABULARY",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/20150807-Inspirational-Words-Plus-Words-For-Pleasant-And-Unpleasant-Feelings.html",
-    "ANCHORTEXT": "Words for Inspiration + Pleasant and Unpleasant feelings"
-  },
-  {
-    "CATEGORY": "11-WORDS + VOCABULARY",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/Abhishek-317-Power-Words-To-Selling-And-Writing-For-Kindle.html",
-    "ANCHORTEXT": "317+29 WORDS THAT SELL"
-  },
-  {
-    "CATEGORY": "11-WORDS + VOCABULARY",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/Cooking-Adjectives.html",
-    "ANCHORTEXT": "Cooking Adjectives"
-  },
-  {
-    "CATEGORY": "11-WORDS + VOCABULARY",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/MISC-Books/The-800-Most-Commonly-Used-Idioms-In-America.html",
-    "ANCHORTEXT": "800-Most-Commonly-Used-Idioms"
-  },
-  {
-    "CATEGORY": "11-WORDS + VOCABULARY",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/0000-WORDS-OF-WISDOM-WITH-MARKDOWN/PDFs/Vocabulary-of-Emotions.pdf",
-    "ANCHORTEXT": "Vocabulary-of-Emotions-PDF"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
@@ -916,7 +866,7 @@
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
-    "URL": "https://qpdf.sourceforge.net/files/qpdf-manual.html",
+    "URL": "https://qpdf.readthedocs.io/en/stable/",
     "ANCHORTEXT": "QPDF (pdf join/extract)"
   },
   {
