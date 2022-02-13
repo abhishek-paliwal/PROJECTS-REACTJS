@@ -20,7 +20,7 @@ function showRangeSlider (numImagesToShow, setNumImagesToShow) {
         <input type="range" 
         className="form-range" 
         min="1" 
-        max="20" 
+        max="30" 
         id="customRange1" 
         onChange={e => setNumImagesToShow(e.target.value) } />
       </div>
