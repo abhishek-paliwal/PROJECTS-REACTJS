@@ -1120,6 +1120,41 @@
     "ANCHORTEXT": "React - app04-openmultiplelinks"
   },
   {
+    "CATEGORY": "15-SEARCH-ENGINES",
+    "URL": "https://duckduckgo.com/",
+    "ANCHORTEXT": "DuckDuckGo - search engine"
+  },
+  {
+    "CATEGORY": "15-SEARCH-ENGINES",
+    "URL": "https://search.yahoo.com/",
+    "ANCHORTEXT": "Yahoo - search engine"
+  },
+  {
+    "CATEGORY": "15-SEARCH-ENGINES",
+    "URL": "https://www.bing.com/",
+    "ANCHORTEXT": "Microsoft Bing - search engine"
+  },
+  {
+    "CATEGORY": "15-SEARCH-ENGINES",
+    "URL": "https://www.ecosia.org/",
+    "ANCHORTEXT": "Ecosia - search engine"
+  },
+  {
+    "CATEGORY": "15-SEARCH-ENGINES",
+    "URL": "https://www.google.com/",
+    "ANCHORTEXT": "Google - search engine"
+  },
+  {
+    "CATEGORY": "15-SEARCH-ENGINES",
+    "URL": "https://www.qwant.com/",
+    "ANCHORTEXT": "Qwant - search engine"
+  },
+  {
+    "CATEGORY": "15-SEARCH-ENGINES",
+    "URL": "https://www.startpage.com/",
+    "ANCHORTEXT": "StartPage - search engine"
+  },
+  {
     "CATEGORY": "99-TMP-LINKS",
     "URL": "https://www.mygingergarlickitchen.com",
     "ANCHORTEXT": "mygingergarlickitchen.com"
