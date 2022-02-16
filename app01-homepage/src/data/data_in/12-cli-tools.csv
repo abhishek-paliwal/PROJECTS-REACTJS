@@ -22,3 +22,4 @@ CATEGORY;URL;ANCHORTEXT
 12-CLI-TOOLS;https://github.com/yt-dlp/yt-dlp;yt-dlp (a youtube-dl fork)
 12-CLI-TOOLS;https://stedolan.github.io/jq/manual/#Basicfilters;jq (json manipulator tutorial)
 12-CLI-TOOLS;https://jqplay.org;jq (try online playground)
+12-CLI-TOOLS;https://github.com/TomWright/dasel;dasel (multi-format data selector tool)
