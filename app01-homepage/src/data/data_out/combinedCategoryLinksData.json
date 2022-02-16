@@ -421,13 +421,13 @@
   },
   {
     "CATEGORY": "06-TRAVEL",
-    "URL": "https://reittiopas.hsl.fi/reitti/Espoonlahden%20uimah.%20E4012,%20Espoo%3A%3A60.14776,24.6582/Merivalkama,%20Espoo%3A%3A60.153275,24.631935",
-    "ANCHORTEXT": "HSL - Espoonlahti-uimahalli → Merivalkama (146(A), 124, etc.)"
+    "URL": "https://reittiopas.hsl.fi/reitti/Espoonlahden%20uimahalli%2C%20Espoonlahdenkuja%204%2C%20Espoo%3A%3A60.14668%2C24.659337/Merivalkama%2C%20Espoo%3A%3A60.153899%2C24.633325",
+    "ANCHORTEXT": "HSL - Espoonlahti-uimahalli → Merivalkama"
   },
   {
     "CATEGORY": "06-TRAVEL",
-    "URL": "https://reittiopas.hsl.fi/reitti/Merivalkama,%20Espoo%3A%3A60.153275,24.631935/Espoonlahden%20uimah.%20E4013,%20Espoo%3A%3A60.14766,24.65846",
-    "ANCHORTEXT": "HSL - Merivalkama → Espoonlahti-uimahalli / ice-halli (146(A), 124, etc.)"
+    "URL": "https://reittiopas.hsl.fi/reitti/Merivalkama%2C%20Espoo%3A%3A60.153899%2C24.633325/Espoonlahden%20uimahalli%2C%20Espoonlahdenkuja%204%2C%20Espoo%3A%3A60.14668%2C24.659337",
+    "ANCHORTEXT": "HSL - Merivalkama → Espoonlahti-uimahalli"
   },
   {
     "CATEGORY": "06-TRAVEL",
@@ -442,7 +442,7 @@
   {
     "CATEGORY": "06-TRAVEL",
     "URL": "https://www.reittiopas.fi/pysakit/HSL%3A2413211",
-    "ANCHORTEXT": "Merivalkama → Iso-omena (146, 147, 165, etc.)"
+    "ANCHORTEXT": "Merivalkama → Iso-omena"
   },
   {
     "CATEGORY": "07-SCHOOL",
@@ -813,6 +813,11 @@
     "CATEGORY": "12-CLI-TOOLS",
     "URL": "https://github.com/Nyr/openvpn-install",
     "ANCHORTEXT": "openvpn (easy insallation script)"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/TomWright/dasel",
+    "ANCHORTEXT": "dasel (multi-format data selector tool)"
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
