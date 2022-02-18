@@ -38,8 +38,8 @@ CATEGORY;URL;ANCHORTEXT
 02-NEWS;https://www.yle.fi/news;Finland - YLE English news
 03-CONCEPRO;https://abhishek-paliwal.github.io/;GITHUB - My GitHub HomePage
 03-CONCEPRO;https://abhishek-paliwal.github.io/wallpapers-index.html;Github - Javascript Wallpapers Index
-03-CONCEPRO;https://github.com/abhishek-paliwal/;GITHUB - My GitHub Repositories
 03-CONCEPRO;https://github.com/abhishek-paliwal/Bash-Scripts-To-Make-Life-Easier/tree/master/mggk_bash_scripts/600-mggk-artificial-intelligence-nlp-programs;GITHUB - Github-600-scripts
+03-CONCEPRO;https://github.com/abhishek-paliwal/;GITHUB - My GitHub Repositories
 03-CONCEPRO;https://panel.dreamhost.com/;Dreamhost - Login
 03-CONCEPRO;https://public-palibucket.objects-us-east-1.dream.io/;Dreamhost - DreamObjects Public Bucket
 03-CONCEPRO;https://public-palibucket.objects-us-east-1.dream.io/g/tmp_g.html;Dreamhost - Dreamobjects (tmp_g)
@@ -68,10 +68,10 @@ CATEGORY;URL;ANCHORTEXT
 05-PERSONAL;https://docs.google.com/forms/d/e/1FAIpQLSdsaz4p2nn88bnpeW_937I2tG4GC0wPDPgd6AemMKPQzpXvIg/viewform?c=0&w=1;Google Form - BP-MON
 05-PERSONAL;https://docs.google.com/forms/d/e/1FAIpQLSeG-_cAQ1wpShGVqArKvVWKmBFvitaOd0BbDMPXhM9tiEwTGQ/viewform;Google Form - HABIT TRACKER
 05-PERSONAL;https://docs.google.com/spreadsheets/d/1LSlQHEO8Qh1hj2fdg2rC7BPvEkTsKeRunyEqkcyf8TI/edit?usp=sharing;Google Form - Concepro VAT VERO TAX checking
-05-PERSONAL;https://docs.google.com/spreadsheets/d/1ZLL84xaGyBdU6bsDOuRINt7mjnWdlhtQcgCYcWced6A/edit#gid=0;Google Form - Our Food List
 05-PERSONAL;https://docs.google.com/spreadsheets/d/1neLA0MbPspdz_D5ZWszTIsCjlFAnGTqdvI6huzEoEac/edit#gid=0;Google Form - Monthly water meter reading
-05-PERSONAL;https://en.ytk.fi/;Banking - YTK
+05-PERSONAL;https://docs.google.com/spreadsheets/d/1ZLL84xaGyBdU6bsDOuRINt7mjnWdlhtQcgCYcWced6A/edit#gid=0;Google Form - Our Food List
 05-PERSONAL;https://enterfinland.fi/eServices/dashboard;Banking - MIGRI Residence Permit Card (Visa)
+05-PERSONAL;https://en.ytk.fi/;Banking - YTK
 05-PERSONAL;https://netbank.nordea.fi/#!/;Banking - Nordea Private Login
 05-PERSONAL;https://palvelu.dna.fi/kirjaudu/;Banking - DNA-corporate
 05-PERSONAL;https://rahoitus.teliasonerafinance.fi/en/MyPages/Overview;Banking - TELIA-Business
@@ -123,9 +123,9 @@ CATEGORY;URL;ANCHORTEXT
 09-WEB-DEVELOPMENT;https://chart.googleapis.com/chart?chs=520x520&cht=qr&chl=https://www.concepro.com;Google Barcode Creator
 09-WEB-DEVELOPMENT;https://getbootstrap.com/docs/5.0/getting-started/introduction/;Bootstrap 5
 09-WEB-DEVELOPMENT;https://getbootstrap.com/docs/5.1/components/;Bootstrap 5 - Components
+09-WEB-DEVELOPMENT;https://htmlarrows.com;HTML Symbols+Arrows Icons
 09-WEB-DEVELOPMENT;https://html-cleaner.com;HTML cleaner
 09-WEB-DEVELOPMENT;https://html-css-js.com/html/character-codes/icons/;HTML Symbols Colored Icons
-09-WEB-DEVELOPMENT;https://htmlarrows.com;HTML Symbols+Arrows Icons
 09-WEB-DEVELOPMENT;https://icons.getbootstrap.com/;Bootstrap 5- SVG Icons
 09-WEB-DEVELOPMENT;https://www.smashingmagazine.com/;SMASHING Magazine
 10-MISC-SOFTWARE;http://192.168.10.1;LAN server - Elisa Router
@@ -166,17 +166,17 @@ CATEGORY;URL;ANCHORTEXT
 12-CLI-TOOLS;https://formulae.brew.sh/formula/lolcat#default;FUN PROMPT (RAINBOW COLORS) - lolcat
 12-CLI-TOOLS;https://formulae.brew.sh/formula/neofetch#default;FUN PROMPT (OS INFO) - neofetch
 12-CLI-TOOLS;https://formulae.brew.sh/formula/ponysay#default;FUN PROMPT - ponysay
-12-CLI-TOOLS;https://github.com/Nyr/openvpn-install;openvpn (easy insallation script)
-12-CLI-TOOLS;https://github.com/TomWright/dasel;dasel (multi-format data selector tool)
 12-CLI-TOOLS;https://github.com/davatorium/rofi;ROFI (Linux dmenu type tool)
 12-CLI-TOOLS;https://github.com/denisidoro/navi;navi (CLI interactive cheatsheet)
 12-CLI-TOOLS;https://github.com/iptv-org/iptv;IPTV - 8000+ channels
 12-CLI-TOOLS;https://github.com/junegunn/fzf;fzf fuzzy finder
+12-CLI-TOOLS;https://github.com/Nyr/openvpn-install;openvpn (easy insallation script)
 12-CLI-TOOLS;https://github.com/ranger/ranger/wiki/Keybindings;ranger - cli file manager
 12-CLI-TOOLS;https://github.com/sharkdp/bat;bat - syntax highlighter
 12-CLI-TOOLS;https://github.com/sharkdp/fd;fd - alternative to find
-12-CLI-TOOLS;https://github.com/yt-dlp/yt-dlp;yt-dlp (a youtube-dl fork)
+12-CLI-TOOLS;https://github.com/TomWright/dasel;dasel (multi-format data selector tool)
 12-CLI-TOOLS;https://github.com/ytdl-org/youtube-dl/blob/master/README.md#output-template-examples;youtube-dl - download web videos
+12-CLI-TOOLS;https://github.com/yt-dlp/yt-dlp;yt-dlp (a youtube-dl fork)
 12-CLI-TOOLS;https://jqplay.org;jq (try online playground)
 12-CLI-TOOLS;https://linkchecker.github.io/linkchecker/install.html;Linkchecker
 12-CLI-TOOLS;https://qpdf.readthedocs.io/en/stable/;QPDF (pdf join/extract)
@@ -186,16 +186,17 @@ CATEGORY;URL;ANCHORTEXT
 12-CLI-TOOLS;https://wiki.omv-extras.org/doku.php?id=installing_omv5_raspberry_pi;NAS Installing OpenMediaVault (OMV) on Raspberry Pi
 12-CLI-TOOLS;https://www.androidpolice.com/2020/03/24/make-personal-vpn-30-minutes/;openvpn (easy insallation tutorial)
 12-CLI-TOOLS;https://www.exiftool.org/examples.html;Exiftool examples
+12-CLI-TOOLS;http://www.figlet.org/examples.html;FUN PROMPT - figlist (figlet fonts examples)
 13-WEBAPPS-BY-US;https://192.168.3.16/pi03-plotting-outputs/_TMP_PI03_PYTHON_TEMPERATURE_PLOTS_PROGRAM_OUTPUT.html;RPI4 -Temperature Plots
-13-WEBAPPS-BY-US;https://abhishek-paliwal.github.io/wallpaper_creators/JSON-templates-for-design/Index-of-all-JSON-files.html;Index of images - JSON Templates (designing)
 13-WEBAPPS-BY-US;https://abhishekpali.us;https://abhishekpali.us
+13-WEBAPPS-BY-US;https://abhishek-paliwal.github.io/wallpaper_creators/JSON-templates-for-design/Index-of-all-JSON-files.html;Index of images - JSON Templates (designing)
 13-WEBAPPS-BY-US;https://adoria.xyz/;https://adoria.xyz/
 13-WEBAPPS-BY-US;https://conce.pro;https://conce.pro
 13-WEBAPPS-BY-US;https://downloads.concepro.com/_BRAND-CONCEPRO/concepro-08-social/sharing/Index-of-SocialMedia-files-BS.html;Index of images - SocialMedia
+13-WEBAPPS-BY-US;https://downloads.concepro.com/dropbox-public-files/all-polygonal-backgrounds/all-lowpoly-backgrounds-index.html;Index of images - PolyTextures
+13-WEBAPPS-BY-US;https://downloads.concepro.com/dropbox-public-files/LCE/big_bold_random_quotes.html;Quotes- Colorful Wisdom
 13-WEBAPPS-BY-US;https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/leelasrecipes-sitestats.html;LeelasRecipes Sitestats
 13-WEBAPPS-BY-US;https://downloads.concepro.com/dropbox-public-files/LCE/_typography_wallpaper_creator/_CSS-Typography-EFFECTS/slabText-master/index_final.html;Quotes - Bold Wallpapers
-13-WEBAPPS-BY-US;https://downloads.concepro.com/dropbox-public-files/LCE/big_bold_random_quotes.html;Quotes- Colorful Wisdom
-13-WEBAPPS-BY-US;https://downloads.concepro.com/dropbox-public-files/all-polygonal-backgrounds/all-lowpoly-backgrounds-index.html;Index of images - PolyTextures
 13-WEBAPPS-BY-US;https://downloads.concepro.com/dropbox-public-files/logos/all-logos-index.html;Index of images - LOGOS
 13-WEBAPPS-BY-US;https://downloads.concepro.com/sitemap.html;Sitemap - downloads.concepro.com
 13-WEBAPPS-BY-US;https://downloads.mygingergarlickitchen.com/sitemap.html;Sitemap - downloads.mygingergarlickitchen.com
@@ -211,15 +212,15 @@ CATEGORY;URL;ANCHORTEXT
 13-WEBAPPS-BY-US;https://www.notes.abhishekpaliwal.com/;https://www.notes.abhishekpaliwal.com/
 13-WEBAPPS-BY-US;https://www.sendy.concepro.com/sendy/;SENDY - Login
 13-WEBAPPS-BY-US;https://www.stockfotoage.com;https://www.stockfotoage.com
-14-REACT-APPS;https://app-mggk01-image-finder.abhishekpali.us/index.html;React - app-mggk01-image-finder
-14-REACT-APPS;https://app-mggk01-image-finder.vercel.app/;React Vercel - app-mggk01-image-finder
-14-REACT-APPS;https://app-mggk01-image-finder.vercel.app/unitscalculator;React Vercel - app-mggk01-image-finder (UnitsCalculator)
 14-REACT-APPS;https://app01-homepage.abhishekpali.us/index.html;React - app01-homepage
 14-REACT-APPS;https://app01-homepage.vercel.app/;React Vercel - app01-homepage
 14-REACT-APPS;https://app02-foodblogfeeds.abhishekpali.us/index.html;React - app02-foodblogfeeds
 14-REACT-APPS;https://app02-foodblogfeeds.vercel.app/;React Vercel - app02-foodblogfeeds
 14-REACT-APPS;https://app03-tictactoe.abhishekpali.us/index.html;React - app03-tictactoe
 14-REACT-APPS;https://app04-openmultiplelinks.abhishekpali.us/index.html;React - app04-openmultiplelinks
+14-REACT-APPS;https://app-mggk01-image-finder.abhishekpali.us/index.html;React - app-mggk01-image-finder
+14-REACT-APPS;https://app-mggk01-image-finder.vercel.app/;React Vercel - app-mggk01-image-finder
+14-REACT-APPS;https://app-mggk01-image-finder.vercel.app/unitscalculator;React Vercel - app-mggk01-image-finder (UnitsCalculator)
 15-SEARCH-ENGINES;https://duckduckgo.com/;DuckDuckGo - search engine
 15-SEARCH-ENGINES;https://search.yahoo.com/;Yahoo - search engine
 15-SEARCH-ENGINES;https://www.bing.com/;Microsoft Bing - search engine

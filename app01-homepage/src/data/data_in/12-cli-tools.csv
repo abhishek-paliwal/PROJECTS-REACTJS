@@ -25,6 +25,7 @@ CATEGORY;URL;ANCHORTEXT
 12-CLI-TOOLS;https://github.com/TomWright/dasel;dasel (multi-format data selector tool)
 12-CLI-TOOLS;https://formulae.brew.sh/formula/neofetch#default;FUN PROMPT (OS INFO) - neofetch
 12-CLI-TOOLS;https://formulae.brew.sh/formula/figlet#default;FUN PROMPT - figlet
+12-CLI-TOOLS;http://www.figlet.org/examples.html;FUN PROMPT - figlist (figlet fonts examples)
 12-CLI-TOOLS;https://formulae.brew.sh/formula/cowsay#default;FUN PROMPT - cowsay
 12-CLI-TOOLS;https://formulae.brew.sh/formula/ponysay#default;FUN PROMPT - ponysay
 12-CLI-TOOLS;https://formulae.brew.sh/formula/lolcat#default;FUN PROMPT (RAINBOW COLORS) - lolcat
