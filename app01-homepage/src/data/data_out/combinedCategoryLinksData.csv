@@ -161,6 +161,11 @@ CATEGORY;URL;ANCHORTEXT
 12-CLI-TOOLS;https://downloads.concepro.com/dropbox-public-files/LCE/ffmpeg-h264-encoding-commands.html;ffmpeg-h264-encoding-commands
 12-CLI-TOOLS;https://exiftool.org/;Exiftool
 12-CLI-TOOLS;https://exiftool.org/exiftool_pod.html;Exiftool documentation
+12-CLI-TOOLS;https://formulae.brew.sh/formula/cowsay#default;FUN PROMPT - cowsay
+12-CLI-TOOLS;https://formulae.brew.sh/formula/figlet#default;FUN PROMPT - figlet
+12-CLI-TOOLS;https://formulae.brew.sh/formula/lolcat#default;FUN PROMPT (RAINBOW COLORS) - lolcat
+12-CLI-TOOLS;https://formulae.brew.sh/formula/neofetch#default;FUN PROMPT (OS INFO) - neofetch
+12-CLI-TOOLS;https://formulae.brew.sh/formula/ponysay#default;FUN PROMPT - ponysay
 12-CLI-TOOLS;https://github.com/Nyr/openvpn-install;openvpn (easy insallation script)
 12-CLI-TOOLS;https://github.com/TomWright/dasel;dasel (multi-format data selector tool)
 12-CLI-TOOLS;https://github.com/davatorium/rofi;ROFI (Linux dmenu type tool)

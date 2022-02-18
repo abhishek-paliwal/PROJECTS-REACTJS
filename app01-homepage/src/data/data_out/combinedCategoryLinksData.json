@@ -811,6 +811,31 @@
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://formulae.brew.sh/formula/cowsay#default",
+    "ANCHORTEXT": "FUN PROMPT - cowsay"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://formulae.brew.sh/formula/figlet#default",
+    "ANCHORTEXT": "FUN PROMPT - figlet"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://formulae.brew.sh/formula/lolcat#default",
+    "ANCHORTEXT": "FUN PROMPT (RAINBOW COLORS) - lolcat"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://formulae.brew.sh/formula/neofetch#default",
+    "ANCHORTEXT": "FUN PROMPT (OS INFO) - neofetch"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://formulae.brew.sh/formula/ponysay#default",
+    "ANCHORTEXT": "FUN PROMPT - ponysay"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
     "URL": "https://github.com/Nyr/openvpn-install",
     "ANCHORTEXT": "openvpn (easy insallation script)"
   },
