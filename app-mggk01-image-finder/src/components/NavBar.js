@@ -22,6 +22,10 @@ const NavBar = () => {
         <li className="nav-item">
           <div className="nav-link"><Link to="/mggkimagefinder">MggkImageFinder</Link></div>
         </li>
+        <li className="nav-item">
+          <div className="nav-link"><Link to="/mggkrandomimagedisplay">MggkRandomImageDisplay</Link></div>
+        </li>
+
 
       </ul>
     </div>
