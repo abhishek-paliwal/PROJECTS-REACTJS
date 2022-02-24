@@ -196,13 +196,13 @@
   },
   {
     "CATEGORY": "03-CONCEPRO",
-    "URL": "https://github.com/abhishek-paliwal/Bash-Scripts-To-Make-Life-Easier/tree/master/mggk_bash_scripts/600-mggk-artificial-intelligence-nlp-programs",
-    "ANCHORTEXT": "GITHUB - Github-600-scripts"
+    "URL": "https://github.com/abhishek-paliwal/",
+    "ANCHORTEXT": "GITHUB - My GitHub Repositories"
   },
   {
     "CATEGORY": "03-CONCEPRO",
-    "URL": "https://github.com/abhishek-paliwal/",
-    "ANCHORTEXT": "GITHUB - My GitHub Repositories"
+    "URL": "https://github.com/abhishek-paliwal/Bash-Scripts-To-Make-Life-Easier/tree/master/mggk_bash_scripts/600-mggk-artificial-intelligence-nlp-programs",
+    "ANCHORTEXT": "GITHUB - Github-600-scripts"
   },
   {
     "CATEGORY": "03-CONCEPRO",
@@ -346,13 +346,13 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
-    "URL": "https://docs.google.com/spreadsheets/d/1neLA0MbPspdz_D5ZWszTIsCjlFAnGTqdvI6huzEoEac/edit#gid=0",
-    "ANCHORTEXT": "Google Form - Monthly water meter reading"
+    "URL": "https://docs.google.com/spreadsheets/d/1ZLL84xaGyBdU6bsDOuRINt7mjnWdlhtQcgCYcWced6A/edit#gid=0",
+    "ANCHORTEXT": "Google Form - Our Food List"
   },
   {
     "CATEGORY": "05-PERSONAL",
-    "URL": "https://docs.google.com/spreadsheets/d/1ZLL84xaGyBdU6bsDOuRINt7mjnWdlhtQcgCYcWced6A/edit#gid=0",
-    "ANCHORTEXT": "Google Form - Our Food List"
+    "URL": "https://docs.google.com/spreadsheets/d/1neLA0MbPspdz_D5ZWszTIsCjlFAnGTqdvI6huzEoEac/edit#gid=0",
+    "ANCHORTEXT": "Google Form - Monthly water meter reading"
   },
   {
     "CATEGORY": "05-PERSONAL",
@@ -361,13 +361,13 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
-    "URL": "https://enterfinland.fi/eServices/dashboard",
-    "ANCHORTEXT": "Banking - MIGRI Residence Permit Card (Visa)"
+    "URL": "https://en.ytk.fi/",
+    "ANCHORTEXT": "Banking - YTK"
   },
   {
     "CATEGORY": "05-PERSONAL",
-    "URL": "https://en.ytk.fi/",
-    "ANCHORTEXT": "Banking - YTK"
+    "URL": "https://enterfinland.fi/eServices/dashboard",
+    "ANCHORTEXT": "Banking - MIGRI Residence Permit Card (Visa)"
   },
   {
     "CATEGORY": "05-PERSONAL",
@@ -463,6 +463,11 @@
     "CATEGORY": "07-SCHOOL",
     "URL": "https://docs.google.com/document/d/120Lny9rU6dohEgISChgTIY5tEhWBKidWxzpgL_v3YTA/edit?usp=sharing",
     "ANCHORTEXT": "English-Homework"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/adoria-apps/horse-breeds/list-of-horse-breeds.html:List of Horse Breeds",
+    "ANCHORTEXT": ""
   },
   {
     "CATEGORY": "07-SCHOOL",
@@ -626,11 +631,6 @@
   },
   {
     "CATEGORY": "09-WEB-DEVELOPMENT",
-    "URL": "https://htmlarrows.com",
-    "ANCHORTEXT": "HTML Symbols+Arrows Icons"
-  },
-  {
-    "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://html-cleaner.com",
     "ANCHORTEXT": "HTML cleaner"
   },
@@ -638,6 +638,11 @@
     "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://html-css-js.com/html/character-codes/icons/",
     "ANCHORTEXT": "HTML Symbols Colored Icons"
+  },
+  {
+    "CATEGORY": "09-WEB-DEVELOPMENT",
+    "URL": "https://htmlarrows.com",
+    "ANCHORTEXT": "HTML Symbols+Arrows Icons"
   },
   {
     "CATEGORY": "09-WEB-DEVELOPMENT",
@@ -841,6 +846,16 @@
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/Nyr/openvpn-install",
+    "ANCHORTEXT": "openvpn (easy insallation script)"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/TomWright/dasel",
+    "ANCHORTEXT": "dasel (multi-format data selector tool)"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
     "URL": "https://github.com/davatorium/rofi",
     "ANCHORTEXT": "ROFI (Linux dmenu type tool)"
   },
@@ -861,11 +876,6 @@
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
-    "URL": "https://github.com/Nyr/openvpn-install",
-    "ANCHORTEXT": "openvpn (easy insallation script)"
-  },
-  {
-    "CATEGORY": "12-CLI-TOOLS",
     "URL": "https://github.com/ranger/ranger/wiki/Keybindings",
     "ANCHORTEXT": "ranger - cli file manager"
   },
@@ -881,18 +891,13 @@
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
-    "URL": "https://github.com/TomWright/dasel",
-    "ANCHORTEXT": "dasel (multi-format data selector tool)"
+    "URL": "https://github.com/yt-dlp/yt-dlp",
+    "ANCHORTEXT": "yt-dlp (a youtube-dl fork)"
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
     "URL": "https://github.com/ytdl-org/youtube-dl/blob/master/README.md#output-template-examples",
     "ANCHORTEXT": "youtube-dl - download web videos"
-  },
-  {
-    "CATEGORY": "12-CLI-TOOLS",
-    "URL": "https://github.com/yt-dlp/yt-dlp",
-    "ANCHORTEXT": "yt-dlp (a youtube-dl fork)"
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
@@ -951,13 +956,13 @@
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://abhishekpali.us",
-    "ANCHORTEXT": "https://abhishekpali.us"
+    "URL": "https://abhishek-paliwal.github.io/wallpaper_creators/JSON-templates-for-design/Index-of-all-JSON-files.html",
+    "ANCHORTEXT": "Index of images - JSON Templates (designing)"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://abhishek-paliwal.github.io/wallpaper_creators/JSON-templates-for-design/Index-of-all-JSON-files.html",
-    "ANCHORTEXT": "Index of images - JSON Templates (designing)"
+    "URL": "https://abhishekpali.us",
+    "ANCHORTEXT": "https://abhishekpali.us"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
@@ -976,8 +981,13 @@
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/all-polygonal-backgrounds/all-lowpoly-backgrounds-index.html",
-    "ANCHORTEXT": "Index of images - PolyTextures"
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/leelasrecipes-sitestats.html",
+    "ANCHORTEXT": "LeelasRecipes Sitestats"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_typography_wallpaper_creator/_CSS-Typography-EFFECTS/slabText-master/index_final.html",
+    "ANCHORTEXT": "Quotes - Bold Wallpapers"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
@@ -986,13 +996,8 @@
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/leelasrecipes-sitestats.html",
-    "ANCHORTEXT": "LeelasRecipes Sitestats"
-  },
-  {
-    "CATEGORY": "13-WEBAPPS-BY-US",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_typography_wallpaper_creator/_CSS-Typography-EFFECTS/slabText-master/index_final.html",
-    "ANCHORTEXT": "Quotes - Bold Wallpapers"
+    "URL": "https://downloads.concepro.com/dropbox-public-files/all-polygonal-backgrounds/all-lowpoly-backgrounds-index.html",
+    "ANCHORTEXT": "Index of images - PolyTextures"
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
@@ -1071,6 +1076,21 @@
   },
   {
     "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app-mggk01-image-finder.abhishekpali.us/index.html",
+    "ANCHORTEXT": "React - app-mggk01-image-finder"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app-mggk01-image-finder.vercel.app/",
+    "ANCHORTEXT": "React Vercel - app-mggk01-image-finder"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://app-mggk01-image-finder.vercel.app/unitscalculator",
+    "ANCHORTEXT": "React Vercel - app-mggk01-image-finder (UnitsCalculator)"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
     "URL": "https://app01-homepage.abhishekpali.us/index.html",
     "ANCHORTEXT": "React - app01-homepage"
   },
@@ -1098,21 +1118,6 @@
     "CATEGORY": "14-REACT-APPS",
     "URL": "https://app04-openmultiplelinks.abhishekpali.us/index.html",
     "ANCHORTEXT": "React - app04-openmultiplelinks"
-  },
-  {
-    "CATEGORY": "14-REACT-APPS",
-    "URL": "https://app-mggk01-image-finder.abhishekpali.us/index.html",
-    "ANCHORTEXT": "React - app-mggk01-image-finder"
-  },
-  {
-    "CATEGORY": "14-REACT-APPS",
-    "URL": "https://app-mggk01-image-finder.vercel.app/",
-    "ANCHORTEXT": "React Vercel - app-mggk01-image-finder"
-  },
-  {
-    "CATEGORY": "14-REACT-APPS",
-    "URL": "https://app-mggk01-image-finder.vercel.app/unitscalculator",
-    "ANCHORTEXT": "React Vercel - app-mggk01-image-finder (UnitsCalculator)"
   },
   {
     "CATEGORY": "15-SEARCH-ENGINES",
