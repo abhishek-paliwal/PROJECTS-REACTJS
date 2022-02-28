@@ -72,7 +72,7 @@ function getSearchResults_for_dataMGGK (query) {
   //
   const printFilteredDataItems = filteredData.map((post,index) => {
         return  <div className="col-sm-6 col-md-4 col-lg-3 col-xl-3" key={index}>
-                  <div className="m-2 p-2 rounded bg-warning rounded text-center">
+                  <div className="m-2 p-2 rounded rounded text-center mggk-bg">
                     <a target="_blank" rel="noopener noreferrer" href={post.url_value}><strong>{post.seo_title_value}</strong></a>
                   </div>
                 </div>
