@@ -78,7 +78,7 @@ class MyAppSingleFeed2 extends React.Component {
     
     return (
       <div className="col-sm-12 col-xs-12 col-md-6 col-lg-4 col-xl-4">        
-        <div className="card text-white bg-dark mb-3">
+        <div className="card text-dark bg-light mb-3">
             <div className="card-header">Feed last updated: <strong><Moment fromNow>{lastBuildDate}</Moment></strong><br />(Feed contains {feedLength} posts)</div>
             <div className="card-body">
                 <h5 className="card-title">{feedTitle}</h5>
