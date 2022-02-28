@@ -10,6 +10,10 @@ PROJECT_DATA_DIR_IN="$REPO_REACTJS/$PROJECT_NAME/src/data/data_in" ;
 PROJECT_DATA_DIR_OUT="$REPO_REACTJS/$PROJECT_NAME/src/data/data_out" ;
 mkdir -p "$PROJECT_DATA_DIR_IN" "$PROJECT_DATA_DIR_OUT" ;
 ##
+
+################################################################################
+## DATAFILE 1 => CREATING THE JSON FILE WITH HOMEPAGE LINKS
+################################################################################
 CSVFILE_BASENAME="combinedCategoryLinksData.csv" ;
 CSVFILE_OUT="$PROJECT_DATA_DIR_OUT/$CSVFILE_BASENAME" ;
 JSON_FILE_OUT="$PROJECT_DATA_DIR_OUT/$( basename $CSVFILE_BASENAME | sed 's|.csv|.json|ig' )" ;
@@ -58,8 +62,12 @@ echo "##########################################################################
 ################################################################################
 
 ################################################################################
-## GETTING THE JSON FILE WITH MGGK WEBPAGES LINKS
+## DATAFILE 2 => GETTING THE JSON FILE WITH MGGK WEBPAGES LINKS
 ################################################################################
 urlJsonFileMGGK="https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/mggk_summary_collection_important_details_AllMDFiles.json" ;
+MGGK_DATA_JSON="$PROJECT_DATA_DIR_OUT/mggkWebpagesData.json" ; 
 ##
-wget "$urlJsonFileMGGK" -O $PROJECT_DATA_DIR_OUT/mggkWebpagesData.json ;
+wget "$urlJsonFileMGGK" -O "$MGGK_DATA_JSON" ;
+echo ">> PRINTING LAST LINES OF THIS JSON FILE => $MGGK_DATA_JSON" | lolcat ;
+tail $MGGK_DATA_JSON ;
+
