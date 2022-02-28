@@ -56,3 +56,10 @@ echo ">> PRINTING FULL JSON FILE => $JSON_FILE_OUT" ;
 cat $JSON_FILE_OUT ;
 echo "################################################################################" ;
 ################################################################################
+
+################################################################################
+## GETTING THE JSON FILE WITH MGGK WEBPAGES LINKS
+################################################################################
+urlJsonFileMGGK="https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/mggk_summary_collection_important_details_AllMDFiles.json" ;
+##
+wget "$urlJsonFileMGGK" -O $PROJECT_DATA_DIR_OUT/mggkWebpagesData.json ;
