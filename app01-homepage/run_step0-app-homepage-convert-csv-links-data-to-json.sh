@@ -65,9 +65,13 @@ echo "##########################################################################
 ## DATAFILE 2 => GETTING THE JSON FILE WITH MGGK WEBPAGES LINKS
 ################################################################################
 urlJsonFileMGGK="https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/mggk_summary_collection_important_details_AllMDFiles.json" ;
+MGGK_DATA_JSON_TMP="$PROJECT_DATA_DIR_OUT/$(basename $urlJsonFileMGGK)" ; 
 MGGK_DATA_JSON="$PROJECT_DATA_DIR_OUT/mggkWebpagesData.json" ; 
 ##
-wget "$urlJsonFileMGGK" -O "$MGGK_DATA_JSON" ;
+wget "$urlJsonFileMGGK" -O "$MGGK_DATA_JSON_TMP" ;
+## Using jq to choose only desired fields from json
+jq '[.[] | {url_value: .url_value, seo_title_value: .seo_title_value}]' "$MGGK_DATA_JSON_TMP" > "$MGGK_DATA_JSON" ;
+##
 echo ">> PRINTING LAST LINES OF THIS JSON FILE => $MGGK_DATA_JSON" | lolcat ;
 tail $MGGK_DATA_JSON ;
-
+################################################################################
