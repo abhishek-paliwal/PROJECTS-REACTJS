@@ -15,10 +15,10 @@ function showInputField (triggerSearchAtChars, setQuery, setNumImagesToShow) {
       </div>
 }
 //////
-function showDropdownSelectMenu (setInputDataToUse) {
+function showDropdownSelectMenu (inputDataToUse,setInputDataToUse) {
   return <div className="m-3">
-        <select multiple={false} className="form-select" aria-label="Default select menu" value="defaultOption" onChange={e => setInputDataToUse(e.target.value) }>
-        <option value="defaultOption">Select from option below</option>
+        <select multiple={false} className="form-select" aria-label="Default select menu" value={inputDataToUse} onChange={e => setInputDataToUse(e.target.value) }>
+        <option value="defaultOption">Select data option here</option>
         <option value="dataLinks">Links (default)</option>
         <option value="dataMGGK">MGGK Webpages</option>
         </select>
@@ -112,7 +112,7 @@ const SearchBarAndResults = () => {
   return <div className="container">
     <div className="row bg-dark text-white"><div className="col-12">
       {showInputField (triggerSearchAtChars, setQuery, setNumImagesToShow)}
-      {showDropdownSelectMenu (setInputDataToUse)}
+      {showDropdownSelectMenu (inputDataToUse,setInputDataToUse)}
       {showRangeSlider (numImagesToShow, setNumImagesToShow)}
     </div></div>
     <div className="row">
