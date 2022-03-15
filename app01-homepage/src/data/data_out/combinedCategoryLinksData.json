@@ -401,6 +401,11 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.icicibank.com/Personal-Banking/cards/personal-banking-cards.page",
+    "ANCHORTEXT": "Banking - ICICI Login - CreditCard"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
     "URL": "https://www.kela.fi",
     "ANCHORTEXT": "Banking - KELA"
   },
