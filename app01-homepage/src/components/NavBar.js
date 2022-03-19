@@ -45,6 +45,11 @@ const NavBar = () => {
         <li className="nav-item">
           <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://adoria.xyz/">Ado.xyz</a>
         </li>
+
+        <li className="nav-item">
+          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpali.us/">AbhishekPali.us</a>
+        </li>
+
         <li className="nav-item">
           <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://downloads.concepro.com/dropbox-public-files/LCE/big_bold_random_quotes.html">Want-Wisdom?</a>
         </li>
@@ -76,6 +81,9 @@ const NavBar = () => {
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app-mggk01-image-finder.vercel.app">app-mggk01-image-finder</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app02-foodblogfeeds.vercel.app">app02-foodblogfeeds</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app04-openmultiplelinks.abhishekpali.us/index.html">app04-openmultiplelinks</a></li>
+            <li><hr className="dropdown-divider" /></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpali.us/apps/app01-openpgp-encrypt-decrypt/">vanillaJS - app01-openpgp-encrypt-decrypt</a></li>
+            
           </ul>
         </li>
       </ul>
