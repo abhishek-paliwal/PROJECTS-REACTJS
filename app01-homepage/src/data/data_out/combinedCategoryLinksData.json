@@ -1135,6 +1135,16 @@
     "ANCHORTEXT": "React - app04-openmultiplelinks"
   },
   {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://www.abhishekpali.us/apps/app01-openpgp-encrypt-decrypt/",
+    "ANCHORTEXT": "VanillaJS - app01-openpgp-encrypt-decrypt"
+  },
+  {
+    "CATEGORY": "14-REACT-APPS",
+    "URL": "https://www.abhishekpali.us/apps/app02-openpgp-generate-encryption-keys/",
+    "ANCHORTEXT": "VanillaJS - app02-openpgp-generate-encryption-keys"
+  },
+  {
     "CATEGORY": "15-SEARCH-ENGINES",
     "URL": "https://duckduckgo.com/",
     "ANCHORTEXT": "DuckDuckGo - search engine"
