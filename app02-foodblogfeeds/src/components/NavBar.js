@@ -1,5 +1,6 @@
 import React from 'react';
-import homelogo from '../components/Homelogo.svg' ;
+//import homelogo from '../components/Homelogo.svg' ;
+import homelogo from '../components/logo-feed.png' ; 
 import { Outlet, Link } from 'react-router-dom' ;
 
 //
@@ -30,6 +31,11 @@ const NavBar = () => {
     </div>
   </div>
 </nav>
+<div class="m-2">
+  <img src={homelogo} alt="App Logo" width="80" height="80" className=" mx-auto d-block" />
+</div>
+<hr />
+
 <Outlet />
 </> ;
 };

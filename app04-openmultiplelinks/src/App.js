@@ -27,7 +27,6 @@ function App() {
       <div className="section">
         <div className="row m-2">
           <h1 className="display-5">Open Multiple Websites (in tabs) - App</h1>
-          <hr />
           {displayLinks1results}
         </div>
     </div>
