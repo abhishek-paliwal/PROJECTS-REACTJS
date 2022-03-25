@@ -425,6 +425,11 @@
     "ANCHORTEXT": "Banking - OP.fi"
   },
   {
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.paypal.com/uk/home",
+    "ANCHORTEXT": " PayPal UK"
+  },
+  {
     "CATEGORY": "06-TRAVEL",
     "URL": "https://en.ilmatieteenlaitos.fi/weather/espoo/kivenlahti",
     "ANCHORTEXT": "Weather - Kivenlahti Finland (FMI.fi)"
