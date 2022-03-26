@@ -371,6 +371,11 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
+    "URL": "https://kauppa.kierratyskeskus.fi/",
+    "ANCHORTEXT": "Kierratyskeskus"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
     "URL": "https://netbank.nordea.fi/#!/",
     "ANCHORTEXT": "Banking - Nordea Private Login"
   },
