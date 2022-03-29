@@ -1,13 +1,5 @@
 [
   {
-    "url_value": "https://www.mygingergarlickitchen.com/dal-palak/",
-    "seo_title_value": " Easy Dal Palak Recipe - Spinach Dal (Stovetop and Instant Pot)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/tortilla-wrap-hack/",
-    "seo_title_value": " TikTok Tortilla Wrap Hack Recipes (6 Easy Vegetarian Filling Ideas)"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/paneer-jalfrezi/",
     "seo_title_value": " Paneer Jalfrezi Recipe (How to Make Restaurant Style Paneer Jalfrezi)"
   },
@@ -368,8 +360,16 @@
     "seo_title_value": " Avocado Paratha + Avocado Roti (Step-By-Step + Video Recipes)"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/dal-palak/",
+    "seo_title_value": " Easy Dal Palak Recipe - Spinach Dal (Stovetop and Instant Pot)"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/hot-and-sour-soup/",
     "seo_title_value": " Hot and Sour Soup (Recipe + Video) - Vegetarian, Restaurant Style"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/tortilla-wrap-hack/",
+    "seo_title_value": " TikTok Tortilla Wrap Hack Recipes (6 Easy Vegetarian Filling Ideas)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/paneer-khurchan/",
@@ -402,6 +402,14 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/dahi-vada-recipe/",
     "seo_title_value": " Dahi Vada (Dahi Bhalla) - Step-by-step Recipe + Video"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/paneer-pulao/",
+    "seo_title_value": " Paneer Pulao (Step-by-Step Recipe + Video)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/almond-flour-crackers/",
+    "seo_title_value": " Almond Flour Crackers (Paleo, Keto) - Step-By-Step Recipe + Video"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/effortless-summer-side-dishes-strawberry-poppyseed-salad/",
@@ -912,10 +920,6 @@
     "seo_title_value": " Paneer Lababdar Recipe + Video (Restaurant Style Paneer Lababdar)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/spicy-zucchini-waffles-how-to-make-waffled-besan-chilla-video-recipe/",
-    "seo_title_value": " Spicy Zucchini Waffles Recipe | How to Make Waffled Besan Chilla"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/mint-coriander-chutney/",
     "seo_title_value": " Mint Coriander Chutney Recipe + Video | Cilantro Mint Chutney 2 Ways"
   },
@@ -1262,6 +1266,10 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/instant-pot-masoor-dal/",
     "seo_title_value": " Masoor Dal Recipe | Red Lentils (Instant Pot, Pressure Cooker, Pan)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/spicy-zucchini-waffles-how-to-make-waffled-besan-chilla-video-recipe/",
+    "seo_title_value": " Spicy Zucchini Waffles Recipe | How to Make Waffled Besan Chilla"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/besan-ladoo/",
@@ -1956,14 +1964,6 @@
     "seo_title_value": " Raspberry Crème Fraîche Puff Pastry"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/eleventh-hour-chocolate-spoons-valentines-day/",
-    "seo_title_value": " Chocolate Spoons Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/potato-roses-potato-gratins-video-recipe/",
-    "seo_title_value": " Potato Roses - Potato Gratins (Video)"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/tomato-bruschetta/",
     "seo_title_value": " Tomato Bruschetta"
   },
@@ -2526,6 +2526,14 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/mini-berry-pavlova-valentines-day/",
     "seo_title_value": " Mini Berry Pavlova"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/potato-roses-potato-gratins-video-recipe/",
+    "seo_title_value": " Potato Roses - Potato Gratins (Video)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/eleventh-hour-chocolate-spoons-valentines-day/",
+    "seo_title_value": " Chocolate Spoons Recipe"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/indian-butterscotch-ice-cream-recipe-video/",
@@ -3240,22 +3248,6 @@
     "seo_title_value": " Cooking Tips – How to Make Fritters (Pakoda) Fluffy"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/foods-that-were-made-for-coffee/",
-    "seo_title_value": " Foods That Were Practically Made For Coffee"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-find-the-meal-delivery-service/",
-    "seo_title_value": " How To Find The Meal Delivery Service You'll Stick To"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/want-to-become-a-wine-expert/",
-    "seo_title_value": " Want To Become A Wine Expert? Here's How"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/chopped-greek-salad/",
-    "seo_title_value": " Chopped Greek Salad Recipe"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/different-types-of-ice-creams-to-try-this-year/",
     "seo_title_value": " 7 Different Types Of Ice Creams To Try This Year"
   },
@@ -3526,6 +3518,22 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/4-things-to-consider-before-buying-a-kitchen-cabinets/",
     "seo_title_value": " 4 Things to Consider Before Buying a Kitchen Cabinet"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/foods-that-were-made-for-coffee/",
+    "seo_title_value": " Foods That Were Practically Made For Coffee"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-find-the-meal-delivery-service/",
+    "seo_title_value": " How To Find The Meal Delivery Service You'll Stick To"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/want-to-become-a-wine-expert/",
+    "seo_title_value": " Want To Become A Wine Expert? Here's How"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/chopped-greek-salad/",
+    "seo_title_value": " Chopped Greek Salad Recipe"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/7-reasons-why-charcuterie-boards-are-so-popular/",
