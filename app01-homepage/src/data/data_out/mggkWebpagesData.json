@@ -445,7 +445,11 @@
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/pineapple-ladoo/",
-    "seo_title_value": " Pineapple Ladoo"
+    "seo_title_value": " Easy Pineapple Ladoo"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/mango-oats-smoothie/",
+    "seo_title_value": " Mango Oats Smoothie (Step-By-Step + Video Recipe)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/effortless-summer-side-dishes-strawberry-poppyseed-salad/",
@@ -602,10 +606,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/fruit-custard/",
     "seo_title_value": " Fruit Custard (Step By Step Photo + Video Recipe)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/mango-shrikhand-recipe-amarkhand-recipe/",
-    "seo_title_value": " Mango Shrikhand Recipe | Amrakhand (Mango Greek Yogurt Dessert)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/summer-melon-dessert-kharbuje-ka-panna-recipe/",
@@ -954,6 +954,10 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/eggless-triple-chocolate-cookies-video-recipe/",
     "seo_title_value": " Eggless Triple Chocolate Cookies Recipe + Video (Easy-to-Make Cookies)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/mango-shrikhand-recipe-amarkhand-recipe/",
+    "seo_title_value": " Mango Shrikhand Recipe | Amrakhand (Mango Greek Yogurt Dessert)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/pasta-arrabiata/",
@@ -1308,14 +1312,6 @@
     "seo_title_value": " Chana Dal Recipe | Split Chickpeas Curry (Instant Pot + Cooker)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/onion-tomato-raita/",
-    "seo_title_value": " Onion Tomato Raita Recipe + Video | How to Make Onion Tomato Raita"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/no-bake-mango-cheesecake/",
-    "seo_title_value": " No Bake Mango Cheesecake (Recipe + Video) | Made Without Gelatin"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/egg-bhurji/",
     "seo_title_value": " Egg Bhurji Recipe + Video | Anda Bhurji (Spiced Indian Scrabled Eggs)"
   },
@@ -1664,6 +1660,14 @@
     "seo_title_value": " Ghee Recipe + Video | How to Make Ghee from Butter (Pan + Instant Pot)"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/onion-tomato-raita/",
+    "seo_title_value": " Onion Tomato Raita Recipe + Video | How to Make Onion Tomato Raita"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/no-bake-mango-cheesecake/",
+    "seo_title_value": " No Bake Mango Cheesecake (Recipe + Video) | Made Without Gelatin"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/chocolate-covered-grapes/",
     "seo_title_value": " Easy Chocolate Covered Grapes"
   },
@@ -1998,10 +2002,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/dalgona-coffee/",
     "seo_title_value": " Dalgona Coffee - Whipped Coffee"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/keto-cocoa-cake-roll/",
-    "seo_title_value": " Keto Cocoa Cake Roll"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/strawberry-banana-oat-smoothie/",
@@ -2570,6 +2570,10 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/instant-pot-aloo-matar-recipe/",
     "seo_title_value": " Instant Pot Aloo Matar - Potato Peas Curry"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/keto-cocoa-cake-roll/",
+    "seo_title_value": " Keto Cocoa Cake Roll"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/indian-butterscotch-ice-cream-recipe-video/",
@@ -3284,14 +3288,6 @@
     "seo_title_value": " Cooking Tips – How to Make Fritters (Pakoda) Fluffy"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-start-trying-new-foods/",
-    "seo_title_value": " How to Start Trying New Foods"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-mashed-potates-interesting/",
-    "seo_title_value": " How to Make Your Mashed Potatoes Interesting"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/5-reasons-why-kitchen-needs-to-be-part-of-your-home-improvement/",
     "seo_title_value": " 5 Reasons Why Kitchen Needs To Be Part Of Your Home Improvement"
   },
@@ -3582,6 +3578,14 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/why-you-should-take-cbd-edibles/",
     "seo_title_value": " Why You Should Take CBD Edibles"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-start-trying-new-foods/",
+    "seo_title_value": " How to Start Trying New Foods"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-mashed-potates-interesting/",
+    "seo_title_value": " How to Make Your Mashed Potatoes Interesting"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/blog/",
