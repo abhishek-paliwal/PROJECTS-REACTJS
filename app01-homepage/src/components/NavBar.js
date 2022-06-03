@@ -52,6 +52,10 @@ const NavBar = () => {
         </li>
 
         <li className="nav-item">
+          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.notes.abhishekpali.us/">Notes.AP</a>
+        </li>
+
+        <li className="nav-item">
           <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://downloads.concepro.com/dropbox-public-files/LCE/big_bold_random_quotes.html">Want-Wisdom?</a>
         </li>
 
