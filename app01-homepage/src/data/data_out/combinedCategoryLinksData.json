@@ -396,6 +396,11 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
+    "URL": "https://uusi.ukkopro.fi/dashboard",
+    "ANCHORTEXT": "UKKO - Dashboard"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
     "URL": "https://verkkoasiointi.elisa.fi/",
     "ANCHORTEXT": "Banking - OMA-ELISA"
   },
