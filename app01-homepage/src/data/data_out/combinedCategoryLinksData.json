@@ -776,6 +776,11 @@
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://surfshark.com/dns-leak-test",
+    "ANCHORTEXT": "Surfshark VPN - DNS leak test"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
     "URL": "https://unsplash.com/wallpaper",
     "ANCHORTEXT": "Unsplash-Wallpapers"
   },
