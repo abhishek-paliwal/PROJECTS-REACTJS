@@ -586,6 +586,11 @@
   },
   {
     "CATEGORY": "08-DESIGNING",
+    "URL": "https://github.com/TencentARC/GFPGAN",
+    "ANCHORTEXT": "Github Repo - AI (neural) photo+face restoration by python"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
     "URL": "https://graphicburger.com/",
     "ANCHORTEXT": "Graphic-BURGER MOCKUPS"
   },
