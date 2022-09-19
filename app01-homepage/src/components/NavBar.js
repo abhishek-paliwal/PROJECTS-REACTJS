@@ -52,6 +52,10 @@ const NavBar = () => {
         </li>
 
         <li className="nav-item">
+          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.hashbanghacks.tech">#!HACKS</a>
+        </li>
+
+        <li className="nav-item">
           <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpali.us/">AbhishekPali.us</a>
         </li>
 
