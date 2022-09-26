@@ -1,21 +1,5 @@
 [
   {
-    "url_value": "https://www.mygingergarlickitchen.com/pineapple-juice/",
-    "seo_title_value": " How to Make Homemade Pineapple Juice Recipe and It’s Benefits"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/makhani-pasta/",
-    "seo_title_value": " Makhani Pasta Recipe (Indian Style Pasta in Makhani Sauce)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/instant-badam-halwa/",
-    "seo_title_value": " Instant Badam Halwa Recipe - Easy Almond Halwa (Instant Pot/Pan)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/layered-coconut-burfi/",
-    "seo_title_value": " Layered Coconut Burfi Recipe - Make This Easy Rose Coconut Burfi"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/garlic-bread/",
     "seo_title_value": " Garlic Bread Recipe - How to Make Homemade Garlic Bread (Oven/No-Oven)"
   },
@@ -484,8 +468,24 @@
     "seo_title_value": " Coconut Burfi Roll (Step-By-Step + Video Recipe)"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/pineapple-juice/",
+    "seo_title_value": " How to Make Homemade Pineapple Juice Recipe and It’s Benefits"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/iced-rose-latte/",
     "seo_title_value": " Iced Rose Latte (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/makhani-pasta/",
+    "seo_title_value": " Makhani Pasta Recipe (Indian Style Pasta in Makhani Sauce)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/instant-badam-halwa/",
+    "seo_title_value": " Instant Badam Halwa Recipe - Easy Almond Halwa (Instant Pot/Pan)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/layered-coconut-burfi/",
+    "seo_title_value": " Layered Coconut Burfi Recipe - Make This Easy Rose Coconut Burfi"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/mango-raita/",
@@ -502,6 +502,26 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/pakora-chaat/",
     "seo_title_value": " Leftover Pakora Chaat (Step-By-Step Picture + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/grilled-peaches-with-cheese-and-honey/",
+    "seo_title_value": " Grilled Peaches with Cheese & Honey (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/strawberry-jam/",
+    "seo_title_value": " Strawberry Jam (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/paneer-pakora/",
+    "seo_title_value": " Paneer Pakora - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/strawberry-salad/",
+    "seo_title_value": " Strawberry Salad - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/blueberry-toast/",
+    "seo_title_value": " Blueberry Toast - (Step-By-Step + Video Recipe)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/effortless-summer-side-dishes-strawberry-poppyseed-salad/",
@@ -658,14 +678,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/how-to-make-no-churn-3-ingredient-rose-ice-cream-video-recipe/",
     "seo_title_value": " No Churn Rose Ice Cream Recipe + Video (3-Ingredient, Easy to Make)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/masala-shikanji/",
-    "seo_title_value": " Masala Shikanji Recipe | Masala Soda | Spicy Indian Lemonade Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/kesari-mawa-peda-indian-milk-fudge-instant-khoya-peda-recipe-video/",
-    "seo_title_value": " Kesar Mawa Peda - Indian Milk Fudge - Instant Khoya Peda"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/bhutte-ka-kees/",
@@ -1010,6 +1022,14 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/mango-mastani-recipe/",
     "seo_title_value": " Mango Mastani Recipe | Mastani Drink (Mango Milkshake With Ice Cream)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/masala-shikanji/",
+    "seo_title_value": " Masala Shikanji Recipe | Masala Soda | Spicy Indian Lemonade Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/kesari-mawa-peda-indian-milk-fudge-instant-khoya-peda-recipe-video/",
+    "seo_title_value": " Kesar Mawa Peda - Indian Milk Fudge - Instant Khoya Peda"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/best-samosa-recipe/",
@@ -1364,10 +1384,6 @@
     "seo_title_value": " Coconut Rose Modak Recipe + Video (Easy Ganesh Chaturhti Recipe)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/motichoor-ladoo-kheer/",
-    "seo_title_value": " Motichoor Kheer Recipe | Motichoor Ladoo Kheer | Laddu Ki Kheer"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/instant-pot-butter-paneer/",
     "seo_title_value": " Instant Pot Paneer Butter Masala Recipe + Video | Paneer Makhani"
   },
@@ -1720,6 +1736,10 @@
     "seo_title_value": " Mango Peda Recipe + Video | Aam Peda Recipe"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/motichoor-ladoo-kheer/",
+    "seo_title_value": " Motichoor Kheer Recipe | Motichoor Ladoo Kheer | Laddu Ki Kheer"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/chana-manipuri-chana-kanghou-recipe/",
     "seo_title_value": " Chana Manipuri Recipe | Chana Kanghou (Manipuri Style Black Chana)"
   },
@@ -2054,14 +2074,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/dry-fruits-modak/",
     "seo_title_value": " Dry Fruits Modak Recipe | Dry Fruit Modak (No Cook, 10 Minutes, Vegan)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/roasted-cornflakes-chivda/",
-    "seo_title_value": " Roasted Cornflakes Chivda"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/peach-lassi/",
-    "seo_title_value": " Peach Lassi"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/whole-wheat-peach-muffins/",
@@ -2626,6 +2638,14 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/eggless-coconut-cookies/",
     "seo_title_value": " Eggless Coconut Cookies"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/roasted-cornflakes-chivda/",
+    "seo_title_value": " Roasted Cornflakes Chivda"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/peach-lassi/",
+    "seo_title_value": " Peach Lassi"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/aloo-poha-recipe/",
@@ -3344,14 +3364,6 @@
     "seo_title_value": " Cooking Tips – How to Make Fritters (Pakoda) Fluffy"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/5-salmon-recipes-to-try-today/",
-    "seo_title_value": " 5 Salmon Recipes to Try Today"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/grocery-delivery-services-in-new-york/",
-    "seo_title_value": " What Should You Check Before Ordering Grocery Delivery Services in New York?"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/5-easy-to-make-ramen-recipes-to-try-at-home/",
     "seo_title_value": " 5 Easy-To-Make Ramen Recipes To Try At Home"
   },
@@ -3560,12 +3572,28 @@
     "seo_title_value": " How Do You Get Rid of Ice Build-Up in a Commercial Freezer"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/5-salmon-recipes-to-try-today/",
+    "seo_title_value": " 5 Salmon Recipes to Try Today"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/grocery-delivery-services-in-new-york/",
+    "seo_title_value": " What Should You Check Before Ordering Grocery Delivery Services in New York?"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/tips-to-buy-the-right-dining-table-for-your-house/",
     "seo_title_value": " Tips To Buy the Right Dining Table For Your House"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/14-delicious-chocolate-and-fruit-pairings-you-have-to-try/",
     "seo_title_value": " 14 Delicious Chocolate and Fruit Pairings You Have To Try"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/8-tips-when-buying-quality-meat-for-your-recipes/",
+    "seo_title_value": " 8 Tips When Buying Quality Meat For Your Recipes"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/what-makes-the-hunter-valley-such-an-iconic-wine-region/",
+    "seo_title_value": " What Makes The Hunter Valley Such An Iconic Wine Region"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/blog/",
@@ -3582,10 +3610,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/chocolate-lassi-egg-cups-for-easter/",
     "seo_title_value": " Chocolate Lassi Egg Cups"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/search-with-images/",
-    "seo_title_value": " Search All Recipes"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/resources/",
@@ -3632,6 +3656,10 @@
     "seo_title_value": " Recipe Categories (A-Z)"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/search-with-images/",
+    "seo_title_value": " Search All Recipes"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/canvas-paintings/",
     "seo_title_value": " Canvas Paintings"
   },
@@ -3668,10 +3696,6 @@
     "seo_title_value": " Amritsari Chole Recipe + Video (Authentic Punjabi Chole Masala Recipe)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-shahi-kaju-curry-cashew-curry-video-recipe/",
-    "seo_title_value": " Kaju Curry Recipe + Video (How to Make Kaju Masala - Cashew Curry)"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/quick-mango-kulfi-recipe/",
     "seo_title_value": " How To Make Quick Mango Kulfi - Easy No Cook Mango Kulfi Recipe"
   },
@@ -3686,6 +3710,10 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/egg-drop-curry-andhra-style-poached-egg-curry-video-recipe/",
     "seo_title_value": " Egg Drop Curry Recipe & Video (Make Andhra-Style Poached Egg Curry)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-shahi-kaju-curry-cashew-curry-video-recipe/",
+    "seo_title_value": " Kaju Curry Recipe + Video (How to Make Kaju Masala - Cashew Curry)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-rajma-masala-recipe/",

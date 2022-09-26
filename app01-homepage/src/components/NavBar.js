@@ -96,6 +96,7 @@ const NavBar = () => {
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app04-openmultiplelinks.abhishekpali.us/index.html">app04-openmultiplelinks</a></li>
             <li><hr className="dropdown-divider" /></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpali.us/apps/app01-openpgp-encrypt-decrypt/">vanillaJS - app01-openpgp-encrypt-decrypt</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.perfect-hospital.com">Perfect-Hospital.com</a></li>
             
           </ul>
         </li>
