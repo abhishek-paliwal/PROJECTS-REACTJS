@@ -1036,6 +1036,11 @@
   },
   {
     "CATEGORY": "13-WEBAPPS-BY-US",
+    "URL": "https://abhishek-personal-website.azurewebsites.net/",
+    "ANCHORTEXT": "Abhishek's Website (AZURE)"
+  },
+  {
+    "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://abhishekpali.us",
     "ANCHORTEXT": "https://abhishekpali.us"
   },
