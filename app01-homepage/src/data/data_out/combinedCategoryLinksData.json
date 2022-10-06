@@ -522,12 +522,17 @@
   {
     "CATEGORY": "07-SCHOOL",
     "URL": "https://edu.typingmaster.com/login?id=cdkcn9md3",
-    "ANCHORTEXT": "Touch Typing Tutorial"
+    "ANCHORTEXT": "Touch Typing Tutorial - Meritori"
   },
   {
     "CATEGORY": "07-SCHOOL",
     "URL": "https://espoo.inschool.fi/",
-    "ANCHORTEXT": "WILMA (espoo.inschool.fi)"
+    "ANCHORTEXT": "WILMA - Meritori (espoo.inschool.fi)"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://espoo.nappistaituri.fi/studying",
+    "ANCHORTEXT": " 10-finger typing tutorial - Meritori"
   },
   {
     "CATEGORY": "07-SCHOOL",
@@ -542,12 +547,17 @@
   {
     "CATEGORY": "07-SCHOOL",
     "URL": "https://oppilas.otava.fi/#/",
-    "ANCHORTEXT": "oppilas.otava.fi"
+    "ANCHORTEXT": "oppilas.otava.fi - Meritori"
   },
   {
     "CATEGORY": "07-SCHOOL",
     "URL": "https://parenting.firstcry.com/articles/top-15-short-moral-stories-for-kids/",
     "ANCHORTEXT": "Cursive-short-stories"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
+    "URL": "https://portal.office.com",
+    "ANCHORTEXT": " Microsoft Office 365 Apps - Meritori"
   },
   {
     "CATEGORY": "07-SCHOOL",
@@ -557,7 +567,7 @@
   {
     "CATEGORY": "07-SCHOOL",
     "URL": "https://www.bingel.fi/pupil/dashboard",
-    "ANCHORTEXT": "Bingel Online"
+    "ANCHORTEXT": "Bingel Online Meritori"
   },
   {
     "CATEGORY": "07-SCHOOL",
@@ -572,7 +582,7 @@
   {
     "CATEGORY": "07-SCHOOL",
     "URL": "https://www.sanomapro.fi/",
-    "ANCHORTEXT": "SanomaPro Login"
+    "ANCHORTEXT": "SanomaPro Login - Meritori"
   },
   {
     "CATEGORY": "07-SCHOOL",
