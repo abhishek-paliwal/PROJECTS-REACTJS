@@ -1275,6 +1275,26 @@
     "ANCHORTEXT": "StartPage - search engine"
   },
   {
+    "CATEGORY": "16-ONLINE-COURSES",
+    "URL": "https://buildingai.elementsofai.com/signin",
+    "ANCHORTEXT": "ELEMENTS_OF_AI (BUILDING_AI)"
+  },
+  {
+    "CATEGORY": "16-ONLINE-COURSES",
+    "URL": "https://courses.minnalearn.com/?action=signin",
+    "ANCHORTEXT": "MINNA-LEARN - Homepage"
+  },
+  {
+    "CATEGORY": "16-ONLINE-COURSES",
+    "URL": "https://courses.minnalearn.com/en/courses/cybersecurity/overview/",
+    "ANCHORTEXT": "MINNA-LEARN - Cybersecurity Course"
+  },
+  {
+    "CATEGORY": "16-ONLINE-COURSES",
+    "URL": "https://www.udemy.com/",
+    "ANCHORTEXT": "UDEMY"
+  },
+  {
     "CATEGORY": "99-TMP-LINKS",
     "URL": "https://www.mygingergarlickitchen.com",
     "ANCHORTEXT": "mygingergarlickitchen.com"
