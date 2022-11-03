@@ -1,21 +1,5 @@
 [
   {
-    "url_value": "https://www.mygingergarlickitchen.com/masala-pasta/",
-    "seo_title_value": " Masala Pasta Recipe | Indian Style Pasta |  Desi Pasta Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/aloo-tikki/",
-    "seo_title_value": " Crispy Aloo Tikki Recipe (North Indian Style Spicy Potato Patty)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/chole-tikki-chaat/",
-    "seo_title_value": " Chole Aloo Tikki Chaat Recipe - Tikki Chole (North Indian Street Food)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/jeera-aloo/",
-    "seo_title_value": " Jeera Aloo Recipe | Aloo Jeera Recipe | Cumin Potato"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/tofu-matar/",
     "seo_title_value": " Instant Pot Tofu Matar Curry Recipe - (Easy Vegan Tofu Matar Masala)"
   },
@@ -516,6 +500,14 @@
     "seo_title_value": " Blueberry Toast - (Step-By-Step + Video Recipe)"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/masala-pasta/",
+    "seo_title_value": " Masala Pasta Recipe | Indian Style Pasta |  Desi Pasta Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/aloo-tikki/",
+    "seo_title_value": " Crispy Aloo Tikki Recipe (North Indian Style Spicy Potato Patty)"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/indian-roasted-corn-on-the-cob-masala-bhutta/",
     "seo_title_value": " Indian Roasted Corn - Masala Bhutta (Step-By-Step + Video Recipe)"
   },
@@ -528,8 +520,16 @@
     "seo_title_value": " Crispy Sabudana Vada Recipe (Fried, Baked & Air Fryer Version)"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/chole-tikki-chaat/",
+    "seo_title_value": " Chole Aloo Tikki Chaat Recipe - Tikki Chole (North Indian Street Food)"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/malai-ladoo/",
     "seo_title_value": " Malai Ladoo"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/jeera-aloo/",
+    "seo_title_value": " Jeera Aloo Recipe | Aloo Jeera Recipe | Cumin Potato"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/shahi-tukda/",
@@ -548,6 +548,26 @@
     "seo_title_value": " Gulab Jamun Cookies (Step-By-Step + Video Recipe)"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/fruit-rabri/",
+    "seo_title_value": " Fruit Rabri (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/halloween-mummy-pizza-toast/",
+    "seo_title_value": " Halloween Mummy Pizza Toast - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/skeleton-oreo/",
+    "seo_title_value": " Skeleton Oreo (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/skeleton-chocolate-bark/",
+    "seo_title_value": " Skeleton Chocolate Bark  (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/caprese-croissant-sandwich/",
+    "seo_title_value": " Caprese Croissant Sandwich - (Step-By-Step Picture + Video Recipe)"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/effortless-summer-side-dishes-strawberry-poppyseed-salad/",
     "seo_title_value": " Effortless Summer Side Dishes - Strawberry Poppyseed Salad"
   },
@@ -562,114 +582,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/effortless-summer-side-dishes-buttermilk-biscuits/",
     "seo_title_value": " Effortless Summer Side Dishes - Buttermilk Biscuits"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/potato-peas-stir-fry-aloo-matar-dry-vegetarian-recipe/",
-    "seo_title_value": " Dry Aloo Matar Sabji Recipe- How to Make Potato Peas Stir Fry"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-tadka-dal-recipe-how-to-make-dal-tadka/",
-    "seo_title_value": " Dal Tadka Recipe + Video (How to Make Restaurant Style Dal Tadka)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-perfect-indian-summer-drink-jal-jeera-video-recipe/",
-    "seo_title_value": " Indian Summer Drink Jaljeera Recipe + Video (How to Make Jal Jira)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/aloo-poori-recipe-puri-sabji-recipe-video-aloo-ki-rasewali-sabzi-with-puri/",
-    "seo_title_value": " Aloo Puri Recipe - Puri Sabji Recipe (Aloo Ki Rasewali Sabzi)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/lapsi-recipe/",
-    "seo_title_value": " Lapsi Recipe | How to Make Laapsi (Indian Cracked Wheat Sweet)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/vada-pav-recipe/",
-    "seo_title_value": " Vada Pav Recipe + Video (How To Make Mumbai Style Vada Pav)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/rajasthani-mirchi-ke-tipore-instant-chili-pickle-recipe/",
-    "seo_title_value": " Rajasthani Mirchi Ke Tipore Recipe (Instant Green Chili Pickle)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/chana-dal-namkeen/",
-    "seo_title_value": " Chana Dal Namkeen Recipe + Video (Crunchy Split Bengal Gram Snack)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/pani-puri-recipe-gol-gappa-recipe-video/",
-    "seo_title_value": " Pani Puri Recipe (With Step By Step Photos & Video) | Easy Golgappa"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/aloo-ka-halwa-how-to-make-potato-halwa-video-recipe/",
-    "seo_title_value": " Aloo Ka Halwa Recipe + Video | Aalu Ka Halwa | Indian Potato Halwa"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/crispy-fried-chana-recipe-crunchy-crispy-chickpeas/",
-    "seo_title_value": " Crispy Fried Chana Masala Recipe + Video (Crunchy Crispy Chickpeas)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-masala-khichdi-recipe/",
-    "seo_title_value": " Masala Khichdi Recipe + Video (How To Make Mixed Vegetable Khichdi)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-dal-bafla-bafla-bati-in-oven-and-pan-video-recipe/",
-    "seo_title_value": " How to Make Dal Bafla | Bafla Bati Recipe + Video (Oven + Stovetop)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-lachha-paratha-3-ways/",
-    "seo_title_value": " 3 Ways Lachha Paratha Recipe + Video (Make Multi-Layered Paratha)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-matar-paneer-curry-recipe-video/",
-    "seo_title_value": " Matar Paneer Recipe + Video (Indian Peas and Cottage Cheese Curry)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-paneer-pyaza-video-recipe/",
-    "seo_title_value": " Paneer Do Pyaza Recipe + Video (Restaurant Style Paneer Recipe)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/cold-coffee-recipe/",
-    "seo_title_value": " 2 Ways Cold Coffee Recipe + Video (How to Make Cafe Style Cold Coffee)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/stuffed-masala-bati/",
-    "seo_title_value": " Masala Bati Recipe + Video (Stuffed Masala Bati- Bharwa Masala Baati)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-easy-restaurant-style-egg-dum-biryani-recipe/",
-    "seo_title_value": " Hyderabadi Egg Dum Biryani Recipe + Video | Anda Biryani Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/indian-cucumber-chutney-sandwich/",
-    "seo_title_value": " Indian Cucumber Chutney Sandwich Recipe + Video (Tea Time Sandwich)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/nepalese-whole-wheat-steamed-veg-momos-recipe-video/",
-    "seo_title_value": " Nepalese Whole Wheat Steamed Veg Momos Recipe + Video (Healthy)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/besan-stuffed-lauki-curry-video-recipe/",
-    "seo_title_value": " Bharwa Lauki Curry Recipe + Video (Besan Stuffed Bottle Gourd)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/instant-bread-rasmalai-video-recipe/",
-    "seo_title_value": " Instant Bread Rasmalai Recipe +  Video (Quick Indian Sweet Recipe)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/punjabi-baingan-bharta-roasted-eggplant-curry-video-recipe/",
-    "seo_title_value": " Baingan Bharta Recipe + Video (Indian Style Roasted Eggplant Mash)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-roasted-cumin-powder-bhuna-jeera-powder-video-recipe/",
-    "seo_title_value": " How To Make Roasted Cumin Powder (Bhuna Jeera Powder Recipe)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/jaipuri-pyaaz-ki-kachori-onion-filled-spicy-snack/",
-    "seo_title_value": " Jaipuri Pyaaz Ki Kachori Recipe (Easy Onion Filled Spicy Snack)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/veg-biryani-recipe-restaurant-style-hyderabadi-veg-dum-biryani-recipe/",
-    "seo_title_value": " Veg Dum Biryani Recipe + Video (Restaurant Style Vegetable Biryani)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/exquisite-rajasthani-dal-dhokli-recipe/",
@@ -702,6 +614,114 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/how-to-make-no-churn-3-ingredient-rose-ice-cream-video-recipe/",
     "seo_title_value": " No Churn Rose Ice Cream Recipe + Video (3-Ingredient, Easy to Make)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/potato-peas-stir-fry-aloo-matar-dry-vegetarian-recipe/",
+    "seo_title_value": " Dry Aloo Matar Sabji Recipe- How to Make Potato Peas Stir Fry"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-perfect-indian-summer-drink-jal-jeera-video-recipe/",
+    "seo_title_value": " Indian Summer Drink Jaljeera Recipe + Video (How to Make Jal Jira)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-tadka-dal-recipe-how-to-make-dal-tadka/",
+    "seo_title_value": " Dal Tadka Recipe + Video (How to Make Restaurant Style Dal Tadka)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/aloo-poori-recipe-puri-sabji-recipe-video-aloo-ki-rasewali-sabzi-with-puri/",
+    "seo_title_value": " Aloo Puri Recipe - Puri Sabji Recipe (Aloo Ki Rasewali Sabzi)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/vada-pav-recipe/",
+    "seo_title_value": " Vada Pav Recipe + Video (How To Make Mumbai Style Vada Pav)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/lapsi-recipe/",
+    "seo_title_value": " Lapsi Recipe | How to Make Laapsi (Indian Cracked Wheat Sweet)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/chana-dal-namkeen/",
+    "seo_title_value": " Chana Dal Namkeen Recipe + Video (Crunchy Split Bengal Gram Snack)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/rajasthani-mirchi-ke-tipore-instant-chili-pickle-recipe/",
+    "seo_title_value": " Rajasthani Mirchi Ke Tipore Recipe (Instant Green Chili Pickle)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/pani-puri-recipe-gol-gappa-recipe-video/",
+    "seo_title_value": " Pani Puri Recipe (With Step By Step Photos & Video) | Easy Golgappa"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/aloo-ka-halwa-how-to-make-potato-halwa-video-recipe/",
+    "seo_title_value": " Aloo Ka Halwa Recipe + Video | Aalu Ka Halwa | Indian Potato Halwa"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-lachha-paratha-3-ways/",
+    "seo_title_value": " 3 Ways Lachha Paratha Recipe + Video (Make Multi-Layered Paratha)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-masala-khichdi-recipe/",
+    "seo_title_value": " Masala Khichdi Recipe + Video (How To Make Mixed Vegetable Khichdi)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-dal-bafla-bafla-bati-in-oven-and-pan-video-recipe/",
+    "seo_title_value": " How to Make Dal Bafla | Bafla Bati Recipe + Video (Oven + Stovetop)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/crispy-fried-chana-recipe-crunchy-crispy-chickpeas/",
+    "seo_title_value": " Crispy Fried Chana Masala Recipe + Video (Crunchy Crispy Chickpeas)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/cold-coffee-recipe/",
+    "seo_title_value": " 2 Ways Cold Coffee Recipe + Video (How to Make Cafe Style Cold Coffee)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-paneer-pyaza-video-recipe/",
+    "seo_title_value": " Paneer Do Pyaza Recipe + Video (Restaurant Style Paneer Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-matar-paneer-curry-recipe-video/",
+    "seo_title_value": " Matar Paneer Recipe + Video (Indian Peas and Cottage Cheese Curry)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/stuffed-masala-bati/",
+    "seo_title_value": " Masala Bati Recipe + Video (Stuffed Masala Bati- Bharwa Masala Baati)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-easy-restaurant-style-egg-dum-biryani-recipe/",
+    "seo_title_value": " Hyderabadi Egg Dum Biryani Recipe + Video | Anda Biryani Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/indian-cucumber-chutney-sandwich/",
+    "seo_title_value": " Indian Cucumber Chutney Sandwich Recipe + Video (Tea Time Sandwich)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/nepalese-whole-wheat-steamed-veg-momos-recipe-video/",
+    "seo_title_value": " Nepalese Whole Wheat Steamed Veg Momos Recipe + Video (Healthy)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/instant-bread-rasmalai-video-recipe/",
+    "seo_title_value": " Instant Bread Rasmalai Recipe +  Video (Quick Indian Sweet Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/besan-stuffed-lauki-curry-video-recipe/",
+    "seo_title_value": " Bharwa Lauki Curry Recipe + Video (Besan Stuffed Bottle Gourd)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/punjabi-baingan-bharta-roasted-eggplant-curry-video-recipe/",
+    "seo_title_value": " Baingan Bharta Recipe + Video (Indian Style Roasted Eggplant Mash)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-roasted-cumin-powder-bhuna-jeera-powder-video-recipe/",
+    "seo_title_value": " How To Make Roasted Cumin Powder (Bhuna Jeera Powder Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/jaipuri-pyaaz-ki-kachori-onion-filled-spicy-snack/",
+    "seo_title_value": " Jaipuri Pyaaz Ki Kachori Recipe (Easy Onion Filled Spicy Snack)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/veg-biryani-recipe-restaurant-style-hyderabadi-veg-dum-biryani-recipe/",
+    "seo_title_value": " Veg Dum Biryani Recipe + Video (Restaurant Style Vegetable Biryani)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/rajasthani-moong-dal-halwa/",
@@ -2672,118 +2692,6 @@
     "seo_title_value": " No Machine Cafe Mocha"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/gujrati-khaman-dhokla-in-2-styles/",
-    "seo_title_value": " Instant Gujarati Khaman Dhokla Recipe (Soft & Spongy Dhokla 2 Ways)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/rajbhog-recipe/",
-    "seo_title_value": " Rajbhog Recipe + Video | Traditional Kesar Rasgulla Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/jaipuri-mawa-kachori-video/",
-    "seo_title_value": " Rajasthani Mawa Kachori Recipe (Step-by-Step Photo + Video)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/halwa-chana-poori-ashtami-prashad-video-recipe/",
-    "seo_title_value": " How to Make Halwa Chana Poori – Ashtami Prashad Recipe + Video"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-paneer-at-home-homemade-paneer/",
-    "seo_title_value": " How to Make Paneer | Homemade Paneer Recipe (Step-by-Step Photo + Video)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/indian-masala-chai-recipe/",
-    "seo_title_value": " Autentic Indian Masala Chai Recipe + Video (Spiced Milk Tea Recipe)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/eggless-ladi-pav-dinner-rolls-recipe-video/",
-    "seo_title_value": " Pav Recipe | Ladi Pav | Homemade Soft and Fluffy Pav (Dinner Rolls)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/white-sauce-pasta-recipe/",
-    "seo_title_value": " White Sauce Pasta Recipe + Video (Creamy, Cheesy Béchamel Sauce Pasta)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/irresistible-potato-red-cabbage-tikki-recipe/",
-    "seo_title_value": " Irresistible Potato Red Cabbage Tikki Recipe - Vegetarian Cutlet"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/steamed-veg-momos-spicy-chili-chutney-vegetable-momos-recipe-video/",
-    "seo_title_value": " Veg Momoms | Dim Sum | Vegetable Momos Recipe With Spicy Chili Chutney"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/eggless-apple-pie-mug-cake-video-recipe/",
-    "seo_title_value": " 2-Minute Eggless Apple Pie Mug Cake Recipe - Easy Microwave Mug Cake"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/exotic-potato-stuffed-tandoori-roti/",
-    "seo_title_value": " Potato Stuffed Tandoori Roti Recipe - Bharwa Aloo Tandoori Roti Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/spiced-kesar-chai-spiced-saffron-tea-video/",
-    "seo_title_value": " Kesar Chai Recipe | Saffron Tea Recipe | Kesar Masala Tea Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/bharwa-shimla-mirch-recipe/",
-    "seo_title_value": " Stuffed Capsicum Recipe | Bharwa Shimla Mirch (Stuffed Bell Peppers)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/butter-cookies/",
-    "seo_title_value": " Homemade Eggless Butter Cookies Recipe + Video (Piped Cookies)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/make-oats-paratha-oats-green-paratha-2-ways-oats-onion-paratha/",
-    "seo_title_value": " How To Make Healthy Oats Paratha | Oats Green Paratha (Stuffed/Plain)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/dark-rum-strawberry-mango-mojito-video/",
-    "seo_title_value": " Dark Rum Strawberry Mango Mojito Recipe | Dark Rum Cocktail at Home"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/rajasthani-govind-gatta-curry-recipe/",
-    "seo_title_value": " Rajasthani Govind Gatta Curry Recipe - Govind Gatte Ki Sabji Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/vegetarian-recipe-rajma-tikki-kidney-beans-cutlets/",
-    "seo_title_value": " Rajma Tikki Recipe (Step-by-step Photos) | Kidney Beans Cutlets"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/indian-spiced-coffee-microwave-recipe/",
-    "seo_title_value": " Indian Spiced Coffee Recipe - Easy Indian Masala Coffee Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/indian-style-triple-egg-fried-rice-easy-egg-fried-rice-video-recipe/",
-    "seo_title_value": " Easiest Egg Fried Rice Indian Style (Step-by-Step Photo + Video Recipe)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/khatta-meetha-indori-poha-beaten-rice-fry/",
-    "seo_title_value": " Indori Poha Recipe (Step by Step Photo + Video) | Beaten Rice Fry"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/pineapple-raita-recipe-ananas-raita-recipe/",
-    "seo_title_value": " Pineapple Raita Recipe (Step by Step Photo + Video)- Ananas Raita"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/haldi-ki-sabji-fresh-turmeric-root-curry-video-recipe/",
-    "seo_title_value": " Kacchi Haldi ki Sabzi Recipe + Video | Fresh Turmeric Root Curry"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-soft-roti-phulka-recipe-chapati-video-recipe/",
-    "seo_title_value": " Roti Recipe | How to Make Roti/Chapati + Video (Easy Indian Flatbread)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-double-pyaaz-ka-besan-besan-ki-sabji-video-recipe/",
-    "seo_title_value": " How To Make Double Pyaaz Ka Besan - Besan Ki Sabji Recipe + Video"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/classic-spicy-cauliflower-pakora-cauliflower-fritters-recipe/",
-    "seo_title_value": " Gobi Pakora Recipe (Crispy Cauliflower Pakoda)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-indian-garlic-naan-3-ways-video-recipe/",
-    "seo_title_value": " Restaurant Style Garlic Naan Recipe - Homemade Garlic Naan 3 Ways"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/5-bean-curry-recipe/",
     "seo_title_value": " 5 Bean Curry Recipe (Step by Step) - How To Make Multi Beans Curry"
   },
@@ -2850,6 +2758,118 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/aloo-poha-recipe/",
     "seo_title_value": " Aloo Poha Recipe (Step-By-Step-Video) | Aloo Kanda Poha | Batata Poha"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/gujrati-khaman-dhokla-in-2-styles/",
+    "seo_title_value": " Instant Gujarati Khaman Dhokla Recipe (Soft & Spongy Dhokla 2 Ways)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/rajbhog-recipe/",
+    "seo_title_value": " Rajbhog Recipe + Video | Traditional Kesar Rasgulla Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/jaipuri-mawa-kachori-video/",
+    "seo_title_value": " Rajasthani Mawa Kachori Recipe (Step-by-Step Photo + Video)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/indian-masala-chai-recipe/",
+    "seo_title_value": " Autentic Indian Masala Chai Recipe + Video (Spiced Milk Tea Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-paneer-at-home-homemade-paneer/",
+    "seo_title_value": " How to Make Paneer | Homemade Paneer Recipe (Step-by-Step Photo + Video)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/halwa-chana-poori-ashtami-prashad-video-recipe/",
+    "seo_title_value": " How to Make Halwa Chana Poori – Ashtami Prashad Recipe + Video"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/steamed-veg-momos-spicy-chili-chutney-vegetable-momos-recipe-video/",
+    "seo_title_value": " Veg Momoms | Dim Sum | Vegetable Momos Recipe With Spicy Chili Chutney"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/white-sauce-pasta-recipe/",
+    "seo_title_value": " White Sauce Pasta Recipe + Video (Creamy, Cheesy Béchamel Sauce Pasta)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/eggless-ladi-pav-dinner-rolls-recipe-video/",
+    "seo_title_value": " Pav Recipe | Ladi Pav | Homemade Soft and Fluffy Pav (Dinner Rolls)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/irresistible-potato-red-cabbage-tikki-recipe/",
+    "seo_title_value": " Irresistible Potato Red Cabbage Tikki Recipe - Vegetarian Cutlet"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/eggless-apple-pie-mug-cake-video-recipe/",
+    "seo_title_value": " 2-Minute Eggless Apple Pie Mug Cake Recipe - Easy Microwave Mug Cake"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/exotic-potato-stuffed-tandoori-roti/",
+    "seo_title_value": " Potato Stuffed Tandoori Roti Recipe - Bharwa Aloo Tandoori Roti Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/bharwa-shimla-mirch-recipe/",
+    "seo_title_value": " Stuffed Capsicum Recipe | Bharwa Shimla Mirch (Stuffed Bell Peppers)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/spiced-kesar-chai-spiced-saffron-tea-video/",
+    "seo_title_value": " Kesar Chai Recipe | Saffron Tea Recipe | Kesar Masala Tea Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/butter-cookies/",
+    "seo_title_value": " Homemade Eggless Butter Cookies Recipe + Video (Piped Cookies)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/make-oats-paratha-oats-green-paratha-2-ways-oats-onion-paratha/",
+    "seo_title_value": " How To Make Healthy Oats Paratha | Oats Green Paratha (Stuffed/Plain)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/dark-rum-strawberry-mango-mojito-video/",
+    "seo_title_value": " Dark Rum Strawberry Mango Mojito Recipe | Dark Rum Cocktail at Home"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/indian-spiced-coffee-microwave-recipe/",
+    "seo_title_value": " Indian Spiced Coffee Recipe - Easy Indian Masala Coffee Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/rajasthani-govind-gatta-curry-recipe/",
+    "seo_title_value": " Rajasthani Govind Gatta Curry Recipe - Govind Gatte Ki Sabji Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/vegetarian-recipe-rajma-tikki-kidney-beans-cutlets/",
+    "seo_title_value": " Rajma Tikki Recipe (Step-by-step Photos) | Kidney Beans Cutlets"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/indian-style-triple-egg-fried-rice-easy-egg-fried-rice-video-recipe/",
+    "seo_title_value": " Easiest Egg Fried Rice Indian Style (Step-by-Step Photo + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/khatta-meetha-indori-poha-beaten-rice-fry/",
+    "seo_title_value": " Indori Poha Recipe (Step by Step Photo + Video) | Beaten Rice Fry"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/pineapple-raita-recipe-ananas-raita-recipe/",
+    "seo_title_value": " Pineapple Raita Recipe (Step by Step Photo + Video)- Ananas Raita"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/haldi-ki-sabji-fresh-turmeric-root-curry-video-recipe/",
+    "seo_title_value": " Kacchi Haldi ki Sabzi Recipe + Video | Fresh Turmeric Root Curry"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-double-pyaaz-ka-besan-besan-ki-sabji-video-recipe/",
+    "seo_title_value": " How To Make Double Pyaaz Ka Besan - Besan Ki Sabji Recipe + Video"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/classic-spicy-cauliflower-pakora-cauliflower-fritters-recipe/",
+    "seo_title_value": " Gobi Pakora Recipe (Crispy Cauliflower Pakoda)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-soft-roti-phulka-recipe-chapati-video-recipe/",
+    "seo_title_value": " Roti Recipe | How to Make Roti/Chapati + Video (Easy Indian Flatbread)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-indian-garlic-naan-3-ways-video-recipe/",
+    "seo_title_value": " Restaurant Style Garlic Naan Recipe - Homemade Garlic Naan 3 Ways"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/",
@@ -3388,14 +3408,6 @@
     "seo_title_value": " Cooking Tips – How to Make Fritters (Pakoda) Fluffy"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/a-guide-to-baking-without-using-an-oven/",
-    "seo_title_value": " A Guide to Baking Without Using an Oven"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/hacks-to-keep-food-fresh/",
-    "seo_title_value": " 7 Genius Hacks to Keep Your Food Fresh for Longer"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/how-to-organize-your-kitchen-space/",
     "seo_title_value": " How to organize your Kitchen Space to increase More Useful Ingredients"
   },
@@ -3616,12 +3628,20 @@
     "seo_title_value": " How To Adopt Healthy Eating Habits"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/a-guide-to-baking-without-using-an-oven/",
+    "seo_title_value": " A Guide to Baking Without Using an Oven"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/what-makes-the-hunter-valley-such-an-iconic-wine-region/",
     "seo_title_value": " What Makes The Hunter Valley Such An Iconic Wine Region"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/top-7-saudi-arabian-dishes-you-can-cook-this-weekend/",
     "seo_title_value": " Top 7 Saudi Arabian Dishes You Can Cook This Weekend"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/hacks-to-keep-food-fresh/",
+    "seo_title_value": " 7 Genius Hacks to Keep Your Food Fresh for Longer"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/why-tomatoes-are-indian-cooking-staples/",
@@ -3716,6 +3736,14 @@
     "seo_title_value": " Website Pages"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/egg-drop-curry-andhra-style-poached-egg-curry-video-recipe/",
+    "seo_title_value": " Egg Drop Curry Recipe & Video (Make Andhra-Style Poached Egg Curry)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-shahi-kaju-curry-cashew-curry-video-recipe/",
+    "seo_title_value": " Kaju Curry Recipe + Video (How to Make Kaju Masala - Cashew Curry)"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/punjabi-chole-bhature-chana-bhatura/",
     "seo_title_value": " Chole Bhature - How To Make Chana Bhatura (Easy Punjabi Recipe)"
   },
@@ -3740,30 +3768,6 @@
     "seo_title_value": " Rajasthani Lehsun Ki Chutney Recipe & Video - Garlic Chutney (2 Ways)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/egg-drop-curry-andhra-style-poached-egg-curry-video-recipe/",
-    "seo_title_value": " Egg Drop Curry Recipe & Video (Make Andhra-Style Poached Egg Curry)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-shahi-kaju-curry-cashew-curry-video-recipe/",
-    "seo_title_value": " Kaju Curry Recipe + Video (How to Make Kaju Masala - Cashew Curry)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/kashmiri-pink-chai-noon-chai-video-recipe/",
-    "seo_title_value": " Kashmiri Pink Chai Recipe & Video (Noon Chai - Delicious Pink Tea)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/besan-gatte-ki-sabzi-gatta-curry/",
-    "seo_title_value": " Rajasthani Gatta Curry Recipe + Video (Make Besan Ke Gatte Ki Sabzi)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/green-coriander-chutney-3-ways-hare-dhaniye-ki-chutney-hari-chatni/",
-    "seo_title_value": " Coriander Chutney | Cilantro Chutney 3 Ways (Hare Dhaniye Ki Chutney)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/jaipuri-aloo-pyaaz-ki-sabzi-potato-onion-curry-video-recipe/",
-    "seo_title_value": " Jaipuri Aloo Pyaaz Ki Sabzi Recipe + Video (Easy Potato Onion Curry)"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/yeast-free-instant-whole-wheat-naan/",
     "seo_title_value": " No Yeast Instant Naan Recipe (30 Minutes Whole Wheat Naan Recipe)"
   },
@@ -3778,5 +3782,21 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/restaurant-style-rajma-masala-recipe/",
     "seo_title_value": " Rajma Masala Recipe & Video - Kidney Bean Curry (Punjabi Rajma)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/kashmiri-pink-chai-noon-chai-video-recipe/",
+    "seo_title_value": " Kashmiri Pink Chai Recipe & Video (Noon Chai - Delicious Pink Tea)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/green-coriander-chutney-3-ways-hare-dhaniye-ki-chutney-hari-chatni/",
+    "seo_title_value": " Coriander Chutney | Cilantro Chutney 3 Ways (Hare Dhaniye Ki Chutney)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/besan-gatte-ki-sabzi-gatta-curry/",
+    "seo_title_value": " Rajasthani Gatta Curry Recipe + Video (Make Besan Ke Gatte Ki Sabzi)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/jaipuri-aloo-pyaaz-ki-sabzi-potato-onion-curry-video-recipe/",
+    "seo_title_value": " Jaipuri Aloo Pyaaz Ki Sabzi Recipe + Video (Easy Potato Onion Curry)"
   }
 ]
