@@ -716,6 +716,11 @@
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "http://192.168.0.1",
+    "ANCHORTEXT": "LAN server - Cable Router (Arres)"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
     "URL": "http://192.168.10.1",
     "ANCHORTEXT": "LAN server - Elisa Router"
   },
@@ -732,7 +737,7 @@
   {
     "CATEGORY": "10-MISC-SOFTWARE",
     "URL": "http://192.168.3.1",
-    "ANCHORTEXT": "LAN server - WIFI6 Router"
+    "ANCHORTEXT": "LAN server - WIFI6 Router (Huawei)"
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
