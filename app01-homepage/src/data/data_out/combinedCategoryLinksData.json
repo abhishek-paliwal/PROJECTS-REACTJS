@@ -246,6 +246,11 @@
   },
   {
     "CATEGORY": "04-PROGRAMMING",
+    "URL": "https://cloud.digitalocean.com/login",
+    "ANCHORTEXT": "DigitalOcean Login"
+  },
+  {
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://dash.cloudflare.com/",
     "ANCHORTEXT": "Cloudflare Login"
   },
@@ -318,6 +323,11 @@
     "CATEGORY": "04-PROGRAMMING",
     "URL": "https://www.google.com/inputtools/try/",
     "ANCHORTEXT": "Google Hindi TransLiteration"
+  },
+  {
+    "CATEGORY": "04-PROGRAMMING",
+    "URL": "https://www.semrush.com/login/",
+    "ANCHORTEXT": "SEMRUSH Login"
   },
   {
     "CATEGORY": "05-PERSONAL",
@@ -428,6 +438,11 @@
     "CATEGORY": "05-PERSONAL",
     "URL": "https://www.kela.fi",
     "ANCHORTEXT": "Banking - KELA"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.luvn.fi/en",
+    "ANCHORTEXT": "West Uusimaa wellbeing county (Espoo)"
   },
   {
     "CATEGORY": "05-PERSONAL",
