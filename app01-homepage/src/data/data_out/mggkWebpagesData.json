@@ -1,21 +1,5 @@
 [
   {
-    "url_value": "https://www.mygingergarlickitchen.com/roasted-potatoes/",
-    "seo_title_value": " The Best Roasted Potatoes - Crispy & Easy to Make"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/butternut-squash-chickpea-curry/",
-    "seo_title_value": " Golden Butternut Squash and Chickpea Curry Recipe (Easy Indian Curry)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/gingerbread-biscotti-with-white-chocolate-drizzle-video-recipe/",
-    "seo_title_value": " Easy and Delicious Gingerbread Biscotti Recipe + Video"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/hot-chocolate/",
-    "seo_title_value": " Thick Italian Hot Chocolate Recipe (10 Minutes, Made From Scratch)"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/roasted-makhana/",
     "seo_title_value": " Roasted Makhana Recipe - Spicy Roasted Fox Nuts"
   },
@@ -584,8 +568,16 @@
     "seo_title_value": " Easy and Healthy Air Fryer Kale Chips Recipe + Video"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/roasted-potatoes/",
+    "seo_title_value": " The Best Roasted Potatoes - Crispy & Easy to Make"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/chocolate-pomegranate-bites/",
     "seo_title_value": " Chocolate Pomegranate Bites - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/butternut-squash-chickpea-curry/",
+    "seo_title_value": " Golden Butternut Squash and Chickpea Curry Recipe (Easy Indian Curry)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/joulutorttu-finnish-christmas-tarts/",
@@ -594,6 +586,14 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/chocolate-palmiers/",
     "seo_title_value": " Chocolate Palmiers (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/gingerbread-biscotti-with-white-chocolate-drizzle-video-recipe/",
+    "seo_title_value": " Easy and Delicious Gingerbread Biscotti Recipe + Video"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/hot-chocolate/",
+    "seo_title_value": " Thick Italian Hot Chocolate Recipe (10 Minutes, Made From Scratch)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/atta-ladoo/",
@@ -606,6 +606,22 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/samosa-pinwheels/",
     "seo_title_value": " Samosa Pinwheels - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/date-milk/",
+    "seo_title_value": " Date Milk - Khajoor Ka Doodh (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/paneer-manchurian/",
+    "seo_title_value": " Paneer Manchurian - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/peanut-date-roll/",
+    "seo_title_value": " Peanut Date Roll - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/palak-chole/",
+    "seo_title_value": " Palak Chole - Spinach with Chickpeas (Step-By-Step + Video)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/effortless-summer-side-dishes-strawberry-poppyseed-salad/",
@@ -762,10 +778,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/moong-dal-namkeen/",
     "seo_title_value": " Moong Dal Namkeen Recipe + Video (Crunchy Fried Moong Dal Snack)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-sponge-rasgulla-video-recipe/",
-    "seo_title_value": " Rasgulla Recipe + Video (How To Make Soft & Spongy Authentic Rasgulla)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/egg-curry-anda-curry-video-recipe/",
@@ -1116,24 +1128,8 @@
     "seo_title_value": " Red Cabbage Omelet Recipe (Step-by-Step Photos) | Spicy Cabbage Omelet"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/rose-flavored-vermicelli-pudding/",
-    "seo_title_value": " How to Make Seviyan Kheer Recipe | Vermicelli Pudding Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/rajasthani-mirchi-vada-video-recipe/",
-    "seo_title_value": " Rajasthani Mirchi Vada Recipe (Stuffed Mirchi Bada with Potatoes)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/upma-recipe/",
-    "seo_title_value": " Upma Recipe | How to make Rava Upma | Suji Ka Upma"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/eggless-tutti-frutti-cookies-recipe-karachi-biscuit/",
-    "seo_title_value": " Karachi Biscuits Recipe + Video (Eggless Tutti Frutti Cookies Recipe)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/orange-prune-loaf-recipe/",
-    "seo_title_value": " Orange Prune Loaf Recipe (Easy to Make) - Orange Prune Bread Recipe"
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-sponge-rasgulla-video-recipe/",
+    "seo_title_value": " Rasgulla Recipe + Video (How To Make Soft & Spongy Authentic Rasgulla)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/red-velvet-crinkle-cookies-video-recipe/",
@@ -1464,28 +1460,28 @@
     "seo_title_value": " Cabbage Spinach Thepla Recipe (Step By Step) | Palak Thepla Recipe"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/rose-flavored-vermicelli-pudding/",
+    "seo_title_value": " How to Make Seviyan Kheer Recipe | Vermicelli Pudding Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/rajasthani-mirchi-vada-video-recipe/",
+    "seo_title_value": " Rajasthani Mirchi Vada Recipe (Stuffed Mirchi Bada with Potatoes)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/eggless-tutti-frutti-cookies-recipe-karachi-biscuit/",
+    "seo_title_value": " Karachi Biscuits Recipe + Video (Eggless Tutti Frutti Cookies Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/upma-recipe/",
+    "seo_title_value": " Upma Recipe | How to make Rava Upma | Suji Ka Upma"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/orange-prune-loaf-recipe/",
+    "seo_title_value": " Orange Prune Loaf Recipe (Easy to Make) - Orange Prune Bread Recipe"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/kadai-paneer/",
     "seo_title_value": " Kadai Paneer Recipe + Video (Restaurant Style Kadai Paneer Gravy)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/express-bread-rice-pulav-recipe/",
-    "seo_title_value": " Bread Rice Pulav Recipe | Rice Pulao With Bread"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/banana-chai-cake-recipe/",
-    "seo_title_value": " Banana Chai Cake Recipe | Chai Banana Bread"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/whole-wheat-peach-mushroom-pizza-with-feta-and-fresh-basil/",
-    "seo_title_value": " Peach and Mushroom Pizza Recipe With Feta and Basil (Whole-wheat)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/coriander-coconut-chutney-recipe/",
-    "seo_title_value": " Green Coriander Coconut Chutney Recipe | Cilantro Coconut Chutney"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/15-minutes-no-oil-green-thai-curry-chow-mein-noodles/",
-    "seo_title_value": " Thai Green Curry Chow-Mein Noodles Recipe + Video (15 minutes, No Oil)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/paush-vada/",
@@ -1824,12 +1820,24 @@
     "seo_title_value": " Aloo Raita Recipe (Potato Raita Recipe) | How to Make Aloo Raita"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/spiced-oat-lentils-daliaporridge-recipe/",
-    "seo_title_value": " Spiced Oat Lentils Dalia - Savory Oats Porridge"
+    "url_value": "https://www.mygingergarlickitchen.com/express-bread-rice-pulav-recipe/",
+    "seo_title_value": " Bread Rice Pulav Recipe | Rice Pulao With Bread"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/kala-chana-pulav-exquisite-black-chickpea-brown-rice-recipe/",
-    "seo_title_value": " Kala Chana Pulav – Exquisite Black Chickpea Brown Rice"
+    "url_value": "https://www.mygingergarlickitchen.com/banana-chai-cake-recipe/",
+    "seo_title_value": " Banana Chai Cake Recipe | Chai Banana Bread"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/whole-wheat-peach-mushroom-pizza-with-feta-and-fresh-basil/",
+    "seo_title_value": " Peach and Mushroom Pizza Recipe With Feta and Basil (Whole-wheat)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/coriander-coconut-chutney-recipe/",
+    "seo_title_value": " Green Coriander Coconut Chutney Recipe | Cilantro Coconut Chutney"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/15-minutes-no-oil-green-thai-curry-chow-mein-noodles/",
+    "seo_title_value": " Thai Green Curry Chow-Mein Noodles Recipe + Video (15 minutes, No Oil)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/no-bake-peach-gingerbread-cheesecake-parfait/",
@@ -2160,32 +2168,12 @@
     "seo_title_value": " Chocolate Souffle (Video)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/zero-oil-mint-chola-cornmeal-tart-video-recipe/",
-    "seo_title_value": " Mint Chickpea Cornmeal Tart - Pudina Chola (Zero Oil)"
+    "url_value": "https://www.mygingergarlickitchen.com/spiced-oat-lentils-daliaporridge-recipe/",
+    "seo_title_value": " Spiced Oat Lentils Dalia - Savory Oats Porridge"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/pink-and-white-refreshing-watermelon-lemonade/",
-    "seo_title_value": " Pink and White Refreshing Watermelon Lemonade"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/blueberry-muffins/",
-    "seo_title_value": " Quick and Easy Blueberry Muffins Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/fruity-blueberry-strawberry-pulav-rice-signature-recipe/",
-    "seo_title_value": " Fruity Blueberry Strawberry Pulav"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/sweet-potato-pumpkin-kebabs-with-video/",
-    "seo_title_value": " Sweet Potato Pumpkin Kebabs - Video Recipe"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/chocolate-cheesecake-video-recipe/",
-    "seo_title_value": " Chocolate Cheesecake"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/kala-chana-chaat/",
-    "seo_title_value": " Kala Chana Chaat – The most Eco-Friendly Comfort food"
+    "url_value": "https://www.mygingergarlickitchen.com/kala-chana-pulav-exquisite-black-chickpea-brown-rice-recipe/",
+    "seo_title_value": " Kala Chana Pulav – Exquisite Black Chickpea Brown Rice"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/3-ingredients-no-bake-gingerbread-truffles-video-recipe/",
@@ -2732,6 +2720,34 @@
     "seo_title_value": " Apple Cinnamon Brownie with Caramel Drizzle"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/zero-oil-mint-chola-cornmeal-tart-video-recipe/",
+    "seo_title_value": " Mint Chickpea Cornmeal Tart - Pudina Chola (Zero Oil)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/pink-and-white-refreshing-watermelon-lemonade/",
+    "seo_title_value": " Pink and White Refreshing Watermelon Lemonade"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/blueberry-muffins/",
+    "seo_title_value": " Quick and Easy Blueberry Muffins Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/fruity-blueberry-strawberry-pulav-rice-signature-recipe/",
+    "seo_title_value": " Fruity Blueberry Strawberry Pulav"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/sweet-potato-pumpkin-kebabs-with-video/",
+    "seo_title_value": " Sweet Potato Pumpkin Kebabs - Video Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/chocolate-cheesecake-video-recipe/",
+    "seo_title_value": " Chocolate Cheesecake"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/kala-chana-chaat/",
+    "seo_title_value": " Kala Chana Chaat – The most Eco-Friendly Comfort food"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/indian-butterscotch-ice-cream-recipe-video/",
     "seo_title_value": " Indian Butterscotch Ice Cream Recipe + Video (No Churn & Eggless)"
   },
@@ -2916,18 +2932,6 @@
     "seo_title_value": " Home"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/6-quick-and-easy-no-churn-ice-cream-recipes/",
-    "seo_title_value": " 6 Quick and easy no-churn ice cream recipes (with video)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/christmas-chocolate-desserts/",
-    "seo_title_value": " 29 Chocolate Desserts For Christmas"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/christmas-recipes/",
-    "seo_title_value": " 86 Easy & Delicious Christmas Recipes Everyone Can Make"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/top-beet-recipes/",
     "seo_title_value": " Top 12 Beet Recipes"
   },
@@ -3040,8 +3044,16 @@
     "seo_title_value": " Vegetarian Zucchini Recipes"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/sharing-food-another-human-intimate-act-indulged-lightly-food-quotes/",
-    "seo_title_value": " Sharing Food With Another Human Being"
+    "url_value": "https://www.mygingergarlickitchen.com/6-quick-and-easy-no-churn-ice-cream-recipes/",
+    "seo_title_value": " 6 Quick and easy no-churn ice cream recipes (with video)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/christmas-chocolate-desserts/",
+    "seo_title_value": " 29 Chocolate Desserts For Christmas"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/christmas-recipes/",
+    "seo_title_value": " 86 Easy & Delicious Christmas Recipes Everyone Can Make"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/crust-eaten-peace-better-banquet-partaken-anxiety-food-quote/",
@@ -3080,12 +3092,8 @@
     "seo_title_value": " After A Good Dinner One Can Forgive Anybody"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/eating-mushroom-means-life-better-stock-photo/",
-    "seo_title_value": " 'Eating Mushroom Means Life Is BETTER [Stock Photo]'"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/pause-refreshes-lemon-stock-photo/",
-    "seo_title_value": " 'The pause that refreshes. Lemon [Stock Photo]'"
+    "url_value": "https://www.mygingergarlickitchen.com/sharing-food-another-human-intimate-act-indulged-lightly-food-quotes/",
+    "seo_title_value": " Sharing Food With Another Human Being"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/life-vegan-foodie-demand/",
@@ -3180,8 +3188,12 @@
     "seo_title_value": " 'Chocolate Spatula for Perfect Experience. [Stock Photo]'"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/cooking-tips-make-fritters-fluffy/",
-    "seo_title_value": " Cooking Tips – How to Make Fritters (Pakoda) Fluffy"
+    "url_value": "https://www.mygingergarlickitchen.com/eating-mushroom-means-life-better-stock-photo/",
+    "seo_title_value": " 'Eating Mushroom Means Life Is BETTER [Stock Photo]'"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/pause-refreshes-lemon-stock-photo/",
+    "seo_title_value": " 'The pause that refreshes. Lemon [Stock Photo]'"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/cooking-tips-peel-orange-tomato-skin-effortlessly/",
@@ -3448,8 +3460,8 @@
     "seo_title_value": " HOW TO CUT ONION WITHOUT TEARS"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-choose-fashionable-colors-for-your-kitchen/",
-    "seo_title_value": " How to Choose Fashionable Colors for Your Kitchen"
+    "url_value": "https://www.mygingergarlickitchen.com/cooking-tips-make-fritters-fluffy/",
+    "seo_title_value": " Cooking Tips – How to Make Fritters (Pakoda) Fluffy"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/delicious-ways-to-reuse-leftover-spaghetti-sauce/",
@@ -3712,20 +3724,20 @@
     "seo_title_value": " A Guide To Choosing Professional Salamanders For Your Kitchen"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-choose-fashionable-colors-for-your-kitchen/",
+    "seo_title_value": " How to Choose Fashionable Colors for Your Kitchen"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/how-to-use-up-left-over-sour-cream-in-recipes/",
     "seo_title_value": " How To Use Up Left-Over Sour Cream in Three Delicious Recipes"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/natural-foods-in-indian-cuisine/",
+    "seo_title_value": " Natural Foods in Indian Cuisine"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/blog/",
     "seo_title_value": " Blog Page"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/fruit-cake/",
-    "seo_title_value": " How to Make Moist Fruit Cake Recipe (Alcohol and No-Alcohol)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/linzer-cookies/",
-    "seo_title_value": " Easy Linzer Cookies Recipe"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/mulled-wine-recipe/",
@@ -3734,6 +3746,14 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/eggless-tutti-frutti-cake/",
     "seo_title_value": " Tutti Frutti Cake - Eggless Tutti Frutti Cake Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/fruit-cake/",
+    "seo_title_value": " How to Make Moist Fruit Cake Recipe (Alcohol and No-Alcohol)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/linzer-cookies/",
+    "seo_title_value": " Easy Linzer Cookies Recipe"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/17-cooking-tips-ebook-download-page/",
