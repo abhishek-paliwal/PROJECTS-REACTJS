@@ -1320,6 +1320,26 @@
     "ANCHORTEXT": "UDEMY"
   },
   {
+    "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://chat.openai.com/auth/login",
+    "ANCHORTEXT": "chatGPT login"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://huggingface.co/spaces/stabilityai/stable-diffusion",
+    "ANCHORTEXT": "Stable Diffusion Playground1"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://openai.com/dall-e-2/",
+    "ANCHORTEXT": "Dall-E.2 login"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://stablediffusionweb.com/#features",
+    "ANCHORTEXT": "Stable Diffusion Playground2"
+  },
+  {
     "CATEGORY": "99-TMP-LINKS",
     "URL": "https://www.mygingergarlickitchen.com",
     "ANCHORTEXT": "mygingergarlickitchen.com"
