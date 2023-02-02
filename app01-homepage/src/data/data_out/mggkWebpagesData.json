@@ -1,9 +1,5 @@
 [
   {
-    "url_value": "https://www.mygingergarlickitchen.com/roasted-makhana/",
-    "seo_title_value": " Roasted Makhana Recipe - Spicy Roasted Fox Nuts"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/aate-ki-pinni/",
     "seo_title_value": " Aate Ki Pinni - Atta Pinni - Aate Ke Laddu"
   },
@@ -608,6 +604,10 @@
     "seo_title_value": " Samosa Pinwheels - (Step-By-Step + Video Recipe)"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/roasted-makhana/",
+    "seo_title_value": " Roasted Makhana Recipe - Spicy Roasted Fox Nuts"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/date-milk/",
     "seo_title_value": " Date Milk - Khajoor Ka Doodh (Step-By-Step + Video Recipe)"
   },
@@ -634,6 +634,10 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/tri-colour-fruit-skewers/",
     "seo_title_value": " Tri Colour Fruit Skewers - Kebabs - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/paneer-pasanda/",
+    "seo_title_value": " Paneer Pasanda (Step-By-Step + Video Recipe)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/effortless-summer-side-dishes-strawberry-poppyseed-salad/",
@@ -790,10 +794,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/moong-dal-namkeen/",
     "seo_title_value": " Moong Dal Namkeen Recipe + Video (Crunchy Fried Moong Dal Snack)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/egg-curry-anda-curry-video-recipe/",
-    "seo_title_value": " Egg Curry Recipe | How to Make Dhaba Style Egg Curry Recipe + Video"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/paneer-lababdar/",
@@ -1144,8 +1144,8 @@
     "seo_title_value": " Rasgulla Recipe + Video (How To Make Soft & Spongy Authentic Rasgulla)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-strawberry-panna-cotta-video-recipe/",
-    "seo_title_value": " Strawberry Panna Cotta Recipe (Step By Step + Video)"
+    "url_value": "https://www.mygingergarlickitchen.com/egg-curry-anda-curry-video-recipe/",
+    "seo_title_value": " Egg Curry Recipe | How to Make Dhaba Style Egg Curry Recipe + Video"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/peanut-chikki/",
@@ -1490,6 +1490,10 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/mini-apple-pear-tarte-tatin-video-recipe/",
     "seo_title_value": " Mini Apple Pear Tarte Tatin Recipe + Video (French Dessert) "
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/how-to-make-strawberry-panna-cotta-video-recipe/",
+    "seo_title_value": " Strawberry Panna Cotta Recipe (Step By Step + Video)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/kadai-paneer/",
@@ -2188,10 +2192,6 @@
     "seo_title_value": " No-Bake Peach Gingerbread Cheesecake Parfait"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/roasted-beet-potato-holiday-salad-video-recipe/",
-    "seo_title_value": " Beet Potato Holiday Salad - Roasted Beet Salad"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/mushroom-fettuccine-alfredo/",
     "seo_title_value": " Mushroom Fettuccine with Alfredo Sauce"
   },
@@ -2758,6 +2758,10 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/chocolate-dipped-whipped-shortbread-cranberry-cookies-video-recipe/",
     "seo_title_value": " Chocolate Dipped Shortbread Cranberry Cookies"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/roasted-beet-potato-holiday-salad-video-recipe/",
+    "seo_title_value": " Beet Potato Holiday Salad - Roasted Beet Salad"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/indian-butterscotch-ice-cream-recipe-video/",

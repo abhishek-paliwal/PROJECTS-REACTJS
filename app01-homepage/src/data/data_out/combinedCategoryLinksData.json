@@ -1336,8 +1336,18 @@
   },
   {
     "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://milhidaka.github.io/chainer-image-caption/",
+    "ANCHORTEXT": "Generating image captions"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
     "URL": "https://openai.com/dall-e-2/",
     "ANCHORTEXT": "Dall-E.2 login"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://portal.vision.cognitive.azure.com/demo/image-captioning",
+    "ANCHORTEXT": "AZURE Vision_Studio - Genrerate image captions"
   },
   {
     "CATEGORY": "17-AI-TOOLS",
