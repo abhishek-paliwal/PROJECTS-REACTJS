@@ -771,6 +771,11 @@
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://console.cloud.google.com/billing/01FF4D-B8D2A1-F7CE02/reports?organizationId=580700302454",
+    "ANCHORTEXT": "Google Cloud Console - Billing"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
     "URL": "https://github.com/ibraheemdev/modern-unix",
     "ANCHORTEXT": "LINUX-FU modern-unix COMMANDS LIST"
   },

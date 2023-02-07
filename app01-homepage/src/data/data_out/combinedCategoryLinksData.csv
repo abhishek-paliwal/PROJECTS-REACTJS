@@ -153,6 +153,7 @@ CATEGORY;URL;ANCHORTEXT
 10-MISC-SOFTWARE;http://192.168.8.1;LAN server - Mango VPN Router
 10-MISC-SOFTWARE;http://localhost:1313;LAN server - Hugo Server (localhost:1313)
 10-MISC-SOFTWARE;http://localhost:3000;LAN server - Node NPM Server (localhost:3000)
+10-MISC-SOFTWARE;https://console.cloud.google.com/billing/01FF4D-B8D2A1-F7CE02/reports?organizationId=580700302454;Google Cloud Console - Billing
 10-MISC-SOFTWARE;https://github.com/ibraheemdev/modern-unix;LINUX-FU modern-unix COMMANDS LIST
 10-MISC-SOFTWARE;https://gohugo.io/documentation/;Official Go-HUGO docs
 10-MISC-SOFTWARE;https://manual.calibre-ebook.com/conversion.html#converting-to-pdf;CALIBRE - Kindle Mobi to PDF Cheatsheet
