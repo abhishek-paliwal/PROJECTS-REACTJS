@@ -611,8 +611,8 @@
   },
   {
     "CATEGORY": "08-DESIGNING",
-    "URL": "https://github.com/TencentARC/GFPGAN",
-    "ANCHORTEXT": "Github Repo - AI (neural) photo+face restoration by python"
+    "URL": "https://dribbble.com/tags/color_palette",
+    "ANCHORTEXT": "Dribbble Color palette"
   },
   {
     "CATEGORY": "08-DESIGNING",
@@ -648,6 +648,16 @@
     "CATEGORY": "08-DESIGNING",
     "URL": "https://videohive.net/",
     "ANCHORTEXT": "VIDEOhive"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.canva.com/colors/color-meanings/",
+    "ANCHORTEXT": "Canva Color names and meanings"
+  },
+  {
+    "CATEGORY": "08-DESIGNING",
+    "URL": "https://www.canva.com/colors/color-palettes/",
+    "ANCHORTEXT": "Canva Color palette"
   },
   {
     "CATEGORY": "08-DESIGNING",
@@ -1333,6 +1343,11 @@
     "CATEGORY": "17-AI-TOOLS",
     "URL": "https://chat.openai.com/auth/login",
     "ANCHORTEXT": "chatGPT login"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://github.com/TencentARC/GFPGAN",
+    "ANCHORTEXT": "Github Repo - AI (neural) photo+face restoration by python"
   },
   {
     "CATEGORY": "17-AI-TOOLS",

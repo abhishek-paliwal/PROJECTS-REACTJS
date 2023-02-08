@@ -121,7 +121,7 @@ CATEGORY;URL;ANCHORTEXT
 07-SCHOOL;https://www.sanomapro.fi/;SanomaPro Login - Meritori
 07-SCHOOL;https://www.storylineonline.net/library/;English stories by celebrities
 07-SCHOOL;https://www.worksheetworks.com/english/writing/handwriting/cursive-practice.html;Cursive Writing practice
-08-DESIGNING;https://github.com/TencentARC/GFPGAN;Github Repo - AI (neural) photo+face restoration by python
+08-DESIGNING;https://dribbble.com/tags/color_palette;Dribbble Color palette
 08-DESIGNING;https://graphicburger.com/;Graphic-BURGER MOCKUPS
 08-DESIGNING;https://graphicriver.net/;GRAPHIC-river
 08-DESIGNING;https://pinterest.com/psdcovers/psd-cover-actions/;PSDcovers-Pinterest
@@ -129,6 +129,8 @@ CATEGORY;URL;ANCHORTEXT
 08-DESIGNING;https://uigradients.com/#JShine;CSS UI Gradients
 08-DESIGNING;https://uk.moo.com/design-templates/business-cards/;MOO CARDS - Design inspiration
 08-DESIGNING;https://videohive.net/;VIDEOhive
+08-DESIGNING;https://www.canva.com/colors/color-meanings/;Canva Color names and meanings
+08-DESIGNING;https://www.canva.com/colors/color-palettes/;Canva Color palette
 08-DESIGNING;https://www.canva.com/templates/;CANVA Design Templates
 08-DESIGNING;https://www.cssauthor.com/free-mockup-templates-psd-designs/;500+ Free Mockup Templates
 08-DESIGNING;https://www.freepik.com;FreePik free vectors
@@ -266,6 +268,7 @@ CATEGORY;URL;ANCHORTEXT
 16-ONLINE-COURSES;https://courses.minnalearn.com/en/courses/cybersecurity/overview/;MINNA-LEARN - Cybersecurity Course
 16-ONLINE-COURSES;https://www.udemy.com/;UDEMY
 17-AI-TOOLS;https://chat.openai.com/auth/login;chatGPT login
+17-AI-TOOLS;https://github.com/TencentARC/GFPGAN;Github Repo - AI (neural) photo+face restoration by python
 17-AI-TOOLS;https://huggingface.co/spaces/stabilityai/stable-diffusion;Stable Diffusion Playground1
 17-AI-TOOLS;https://milhidaka.github.io/chainer-image-caption/;Generating image captions
 17-AI-TOOLS;https://openai.com/dall-e-2/;Dall-E.2 login
