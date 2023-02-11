@@ -268,6 +268,7 @@ CATEGORY;URL;ANCHORTEXT
 16-ONLINE-COURSES;https://courses.minnalearn.com/en/courses/cybersecurity/overview/;MINNA-LEARN - Cybersecurity Course
 16-ONLINE-COURSES;https://www.udemy.com/;UDEMY
 17-AI-TOOLS;https://chat.openai.com/auth/login;chatGPT login
+17-AI-TOOLS;https://cloud.google.com/text-to-speech/#section-2;Google Cloud Text-to-Speech Voices Demo
 17-AI-TOOLS;https://github.com/TencentARC/GFPGAN;Github Repo - AI (neural) photo+face restoration by python
 17-AI-TOOLS;https://huggingface.co/spaces/stabilityai/stable-diffusion;Stable Diffusion Playground1
 17-AI-TOOLS;https://milhidaka.github.io/chainer-image-caption/;Generating image captions
