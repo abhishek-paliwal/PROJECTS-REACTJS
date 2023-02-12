@@ -6,4 +6,5 @@ CATEGORY;URL;ANCHORTEXT
 17-AI-TOOLS;https://milhidaka.github.io/chainer-image-caption/;Generating image captions
 17-AI-TOOLS;https://portal.vision.cognitive.azure.com/demo/image-captioning;AZURE Vision_Studio - Genrerate image captions
 17-AI-TOOLS;https://github.com/TencentARC/GFPGAN;Github Repo - AI (neural) photo+face restoration by python
-17-AI-TOOLS;https://cloud.google.com/text-to-speech/#section-2;Google Cloud Text-to-Speech Voices Demo
+17-AI-TOOLS;https://cloud.google.com/text-to-speech/#section-2;Google Cloud Text-to-Speech Voices API Demo
+17-AI-TOOLS;https://cloud.google.com/text-to-speech/docs/voices;Google Cloud Text-to-Speech Voices List

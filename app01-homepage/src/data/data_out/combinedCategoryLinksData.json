@@ -1347,7 +1347,12 @@
   {
     "CATEGORY": "17-AI-TOOLS",
     "URL": "https://cloud.google.com/text-to-speech/#section-2",
-    "ANCHORTEXT": "Google Cloud Text-to-Speech Voices Demo"
+    "ANCHORTEXT": "Google Cloud Text-to-Speech Voices API Demo"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://cloud.google.com/text-to-speech/docs/voices",
+    "ANCHORTEXT": "Google Cloud Text-to-Speech Voices List"
   },
   {
     "CATEGORY": "17-AI-TOOLS",
