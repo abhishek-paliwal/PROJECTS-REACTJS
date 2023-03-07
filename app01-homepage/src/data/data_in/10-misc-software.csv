@@ -3,7 +3,7 @@ CATEGORY;URL;ANCHORTEXT
 10-MISC-SOFTWARE;http://192.168.10.41;LAN server - OpenMediaVault NAS (OMV)
 10-MISC-SOFTWARE;http://192.168.3.16;LAN server - Raspberry Pi4
 10-MISC-SOFTWARE;http://192.168.3.1;LAN server - WIFI6 Router (Huawei)
-10-MISC-SOFTWARE;http://192.168.0.1;LAN server - Cable Router (Arres)
+10-MISC-SOFTWARE;http://192.168.0.1;LAN server - Cable Router (Arris-Elisa)
 10-MISC-SOFTWARE;http://192.168.8.1;LAN server - Mango VPN Router
 10-MISC-SOFTWARE;http://localhost:1313;LAN server - Hugo Server (localhost:1313)
 10-MISC-SOFTWARE;http://localhost:3000;LAN server - Node NPM Server (localhost:3000)
