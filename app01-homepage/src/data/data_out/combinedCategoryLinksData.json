@@ -916,8 +916,23 @@
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
-    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/202302-AWGP-gayatri-pariwar-all-books-catalog.html",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_AWGP_gayatri_pariwar_outputs/_AWGP_project_data_extraction_to_download_pdfs_and_htmls/_output_html_modified_final/202302-AWGP-gayatri-pariwar-all-books-catalog.html",
     "ANCHORTEXT": "My AWGP Books Catalog"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_AWGP_gayatri_pariwar_outputs/_AWGP_project_data_extraction_to_download_pdfs_and_htmls/_output_html_modified_final/_FINAL_awgp_all_1493_books_names_hindi_transliterated.csv.html",
+    "ANCHORTEXT": "My AWGP all_1493_books_names_hindi_transliterated"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_AWGP_gayatri_pariwar_outputs/_AWGP_project_data_extraction_to_download_pdfs_and_htmls/_output_html_modified_final/_FINAL_output_step00_FINAL_file_with_all_urls_from_book_catalog.csv.html",
+    "ANCHORTEXT": "My AWGP all_urls_from_book_catalog"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_AWGP_gayatri_pariwar_outputs/_AWGP_project_data_extraction_to_download_pdfs_and_htmls/_output_html_modified_final/_FINAL_output_step04_FINAL_urls_with_pdflinks_and_max_pages.csv.html",
+    "ANCHORTEXT": "My AWGP urls with pdflinks and_max_pages"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
