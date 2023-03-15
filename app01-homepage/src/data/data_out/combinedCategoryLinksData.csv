@@ -203,6 +203,7 @@ CATEGORY;URL;ANCHORTEXT
 12-CLI-TOOLS;https://github.com/davatorium/rofi;ROFI (Linux dmenu type tool)
 12-CLI-TOOLS;https://github.com/denisidoro/navi;navi (CLI interactive cheatsheet)
 12-CLI-TOOLS;https://github.com/iptv-org/iptv;IPTV - 8000+ channels
+12-CLI-TOOLS;https://github.com/johnkerl/miller;miller - data manipulation tool for csv, tsv, json, etc
 12-CLI-TOOLS;https://github.com/junegunn/fzf;fzf fuzzy finder
 12-CLI-TOOLS;https://github.com/ranger/ranger/wiki/Keybindings;ranger - cli file manager
 12-CLI-TOOLS;https://github.com/sharkdp/bat;bat - syntax highlighter

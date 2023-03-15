@@ -1021,6 +1021,11 @@
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/johnkerl/miller",
+    "ANCHORTEXT": "miller - data manipulation tool for csv, tsv, json, etc"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
     "URL": "https://github.com/junegunn/fzf",
     "ANCHORTEXT": "fzf fuzzy finder"
   },

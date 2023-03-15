@@ -29,3 +29,4 @@ CATEGORY;URL;ANCHORTEXT
 12-CLI-TOOLS;https://formulae.brew.sh/formula/cowsay#default;FUN PROMPT - cowsay
 12-CLI-TOOLS;https://formulae.brew.sh/formula/ponysay#default;FUN PROMPT - ponysay
 12-CLI-TOOLS;https://formulae.brew.sh/formula/lolcat#default;FUN PROMPT (RAINBOW COLORS) - lolcat
+12-CLI-TOOLS;https://github.com/johnkerl/miller;miller - data manipulation tool for csv, tsv, json, etc
