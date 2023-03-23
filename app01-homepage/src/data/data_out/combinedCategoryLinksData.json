@@ -1366,6 +1366,11 @@
   },
   {
     "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://bing.com/create",
+    "ANCHORTEXT": "Bing AI - Create Images (uses Dall-E.2)"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
     "URL": "https://chat.openai.com/auth/login",
     "ANCHORTEXT": "chatGPT login"
   },
