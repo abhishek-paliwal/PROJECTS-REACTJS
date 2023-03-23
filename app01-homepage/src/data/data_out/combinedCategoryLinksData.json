@@ -436,6 +436,11 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.incometax.gov.in/iec/foportal/",
+    "ANCHORTEXT": "Income Tax Login (India)"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
     "URL": "https://www.kela.fi",
     "ANCHORTEXT": "Banking - KELA"
   },
@@ -463,6 +468,11 @@
     "CATEGORY": "05-PERSONAL",
     "URL": "https://www.paypal.com/uk/home",
     "ANCHORTEXT": " PayPal UK"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
+    "URL": "https://www.vero.fi/en/e-file/mytax/",
+    "ANCHORTEXT": "Income Tax Login - Vero.fi (Finland)"
   },
   {
     "CATEGORY": "06-TRAVEL",
