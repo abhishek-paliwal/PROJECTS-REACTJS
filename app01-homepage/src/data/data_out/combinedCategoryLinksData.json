@@ -1006,6 +1006,11 @@
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://github.com/andreafrancia/trash-cli",
+    "ANCHORTEXT": "trash-cli ('rm' safe substitute )"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
     "URL": "https://github.com/davatorium/rofi",
     "ANCHORTEXT": "ROFI (Linux dmenu type tool)"
   },

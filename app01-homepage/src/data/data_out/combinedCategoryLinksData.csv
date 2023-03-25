@@ -200,6 +200,7 @@ CATEGORY;URL;ANCHORTEXT
 12-CLI-TOOLS;https://formulae.brew.sh/formula/ponysay#default;FUN PROMPT - ponysay
 12-CLI-TOOLS;https://github.com/Nyr/openvpn-install;openvpn (easy insallation script)
 12-CLI-TOOLS;https://github.com/TomWright/dasel;dasel (multi-format data selector tool)
+12-CLI-TOOLS;https://github.com/andreafrancia/trash-cli;trash-cli ('rm' safe substitute )
 12-CLI-TOOLS;https://github.com/davatorium/rofi;ROFI (Linux dmenu type tool)
 12-CLI-TOOLS;https://github.com/denisidoro/navi;navi (CLI interactive cheatsheet)
 12-CLI-TOOLS;https://github.com/iptv-org/iptv;IPTV - 8000+ channels
