@@ -761,18 +761,18 @@
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
-    "URL": "http://192.168.10.41",
+    "URL": "http://192.168.3.1",
+    "ANCHORTEXT": "LAN server - WIFI6 Router (Huawei)"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "http://192.168.3.41",
     "ANCHORTEXT": "LAN server - OpenMediaVault NAS (OMV)"
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
-    "URL": "http://192.168.3.16",
+    "URL": "http://192.168.3.86",
     "ANCHORTEXT": "LAN server - Raspberry Pi4"
-  },
-  {
-    "CATEGORY": "10-MISC-SOFTWARE",
-    "URL": "http://192.168.3.1",
-    "ANCHORTEXT": "LAN server - WIFI6 Router (Huawei)"
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
