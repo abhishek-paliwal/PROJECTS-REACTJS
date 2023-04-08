@@ -1,21 +1,5 @@
 [
   {
-    "url_value": "https://www.mygingergarlickitchen.com/paneer-jalfrezi/",
-    "seo_title_value": " Paneer Jalfrezi Recipe (How to Make Restaurant Style Paneer Jalfrezi)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/paneer-khurchan/",
-    "seo_title_value": " Paneer Khurchan Recipe - How to Make Paneer Khurchan"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/baked-feta-pasta/",
-    "seo_title_value": " How to Make TikTok's Baked Feta Pasta Recipe (Easy Pasta Recipe)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/badam-ladoo/",
-    "seo_title_value": " Badam Ladoo - Saffron Almond Ladoo (Recipe + Video)"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/thandai-cheesecake/",
     "seo_title_value": " Thandai Cheesecake (No Bake Recipe + Video)- No Gelatin or Agar Agar"
   },
@@ -676,12 +660,20 @@
     "seo_title_value": " Thandai Burfi - (Step-By-Step + Video Recipe)"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/paneer-jalfrezi/",
+    "seo_title_value": " Paneer Jalfrezi Recipe (How to Make Restaurant Style Paneer Jalfrezi)"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/pista-katli/",
     "seo_title_value": " Pista Katli - (Step-By-Step + Video Recipe)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/thandai-powder/",
     "seo_title_value": " Instant Thandai Powder Recipe + Thandai Milkshake (Thandai Masala)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/paneer-khurchan/",
+    "seo_title_value": " Paneer Khurchan Recipe - How to Make Paneer Khurchan"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/thandai-kulfi/",
@@ -694,6 +686,14 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/thandai-frappe/",
     "seo_title_value": " Thandai Frappe - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/baked-feta-pasta/",
+    "seo_title_value": " How to Make TikTok's Baked Feta Pasta Recipe (Easy Pasta Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/badam-ladoo/",
+    "seo_title_value": " Badam Ladoo - Saffron Almond Ladoo (Recipe + Video)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/orange-salad/",
@@ -714,6 +714,18 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/carrot-cake-mug-cake/",
     "seo_title_value": " Carrot Cake Mug Cake - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/cheesecake-filled-easter-eggs/",
+    "seo_title_value": " Cheesecake Filled Easter Eggs - (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/fruit-cream/",
+    "seo_title_value": " Fruit Cream (Step-By-Step + Video Recipe)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/mango-lassi/",
+    "seo_title_value": " Mango Lassi - (Step- By-Step + Video Recipe)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/effortless-summer-side-dishes-strawberry-poppyseed-salad/",
@@ -870,10 +882,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/moong-dal-namkeen/",
     "seo_title_value": " Moong Dal Namkeen Recipe + Video (Crunchy Fried Moong Dal Snack)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/poha-chivda-recipe/",
-    "seo_title_value": " Chivda Recipe (Step by Step Photo + Video) Fried Poha Chivda Recipe"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/khasta-moong-dal-kachori/",
@@ -1224,8 +1232,8 @@
     "seo_title_value": " Paneer Lababdar Recipe + Video (Restaurant Style Paneer Lababdar)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/spicy-zucchini-waffles-how-to-make-waffled-besan-chilla-video-recipe/",
-    "seo_title_value": " Spicy Zucchini Waffles Recipe | How to Make Waffled Besan Chilla"
+    "url_value": "https://www.mygingergarlickitchen.com/poha-chivda-recipe/",
+    "seo_title_value": " Chivda Recipe (Step by Step Photo + Video) Fried Poha Chivda Recipe"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/mint-coriander-chutney/",
@@ -1576,12 +1584,8 @@
     "seo_title_value": " Masoor Dal Recipe | Red Lentils (Instant Pot, Pressure Cooker, Pan)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/mawa-gujiya-recipe/",
-    "seo_title_value": " Gujiya Recipe | How to Make Mawa Gujiya (Fried and Baked)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/besan-ladoo/",
-    "seo_title_value": " Besan Ladoo Recipe | How to Make Besan Laddu (Sweet Chickpea Balls)"
+    "url_value": "https://www.mygingergarlickitchen.com/spicy-zucchini-waffles-how-to-make-waffled-besan-chilla-video-recipe/",
+    "seo_title_value": " Spicy Zucchini Waffles Recipe | How to Make Waffled Besan Chilla"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/instant-jalebi-recipe/",
@@ -1932,8 +1936,12 @@
     "seo_title_value": " How to Make Chocolate Lava Cakes Recipe + Video (Molten Lava Cake)"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/pasta-aglio-e-olio/",
-    "seo_title_value": " Pasta Aglio E Olio (Spaghetti with Oil and Garlic)"
+    "url_value": "https://www.mygingergarlickitchen.com/besan-ladoo/",
+    "seo_title_value": " Besan Ladoo Recipe | How to Make Besan Laddu (Sweet Chickpea Balls)"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/mawa-gujiya-recipe/",
+    "seo_title_value": " Gujiya Recipe | How to Make Mawa Gujiya (Fried and Baked)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/matar-pulao/",
@@ -2266,6 +2274,10 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/raspberry-creme-fraiche-cookies-puffs-video/",
     "seo_title_value": " Raspberry Crème Fraîche Puff Pastry"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/pasta-aglio-e-olio/",
+    "seo_title_value": " Pasta Aglio E Olio (Spaghetti with Oil and Garlic)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/tomato-bruschetta/",
@@ -3540,10 +3552,6 @@
     "seo_title_value": " Cooking Tips – How to Make Fritters (Pakoda) Fluffy"
   },
   {
-    "url_value": "https://www.mygingergarlickitchen.com/chopped-greek-salad/",
-    "seo_title_value": " Chopped Greek Salad Recipe"
-  },
-  {
     "url_value": "https://www.mygingergarlickitchen.com/different-types-of-ice-creams-to-try-this-year/",
     "seo_title_value": " 7 Different Types Of Ice Creams To Try This Year"
   },
@@ -3816,8 +3824,20 @@
     "seo_title_value": " Want To Become A Wine Expert? Here's How"
   },
   {
+    "url_value": "https://www.mygingergarlickitchen.com/chopped-greek-salad/",
+    "seo_title_value": " Chopped Greek Salad Recipe"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/interesting-facts-about-airline-catering-in-business-class/",
+    "seo_title_value": " Weird facts about airline food"
+  },
+  {
     "url_value": "https://www.mygingergarlickitchen.com/blog/",
     "seo_title_value": " Blog Page"
+  },
+  {
+    "url_value": "https://www.mygingergarlickitchen.com/best-holi-recipes/",
+    "seo_title_value": " 150+ Best Holi Recipes – (2023 edition)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/holi-snacks/",
@@ -3830,10 +3850,6 @@
   {
     "url_value": "https://www.mygingergarlickitchen.com/holi-desserts/",
     "seo_title_value": " Huge Collection of Holi Desserts (2023 edition)"
-  },
-  {
-    "url_value": "https://www.mygingergarlickitchen.com/best-holi-recipes/",
-    "seo_title_value": " 150+ Best Holi Recipes – (2023 edition)"
   },
   {
     "url_value": "https://www.mygingergarlickitchen.com/17-cooking-tips-ebook-download-page/",
