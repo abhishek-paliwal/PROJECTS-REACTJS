@@ -281,6 +281,7 @@ CATEGORY;URL;ANCHORTEXT
 17-AI-TOOLS;https://cloud.google.com/text-to-speech/#section-2;Google Cloud Text-to-Speech Voices API Demo
 17-AI-TOOLS;https://cloud.google.com/text-to-speech/docs/voices;Google Cloud Text-to-Speech Voices List
 17-AI-TOOLS;https://github.com/TencentARC/GFPGAN;Github Repo - AI (neural) photo+face restoration by python
+17-AI-TOOLS;https://huggingface.co/spaces/nielsr/comparing-captioning-models;Huggingface - Comparing image captioning models
 17-AI-TOOLS;https://huggingface.co/spaces/stabilityai/stable-diffusion;Stable Diffusion Playground1
 17-AI-TOOLS;https://milhidaka.github.io/chainer-image-caption/;Generating image captions
 17-AI-TOOLS;https://openai.com/dall-e-2/;Dall-E.2 login

@@ -1411,6 +1411,11 @@
   },
   {
     "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://huggingface.co/spaces/nielsr/comparing-captioning-models",
+    "ANCHORTEXT": "Huggingface - Comparing image captioning models"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
     "URL": "https://huggingface.co/spaces/stabilityai/stable-diffusion",
     "ANCHORTEXT": "Stable Diffusion Playground1"
   },
