@@ -927,7 +927,7 @@
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/_AWGP_gayatri_pariwar_outputs/OUTPUT_00223_ffmpeg_create_html_listing_of_mp3_files_with_their_duration_lengths_in_hours_mins_secs.html",
-    "ANCHORTEXT": "My AWGP MP3 DURATIONS LISTING (HTML)"
+    "ANCHORTEXT": "My AWGP MP3 LISTING (HTML)"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
@@ -938,6 +938,11 @@
     "CATEGORY": "11-WORDS + VOCABULARY",
     "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/_pali_github_scripts_outputs/_AWGP_gayatri_pariwar_outputs/v1_awgp_merged_full_book_catalog.csv",
     "ANCHORTEXT": "My AWGP Books Catalog (CSV)"
+  },
+  {
+    "CATEGORY": "11-WORDS + VOCABULARY",
+    "URL": "https://public-palibucket.objects-us-east-1.dream.io/awgp/index_books.html",
+    "ANCHORTEXT": "My AWGP MP3 LISTING (HTML + AUDIO_PLAYER)"
   },
   {
     "CATEGORY": "11-WORDS + VOCABULARY",
