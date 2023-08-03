@@ -526,8 +526,13 @@
   },
   {
     "CATEGORY": "07-SCHOOL",
+    "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/adoria-apps/finland-plants-list-for-school-class-4B/list-of-plant-breeds-class-4B.html",
+    "ANCHORTEXT": "List of Finnish Plants (class 4B)"
+  },
+  {
+    "CATEGORY": "07-SCHOOL",
     "URL": "https://downloads.concepro.com/dropbox-public-files/LCE/adoria-apps/finland-plants-list-for-school/list-of-plant-breeds.html",
-    "ANCHORTEXT": "List of Finnish Plants"
+    "ANCHORTEXT": "List of Finnish Plants (class 3B)"
   },
   {
     "CATEGORY": "07-SCHOOL",
