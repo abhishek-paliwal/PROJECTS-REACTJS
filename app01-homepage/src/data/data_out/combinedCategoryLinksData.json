@@ -221,13 +221,13 @@
   },
   {
     "CATEGORY": "03-CONCEPRO",
-    "URL": "https://virre.prh.fi/novus/companySearch?execution=e2s1",
-    "ANCHORTEXT": "Finland- Company Search"
+    "URL": "https://test.concepro.com/wp-admin",
+    "ANCHORTEXT": "Test Concepro Login (Wordpress)"
   },
   {
     "CATEGORY": "03-CONCEPRO",
-    "URL": "https://www.concepro.com/wp-admin",
-    "ANCHORTEXT": "Concepro Login (Wordpress)"
+    "URL": "https://virre.prh.fi/novus/companySearch?execution=e2s1",
+    "ANCHORTEXT": "Finland- Company Search"
   },
   {
     "CATEGORY": "04-PROGRAMMING",
