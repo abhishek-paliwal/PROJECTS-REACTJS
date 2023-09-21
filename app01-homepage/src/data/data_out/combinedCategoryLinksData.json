@@ -291,6 +291,11 @@
   },
   {
     "CATEGORY": "04-PROGRAMMING",
+    "URL": "https://ssmllint.com/",
+    "ANCHORTEXT": "SSMl Linter - SSML validator"
+  },
+  {
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://stackabuse.com/how-to-format-dates-in-python/",
     "ANCHORTEXT": "Python - Date formatting"
   },
