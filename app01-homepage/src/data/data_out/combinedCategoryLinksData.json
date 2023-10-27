@@ -1436,6 +1436,11 @@
   },
   {
     "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://learn.deeplearning.ai/",
+    "ANCHORTEXT": "DeepLearning.ai - Courses"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
     "URL": "https://milhidaka.github.io/chainer-image-caption/",
     "ANCHORTEXT": "Generating image captions"
   },
