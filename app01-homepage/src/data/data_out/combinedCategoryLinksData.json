@@ -1426,18 +1426,13 @@
   },
   {
     "CATEGORY": "17-AI-TOOLS",
-    "URL": "https://huggingface.co/spaces/nielsr/comparing-captioning-models",
-    "ANCHORTEXT": "Huggingface - Comparing image captioning models"
+    "URL": "https://huggingface.co/models",
+    "ANCHORTEXT": "Huggingface Models"
   },
   {
     "CATEGORY": "17-AI-TOOLS",
     "URL": "https://huggingface.co/spaces/stabilityai/stable-diffusion",
     "ANCHORTEXT": "Stable Diffusion Playground1"
-  },
-  {
-    "CATEGORY": "17-AI-TOOLS",
-    "URL": "https://learn.deeplearning.ai/",
-    "ANCHORTEXT": "DeepLearning.ai - Courses"
   },
   {
     "CATEGORY": "17-AI-TOOLS",
@@ -1478,6 +1473,11 @@
     "CATEGORY": "18-MACHINELEARNING-COURSES",
     "URL": "https://developers.google.com/machine-learning",
     "ANCHORTEXT": "ML courses by google"
+  },
+  {
+    "CATEGORY": "18-MACHINELEARNING-COURSES",
+    "URL": "https://learn.deeplearning.ai/",
+    "ANCHORTEXT": "DeepLearning.ai - Courses"
   },
   {
     "CATEGORY": "18-MACHINELEARNING-COURSES",

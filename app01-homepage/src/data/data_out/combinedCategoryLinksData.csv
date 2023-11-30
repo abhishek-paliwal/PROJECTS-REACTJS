@@ -284,9 +284,8 @@ CATEGORY;URL;ANCHORTEXT
 17-AI-TOOLS;https://cloud.google.com/text-to-speech/#section-2;Google Cloud Text-to-Speech Voices API Demo
 17-AI-TOOLS;https://cloud.google.com/text-to-speech/docs/voices;Google Cloud Text-to-Speech Voices List
 17-AI-TOOLS;https://github.com/TencentARC/GFPGAN;Github Repo - AI (neural) photo+face restoration by python
-17-AI-TOOLS;https://huggingface.co/spaces/nielsr/comparing-captioning-models;Huggingface - Comparing image captioning models
+17-AI-TOOLS;https://huggingface.co/models;Huggingface Models
 17-AI-TOOLS;https://huggingface.co/spaces/stabilityai/stable-diffusion;Stable Diffusion Playground1
-17-AI-TOOLS;https://learn.deeplearning.ai/;DeepLearning.ai - Courses
 17-AI-TOOLS;https://milhidaka.github.io/chainer-image-caption/;Generating image captions
 17-AI-TOOLS;https://openai.com/dall-e-2/;Dall-E.2 login
 17-AI-TOOLS;https://portal.vision.cognitive.azure.com/demo/image-captioning;AZURE Vision_Studio - Genrerate image captions
@@ -295,5 +294,6 @@ CATEGORY;URL;ANCHORTEXT
 18-MACHINELEARNING-COURSES;https://console.paperspace.com/abpa2023/projects/;Paperspace Projects (by digital ocean)
 18-MACHINELEARNING-COURSES;https://course.fast.ai/;FastAI - Deep learning course
 18-MACHINELEARNING-COURSES;https://developers.google.com/machine-learning;ML courses by google
+18-MACHINELEARNING-COURSES;https://learn.deeplearning.ai/;DeepLearning.ai - Courses
 18-MACHINELEARNING-COURSES;https://www.kaggle.com/learn;Kaggle Courses
 99-TMP-LINKS;https://www.mygingergarlickitchen.com;mygingergarlickitchen.com
