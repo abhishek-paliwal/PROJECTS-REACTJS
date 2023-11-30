@@ -1460,6 +1460,31 @@
     "ANCHORTEXT": "Stable Diffusion Playground2"
   },
   {
+    "CATEGORY": "18-MACHINELEARNING-COURSES",
+    "URL": "https://colab.research.google.com/",
+    "ANCHORTEXT": "Google Colab"
+  },
+  {
+    "CATEGORY": "18-MACHINELEARNING-COURSES",
+    "URL": "https://console.paperspace.com/abpa2023/projects/",
+    "ANCHORTEXT": "Paperspace Projects (by digital ocean)"
+  },
+  {
+    "CATEGORY": "18-MACHINELEARNING-COURSES",
+    "URL": "https://course.fast.ai/",
+    "ANCHORTEXT": "FastAI - Deep learning course"
+  },
+  {
+    "CATEGORY": "18-MACHINELEARNING-COURSES",
+    "URL": "https://developers.google.com/machine-learning",
+    "ANCHORTEXT": "ML courses by google"
+  },
+  {
+    "CATEGORY": "18-MACHINELEARNING-COURSES",
+    "URL": "https://www.kaggle.com/learn",
+    "ANCHORTEXT": "Kaggle Courses"
+  },
+  {
     "CATEGORY": "99-TMP-LINKS",
     "URL": "https://www.mygingergarlickitchen.com",
     "ANCHORTEXT": "mygingergarlickitchen.com"
