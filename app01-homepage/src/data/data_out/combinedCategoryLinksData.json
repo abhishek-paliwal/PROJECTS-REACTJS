@@ -1481,6 +1481,11 @@
   },
   {
     "CATEGORY": "18-MACHINELEARNING-COURSES",
+    "URL": "https://www.cloudskillsboost.google/paths/",
+    "ANCHORTEXT": "Google CloudSkills Paths - Courses"
+  },
+  {
+    "CATEGORY": "18-MACHINELEARNING-COURSES",
     "URL": "https://www.kaggle.com/learn",
     "ANCHORTEXT": "Kaggle Courses"
   },
