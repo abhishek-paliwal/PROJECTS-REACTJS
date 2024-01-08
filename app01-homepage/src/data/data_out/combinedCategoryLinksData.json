@@ -1125,6 +1125,11 @@
     "ANCHORTEXT": "Exiftool examples"
   },
   {
+    "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://www.ivarch.com/programs/pv.shtml",
+    "ANCHORTEXT": "pv (pipeviewer progress meter)"
+  },
+  {
     "CATEGORY": "13-WEBAPPS-BY-US",
     "URL": "https://192.168.3.16/pi03-plotting-outputs/_TMP_PI03_PYTHON_TEMPERATURE_PLOTS_PROGRAM_OUTPUT.html",
     "ANCHORTEXT": "RPI4 -Temperature Plots"
