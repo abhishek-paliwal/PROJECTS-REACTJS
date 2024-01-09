@@ -46,6 +46,11 @@
   },
   {
     "CATEGORY": "01-MGGK",
+    "URL": "https://reporting.mediavine.com/sites/16090/",
+    "ANCHORTEXT": "MGGK Mediavine Login Dashboard"
+  },
+  {
+    "CATEGORY": "01-MGGK",
     "URL": "https://search.google.com/test/rich-results",
     "ANCHORTEXT": "GOOGLE LD+JSON Rich Testing Tool"
   },
