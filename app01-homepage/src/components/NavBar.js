@@ -36,40 +36,32 @@ const NavBar = () => {
           </ul>
         </li>
 
-
         <li className="nav-item">
-          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.concepro.com/">Concepro</a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.leelasrecipes.com/">LeelasRecipes</a>
-        </li>        
-        <li className="nav-item">
-          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://adoria.xyz/">Ado.xyz</a>
+          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.mygingergarlickitchen.com/">MGGK</a>
         </li>
 
         <li className="nav-item">
-          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpaliwal.fi/">AP.FI</a>
+          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.keysearch.co/user/login">KeySearch</a>
         </li>
 
-        <li className="nav-item">
-          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.hashbanghacks.online">#!HACKS</a>
+        <li className="nav-item dropdown">
+          <a className="nav-link dropdown-toggle" target="_blank" rel="noreferrer noopener" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            OUR SITES
+          </a>
+          <ul className="dropdown-menu" aria-labelledby="navbarDropdown2">
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://notes.abhishekpali.us/">Notes.abhishekpali.us</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.concepro.com/">Concepro</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.leelasrecipes.com/">LeelasRecipes</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://adoria.xyz/">Ado.xyz</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpaliwal.fi/">AbhishekPaliwal.fi</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.hashbanghacks.online">#!HACKS</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpali.us/">AbhishekPali.us</a></li>
+            <li><hr className="dropdown-divider" /></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://downloads.concepro.com/dropbox-public-files/LCE/big_bold_random_quotes.html">Want-Wisdom?</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://downloads.concepro.com/dropbox-public-files/LCE/personal_shorturl_creator.html">URL-Shorteners</a></li>
+          </ul>
         </li>
 
-        <li className="nav-item">
-          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpali.us/">AbhishekPali.us</a>
-        </li>
-
-        <li className="nav-item">
-          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://notes.abhishekpali.us/">Notes.AP</a>
-        </li>
-
-        <li className="nav-item">
-          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://downloads.concepro.com/dropbox-public-files/LCE/big_bold_random_quotes.html">Want-Wisdom?</a>
-        </li>
-
-        <li className="nav-item">
-          <a className="nav-link" target="_blank" rel="noreferrer noopener" href="https://downloads.concepro.com/dropbox-public-files/LCE/personal_shorturl_creator.html">URL-Shorteners</a>
-        </li>
 
         <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" id="navbarDropdown1" role="button" data-bs-toggle="dropdown" aria-expanded="false" href="/">
