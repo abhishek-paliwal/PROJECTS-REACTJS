@@ -811,6 +811,11 @@
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://favicon.io/favicon-converter/",
+    "ANCHORTEXT": " Favicon Generator with HTML Code"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
     "URL": "https://github.com/ibraheemdev/modern-unix",
     "ANCHORTEXT": "LINUX-FU modern-unix COMMANDS LIST"
   },
@@ -843,11 +848,6 @@
     "CATEGORY": "10-MISC-SOFTWARE",
     "URL": "https://portal.azure.com/",
     "ANCHORTEXT": "Microsoft Azure Portal Login"
-  },
-  {
-    "CATEGORY": "10-MISC-SOFTWARE",
-    "URL": "https://realfavicongenerator.net/",
-    "ANCHORTEXT": " Favicon Generator with HTML Code"
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
