@@ -866,6 +866,11 @@
   },
   {
     "CATEGORY": "10-MISC-SOFTWARE",
+    "URL": "https://svgomg.net/",
+    "ANCHORTEXT": "svg optimizer"
+  },
+  {
+    "CATEGORY": "10-MISC-SOFTWARE",
     "URL": "https://unsplash.com/wallpaper",
     "ANCHORTEXT": "Unsplash-Wallpapers"
   },
