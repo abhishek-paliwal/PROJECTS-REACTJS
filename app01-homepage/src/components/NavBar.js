@@ -46,7 +46,7 @@ const NavBar = () => {
 
         <li className="nav-item dropdown">
           <a className="nav-link dropdown-toggle" target="_blank" rel="noreferrer noopener" href="https://app01-homepage.vercel.app/" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            OUR SITES
+            Our-Sites
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown2">
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://notes.abhishekpali.us/">Notes.abhishekpali.us</a></li>
