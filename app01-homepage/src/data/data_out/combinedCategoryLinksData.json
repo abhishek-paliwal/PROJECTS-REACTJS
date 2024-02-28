@@ -1106,6 +1106,11 @@
   },
   {
     "CATEGORY": "12-CLI-TOOLS",
+    "URL": "https://remark42.myginger.us/web/",
+    "ANCHORTEXT": "remark42.myginger.us/web/"
+  },
+  {
+    "CATEGORY": "12-CLI-TOOLS",
     "URL": "https://stedolan.github.io/jq/manual/#Basicfilters",
     "ANCHORTEXT": "jq (json manipulator tutorial)"
   },
