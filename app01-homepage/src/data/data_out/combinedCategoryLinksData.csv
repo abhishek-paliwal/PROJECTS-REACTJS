@@ -291,6 +291,7 @@ CATEGORY;URL;ANCHORTEXT
 17-AI-TOOLS;https://huggingface.co/spaces/stabilityai/stable-diffusion;Stable Diffusion Playground1
 17-AI-TOOLS;https://milhidaka.github.io/chainer-image-caption/;Generating image captions
 17-AI-TOOLS;https://openai.com/dall-e-2/;Dall-E.2 login
+17-AI-TOOLS;https://platform.openai.com/usage;chatGPT - openai API usage
 17-AI-TOOLS;https://portal.vision.cognitive.azure.com/demo/image-captioning;AZURE Vision_Studio - Genrerate image captions
 17-AI-TOOLS;https://stablediffusionweb.com/#features;Stable Diffusion Playground2
 18-MACHINELEARNING-COURSES;https://colab.research.google.com/;Google Colab
