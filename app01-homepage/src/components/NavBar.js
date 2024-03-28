@@ -54,7 +54,7 @@ const NavBar = () => {
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.leelasrecipes.com/">LeelasRecipes</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://adoria.xyz/">Ado.xyz</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpaliwal.fi/">AbhishekPaliwal.fi</a></li>
-            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.hashbanghacks.online">#!HACKS</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.hashbanghacks.store">#!HACKS</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpali.us/">AbhishekPali.us</a></li>
             <li><hr className="dropdown-divider" /></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://downloads.concepro.com/dropbox-public-files/LCE/big_bold_random_quotes.html">Want-Wisdom?</a></li>
