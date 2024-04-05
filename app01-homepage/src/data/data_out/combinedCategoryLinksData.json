@@ -1316,12 +1316,12 @@
   },
   {
     "CATEGORY": "14-REACT-APPS",
-    "URL": "https://app-mggk01-image-finder.vercel.app/",
+    "URL": "https://app-mggk01-image-finder.pages.dev/",
     "ANCHORTEXT": "React Vercel - app-mggk01-image-finder"
   },
   {
     "CATEGORY": "14-REACT-APPS",
-    "URL": "https://app-mggk01-image-finder.vercel.app/unitscalculator",
+    "URL": "https://app-mggk01-image-finder.pages.dev/unitscalculator",
     "ANCHORTEXT": "React Vercel - app-mggk01-image-finder (UnitsCalculator)"
   },
   {
@@ -1331,7 +1331,7 @@
   },
   {
     "CATEGORY": "14-REACT-APPS",
-    "URL": "https://app01-homepage.vercel.app/",
+    "URL": "https://app01-homepage.pages.dev/",
     "ANCHORTEXT": "React Vercel - app01-homepage"
   },
   {
@@ -1341,7 +1341,7 @@
   },
   {
     "CATEGORY": "14-REACT-APPS",
-    "URL": "https://app02-foodblogfeeds.vercel.app/",
+    "URL": "https://app02-foodblogfeeds.pages.dev/",
     "ANCHORTEXT": "React Vercel - app02-foodblogfeeds"
   },
   {
@@ -1621,7 +1621,7 @@
   },
   {
     "CATEGORY": "99-TMP-LINKS",
-    "URL": "https://app01-homepage.vercel.app",
+    "URL": "https://app01-homepage.pages.dev",
     "ANCHORTEXT": "Our Homepage"
   }
 ]

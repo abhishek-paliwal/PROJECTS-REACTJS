@@ -32,7 +32,7 @@ const NavBar = () => {
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.verywellfit.com/recipe-nutrition-analyzer-4157076">Recipe Nutrition Analyzer</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://websiteseochecker.com/domain-authority-checker/">DA Checker (Domain authority)</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.whois.com/whois">Whois Checker</a></li>
-            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app-mggk01-image-finder.vercel.app/unitscalculator">MGGK App - UnitsCalculator</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app-mggk01-image-finder.pages.dev/unitscalculator">MGGK App - UnitsCalculator</a></li>
           </ul>
         </li>
 
@@ -45,7 +45,7 @@ const NavBar = () => {
         </li>
 
         <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" target="_blank" rel="noreferrer noopener" href="https://app01-homepage.vercel.app/" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a className="nav-link dropdown-toggle" target="_blank" rel="noreferrer noopener" href="https://app01-homepage.pages.dev/" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Our-Sites
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown2">
@@ -83,9 +83,9 @@ const NavBar = () => {
             Apps
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown2">
-            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app01-homepage.vercel.app">app01-homepage</a></li>
-            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app-mggk01-image-finder.vercel.app">app-mggk01-image-finder</a></li>
-            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app02-foodblogfeeds.vercel.app">app02-foodblogfeeds</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app01-homepage.pages.dev">app01-homepage</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app-mggk01-image-finder.pages.dev">app-mggk01-image-finder</a></li>
+            <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app02-foodblogfeeds.pages.dev">app02-foodblogfeeds</a></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://app04-openmultiplelinks.abhishekpali.us/index.html">app04-openmultiplelinks</a></li>
             <li><hr className="dropdown-divider" /></li>
             <li><a className="dropdown-item" target="_blank" rel="noreferrer noopener" href="https://www.abhishekpali.us/apps/app01-openpgp-encrypt-decrypt/">vanillaJS - app01-openpgp-encrypt-decrypt</a></li>

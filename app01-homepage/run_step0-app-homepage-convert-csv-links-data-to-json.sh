@@ -2,8 +2,9 @@
 ################################################################################
 ## set variables
 PROJECT_NAME="app01-homepage" ;
-PROJECT_APP_URL="https://app01-homepage.vercel.app" ;
+#PROJECT_APP_URL="https://app01-homepage.vercel.app" ;
 #PROJECT_APP_URL="https://app01-homepage.abhishekpali.us/index.html" ;
+PROJECT_APP_URL="https://app01-homepage.pages.dev" ;
 ##
 PROJECT_DATA_DIR="$REPO_REACTJS/$PROJECT_NAME/src/data" ;
 PROJECT_DATA_DIR_IN="$REPO_REACTJS/$PROJECT_NAME/src/data/data_in" ;
