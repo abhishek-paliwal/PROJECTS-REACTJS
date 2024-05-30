@@ -391,6 +391,11 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
+    "URL": "https://espoo.terveytesi.fi/citizenportal/#/login",
+    "ANCHORTEXT": "Espoo-city Dentist-Doctor Appointment"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
     "URL": "https://hushed.com/",
     "ANCHORTEXT": "Hushed - Get USA Phone Number"
   },
