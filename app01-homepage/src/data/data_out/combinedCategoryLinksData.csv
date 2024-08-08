@@ -286,6 +286,7 @@ CATEGORY;URL;ANCHORTEXT
 16-ONLINE-COURSES;https://www.udemy.com/;UDEMY
 17-AI-TOOLS;https://bing.com/create;Bing AI - Create Images (uses Dall-E.2)
 17-AI-TOOLS;https://chat.openai.com/auth/login;chatGPT login
+17-AI-TOOLS;https://civitai.com/models;CivitAI Image Models
 17-AI-TOOLS;https://cloud.google.com/text-to-speech/#section-2;Google Cloud Text-to-Speech Voices API Demo
 17-AI-TOOLS;https://cloud.google.com/text-to-speech/docs/voices;Google Cloud Text-to-Speech Voices List
 17-AI-TOOLS;https://github.com/TencentARC/GFPGAN;Github Repo - AI (neural) photo+face restoration by python

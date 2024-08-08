@@ -1436,6 +1436,11 @@
   },
   {
     "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://civitai.com/models",
+    "ANCHORTEXT": "CivitAI Image Models"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
     "URL": "https://cloud.google.com/text-to-speech/#section-2",
     "ANCHORTEXT": "Google Cloud Text-to-Speech Voices API Demo"
   },
