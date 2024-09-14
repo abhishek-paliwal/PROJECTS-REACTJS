@@ -235,6 +235,11 @@
     "ANCHORTEXT": "Finland- Company Search"
   },
   {
+    "CATEGORY": "03-CONCEPRO",
+    "URL": "https://www.domainhotelli.fi/asiakkaat/login",
+    "ANCHORTEXT": "domainhotelli - Login"
+  },
+  {
     "CATEGORY": "04-PROGRAMMING",
     "URL": "https://analytics.google.com/analytics/web/#/p251225617/reports/reportinghub",
     "ANCHORTEXT": "Google Analytics"
