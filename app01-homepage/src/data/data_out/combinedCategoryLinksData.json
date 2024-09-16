@@ -296,6 +296,11 @@
   },
   {
     "CATEGORY": "04-PROGRAMMING",
+    "URL": "https://play.google.com/books",
+    "ANCHORTEXT": "Google Play Books - Login"
+  },
+  {
+    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://search.google.com/search-console?utm_source=about-page&resource_id=https://www.mygingergarlickitchen.com/",
     "ANCHORTEXT": "Google Search Console"
   },
