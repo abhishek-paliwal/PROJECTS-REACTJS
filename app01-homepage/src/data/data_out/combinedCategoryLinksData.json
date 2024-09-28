@@ -511,6 +511,11 @@
   },
   {
     "CATEGORY": "06-TRAVEL",
+    "URL": "https://en.ilmatieteenlaitos.fi/auroras-and-space-weather?station=NUR",
+    "ANCHORTEXT": "Aurora - fmi"
+  },
+  {
+    "CATEGORY": "06-TRAVEL",
     "URL": "https://en.ilmatieteenlaitos.fi/weather/espoo/kivenlahti",
     "ANCHORTEXT": "Weather - Kivenlahti Finland (FMI.fi)"
   },
@@ -523,6 +528,11 @@
     "CATEGORY": "06-TRAVEL",
     "URL": "https://reittiopas.hsl.fi/reitti/Merivalkama%2C%20Espoo%3A%3A60.153899%2C24.633325/Espoonlahden%20uimahalli%2C%20Espoonlahdenkuja%204%2C%20Espoo%3A%3A60.14668%2C24.659337",
     "ANCHORTEXT": "HSL - Merivalkama → Espoonlahti-uimahalli"
+  },
+  {
+    "CATEGORY": "06-TRAVEL",
+    "URL": "https://rwc-finland.fmi.fi/index.php/all-sky-camera-images/",
+    "ANCHORTEXT": "Aurora - sky cameras"
   },
   {
     "CATEGORY": "06-TRAVEL",
