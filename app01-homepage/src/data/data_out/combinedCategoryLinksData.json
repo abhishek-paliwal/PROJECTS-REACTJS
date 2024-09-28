@@ -1481,6 +1481,11 @@
   },
   {
     "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://developers.cloudflare.com/workers-ai/models/",
+    "ANCHORTEXT": "Cloudflare Workers AI models"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
     "URL": "https://github.com/TencentARC/GFPGAN",
     "ANCHORTEXT": "Github Repo - AI (neural) photo+face restoration by python"
   },
