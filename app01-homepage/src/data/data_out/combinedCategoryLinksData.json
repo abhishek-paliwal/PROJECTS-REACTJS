@@ -361,6 +361,11 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
+    "URL": "http://192.168.3.86:32400/web/index.html",
+    "ANCHORTEXT": "Plex local server"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
     "URL": "https://corporate.nordea.fi/#!/",
     "ANCHORTEXT": "Banking - Nordea Corporate Login"
   },
