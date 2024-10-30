@@ -1567,12 +1567,17 @@
   {
     "CATEGORY": "18-MACHINELEARNING-COURSES",
     "URL": "https://learn.deeplearning.ai/",
-    "ANCHORTEXT": "DeepLearning.ai - Courses"
+    "ANCHORTEXT": "DeepLearning.ai - Short Courses"
   },
   {
     "CATEGORY": "18-MACHINELEARNING-COURSES",
     "URL": "https://www.cloudskillsboost.google/paths/",
     "ANCHORTEXT": "Google CloudSkills Paths - Courses"
+  },
+  {
+    "CATEGORY": "18-MACHINELEARNING-COURSES",
+    "URL": "https://www.deeplearning.ai/courses/",
+    "ANCHORTEXT": "DeepLearning.ai - All Courses"
   },
   {
     "CATEGORY": "18-MACHINELEARNING-COURSES",
