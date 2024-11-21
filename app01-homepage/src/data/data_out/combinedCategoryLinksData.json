@@ -816,6 +816,11 @@
   },
   {
     "CATEGORY": "09-WEB-DEVELOPMENT",
+    "URL": "https://www.mkdocs.org/getting-started/",
+    "ANCHORTEXT": "MKdocs Documentation Creator"
+  },
+  {
+    "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://www.smashingmagazine.com/",
     "ANCHORTEXT": "SMASHING Magazine"
   },
