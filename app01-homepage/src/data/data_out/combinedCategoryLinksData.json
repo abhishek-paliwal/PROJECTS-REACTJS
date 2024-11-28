@@ -816,6 +816,11 @@
   },
   {
     "CATEGORY": "09-WEB-DEVELOPMENT",
+    "URL": "https://squidfunk.github.io/mkdocs-material/setup/",
+    "ANCHORTEXT": "MKdocs help"
+  },
+  {
+    "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://www.mkdocs.org/getting-started/",
     "ANCHORTEXT": "MKdocs Documentation Creator"
   },
