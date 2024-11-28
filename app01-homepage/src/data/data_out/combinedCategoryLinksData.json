@@ -817,7 +817,7 @@
   {
     "CATEGORY": "09-WEB-DEVELOPMENT",
     "URL": "https://squidfunk.github.io/mkdocs-material/setup/",
-    "ANCHORTEXT": "MKdocs help"
+    "ANCHORTEXT": "MKdocs-Material-Theme help"
   },
   {
     "CATEGORY": "09-WEB-DEVELOPMENT",
@@ -1652,12 +1652,12 @@
   {
     "CATEGORY": "20-business-entrepreneurship-jobs",
     "URL": "https://koske-newsletter.espoo.fi/a/s/86240024-970b8b9cc626ff229ce82de42c558025/1813557",
-    "ANCHORTEXT": "koske-newsletter (march 2024)"
+    "ANCHORTEXT": "koske-newsletter (march-2024)"
   },
   {
     "CATEGORY": "20-business-entrepreneurship-jobs",
     "URL": "https://koske-newsletter.espoo.fi/a/s/86240024-d8b5a92790448cb68daf36d7c363e593/1849668",
-    "ANCHORTEXT": "koske-newsletter (april 2024)"
+    "ANCHORTEXT": "koske-newsletter (april-2024)"
   },
   {
     "CATEGORY": "20-business-entrepreneurship-jobs",
@@ -1673,6 +1673,11 @@
     "CATEGORY": "20-business-entrepreneurship-jobs",
     "URL": "https://valtiolle.fi/",
     "ANCHORTEXT": "Valtiolle"
+  },
+  {
+    "CATEGORY": "20-business-entrepreneurship-jobs",
+    "URL": "https://www.abhishekpaliwal.fi/apps_redirections/careerpath/site/",
+    "ANCHORTEXT": "careerpath-website (nov-2024)"
   },
   {
     "CATEGORY": "20-business-entrepreneurship-jobs",
