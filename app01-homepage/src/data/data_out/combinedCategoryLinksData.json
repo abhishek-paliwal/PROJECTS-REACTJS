@@ -256,11 +256,6 @@
   },
   {
     "CATEGORY": "04-PROGRAMMING",
-    "URL": "https://api.cloudflare.com/#cloudflare-images-properties",
-    "ANCHORTEXT": "Cloudflare API docs"
-  },
-  {
-    "CATEGORY": "04-PROGRAMMING",
     "URL": "https://app.short.io/users/dashboard/325285/links",
     "ANCHORTEXT": "SHORT.IO (URL shortener)"
   },
@@ -268,11 +263,6 @@
     "CATEGORY": "04-PROGRAMMING",
     "URL": "https://cloud.digitalocean.com/login",
     "ANCHORTEXT": "DigitalOcean Login"
-  },
-  {
-    "CATEGORY": "04-PROGRAMMING",
-    "URL": "https://core.telegram.org/bots/api#sendmessage",
-    "ANCHORTEXT": "Telegram API Usage"
   },
   {
     "CATEGORY": "04-PROGRAMMING",
@@ -778,11 +768,6 @@
     "CATEGORY": "08-DESIGNING",
     "URL": "https://www.vanschneider.com/colors/",
     "ANCHORTEXT": "Tobias Van Schneider - ColorClaim"
-  },
-  {
-    "CATEGORY": "09-WEB-DEVELOPMENT",
-    "URL": "https://chart.googleapis.com/chart?chs=520x520&cht=qr&chl=https://www.concepro.com",
-    "ANCHORTEXT": "Google Barcode Creator"
   },
   {
     "CATEGORY": "09-WEB-DEVELOPMENT",
@@ -1713,6 +1698,36 @@
     "CATEGORY": "20-business-entrepreneurship-jobs",
     "URL": "https://www.workinfinland.com/en/open-jobs/",
     "ANCHORTEXT": "Work in Finland"
+  },
+  {
+    "CATEGORY": "21-API-DASHBOARDS",
+    "URL": "https://api.cloudflare.com/#cloudflare-images-properties",
+    "ANCHORTEXT": "Cloudflare API docs"
+  },
+  {
+    "CATEGORY": "21-API-DASHBOARDS",
+    "URL": "https://console.anthropic.com/settings/keys",
+    "ANCHORTEXT": "Claude Anthropic api dashboard"
+  },
+  {
+    "CATEGORY": "21-API-DASHBOARDS",
+    "URL": "https://console.groq.com/keys",
+    "ANCHORTEXT": "Groq api dashboard"
+  },
+  {
+    "CATEGORY": "21-API-DASHBOARDS",
+    "URL": "https://console.mistral.ai/api-keys/",
+    "ANCHORTEXT": "Mistral api dashboard"
+  },
+  {
+    "CATEGORY": "21-API-DASHBOARDS",
+    "URL": "https://core.telegram.org/bots/api#sendmessage",
+    "ANCHORTEXT": "Telegram API Usage"
+  },
+  {
+    "CATEGORY": "21-API-DASHBOARDS",
+    "URL": "https://www.virustotal.com/gui/user/ferry007/apikey",
+    "ANCHORTEXT": "VirusTotal api dashboard"
   },
   {
     "CATEGORY": "99-TMP-LINKS",

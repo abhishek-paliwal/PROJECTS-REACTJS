@@ -50,10 +50,8 @@ CATEGORY;URL;ANCHORTEXT
 03-CONCEPRO;https://virre.prh.fi/novus/companySearch?execution=e2s1;Finland- Company Search
 03-CONCEPRO;https://www.domainhotelli.fi/asiakkaat/login;domainhotelli - Login
 04-PROGRAMMING;https://analytics.google.com/analytics/web/#/p251225617/reports/reportinghub;Google Analytics
-04-PROGRAMMING;https://api.cloudflare.com/#cloudflare-images-properties;Cloudflare API docs
 04-PROGRAMMING;https://app.short.io/users/dashboard/325285/links;SHORT.IO (URL shortener)
 04-PROGRAMMING;https://cloud.digitalocean.com/login;DigitalOcean Login
-04-PROGRAMMING;https://core.telegram.org/bots/api#sendmessage;Telegram API Usage
 04-PROGRAMMING;https://dash.cloudflare.com/;Cloudflare Login
 04-PROGRAMMING;https://dash.cloudflare.com/sign-up/images;Cloudflare Images
 04-PROGRAMMING;https://drive.google.com/drive/my-drive;Google Drive
@@ -155,7 +153,6 @@ CATEGORY;URL;ANCHORTEXT
 08-DESIGNING;https://www.pixeden.com/psd-mock-up-templates;PIXEDEN
 08-DESIGNING;https://www.psdcovers.com/;PSDcovers
 08-DESIGNING;https://www.vanschneider.com/colors/;Tobias Van Schneider - ColorClaim
-09-WEB-DEVELOPMENT;https://chart.googleapis.com/chart?chs=520x520&cht=qr&chl=https://www.concepro.com;Google Barcode Creator
 09-WEB-DEVELOPMENT;https://getbootstrap.com/docs/5.0/getting-started/introduction/;Bootstrap 5
 09-WEB-DEVELOPMENT;https://getbootstrap.com/docs/5.1/components/;Bootstrap 5 - Components
 09-WEB-DEVELOPMENT;https://html-cleaner.com;HTML cleaner
@@ -342,4 +339,10 @@ CATEGORY;URL;ANCHORTEXT
 20-business-entrepreneurship-jobs;https://www.jobsportal.fi/;Jobsportal
 20-business-entrepreneurship-jobs;https://www.kuntarekry.fi/en/;Kuntarekry
 20-business-entrepreneurship-jobs;https://www.workinfinland.com/en/open-jobs/;Work in Finland
+21-API-DASHBOARDS;https://api.cloudflare.com/#cloudflare-images-properties;Cloudflare API docs
+21-API-DASHBOARDS;https://console.anthropic.com/settings/keys;Claude Anthropic api dashboard
+21-API-DASHBOARDS;https://console.groq.com/keys;Groq api dashboard
+21-API-DASHBOARDS;https://console.mistral.ai/api-keys/;Mistral api dashboard
+21-API-DASHBOARDS;https://core.telegram.org/bots/api#sendmessage;Telegram API Usage
+21-API-DASHBOARDS;https://www.virustotal.com/gui/user/ferry007/apikey;VirusTotal api dashboard
 99-TMP-LINKS;https://www.mygingergarlickitchen.com;mygingergarlickitchen.com
