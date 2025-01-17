@@ -1481,6 +1481,11 @@
   },
   {
     "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://chat.mistral.ai/chat",
+    "ANCHORTEXT": "Mistral Le Chat"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
     "URL": "https://chat.openai.com/auth/login",
     "ANCHORTEXT": "chatGPT login"
   },
