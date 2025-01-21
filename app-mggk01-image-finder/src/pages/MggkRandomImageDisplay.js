@@ -30,7 +30,7 @@ const MggkRandomImageDisplay = () => {
     // Find random number between two numbers 
     const randomImageNumber = Math.floor(Math.random() * (maxNum - minNum)) + minNum ;
     const randomImageUrl = Data[randomImageNumber].url ; 
-    const desiredLowRes = '550px' ; 
+    const desiredLowRes = '675px' ; 
     const randomLowResImageUrl = calculateLowResImageUrl(randomImageUrl, desiredLowRes) ; 
     console.log(randomImageNumber, randomImageUrl, randomLowResImageUrl) ; 
   
