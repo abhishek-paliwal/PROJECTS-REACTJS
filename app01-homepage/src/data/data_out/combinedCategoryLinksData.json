@@ -1521,6 +1521,11 @@
   },
   {
     "CATEGORY": "17-AI-TOOLS",
+    "URL": "https://huggingface.co/spaces/pandared/1-page-pdf-cv-maker",
+    "ANCHORTEXT": "huggingface - onepage pdf cv maker"
+  },
+  {
+    "CATEGORY": "17-AI-TOOLS",
     "URL": "https://huggingface.co/spaces/stabilityai/stable-diffusion",
     "ANCHORTEXT": "Stable Diffusion Playground1"
   },
