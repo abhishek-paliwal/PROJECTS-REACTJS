@@ -1736,6 +1736,11 @@
   },
   {
     "CATEGORY": "21-API-DASHBOARDS",
+    "URL": "https://openrouter.ai/settings/keys",
+    "ANCHORTEXT": "openrouter API dashboard"
+  },
+  {
+    "CATEGORY": "21-API-DASHBOARDS",
     "URL": "https://www.virustotal.com/gui/user/ferry007/apikey",
     "ANCHORTEXT": "VirusTotal api dashboard"
   },
