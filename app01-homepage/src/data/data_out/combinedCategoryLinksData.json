@@ -401,6 +401,11 @@
   },
   {
     "CATEGORY": "05-PERSONAL",
+    "URL": "https://ebank.danskebank.fi/en",
+    "ANCHORTEXT": "Banking - Danske Login"
+  },
+  {
+    "CATEGORY": "05-PERSONAL",
     "URL": "https://en.ytk.fi/",
     "ANCHORTEXT": "Banking - YTK"
   },
@@ -453,11 +458,6 @@
     "CATEGORY": "05-PERSONAL",
     "URL": "https://verkkoasiointi.elisa.fi/",
     "ANCHORTEXT": "Banking - OMA-ELISA"
-  },
-  {
-    "CATEGORY": "05-PERSONAL",
-    "URL": "https://www.danskebank.fi/en-fi/Personal/Pages/Personal.aspx?secsystem=JS",
-    "ANCHORTEXT": "Banking - Danske Login"
   },
   {
     "CATEGORY": "05-PERSONAL",
